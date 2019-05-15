@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "DEVREL - 開発者向けマーケティング支援サービス -"
+title: "DEVREL - Agency developer relations -"
 email: info@devrel.jp
-description: DevRelは開発者向けマーケティング施策です。私たちは企業の製品、サービスを広く開発者に知ってもらうためのDevRelをサポート、代行しています。
+description: The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://devre.jp" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://devre.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
