@@ -13,18 +13,18 @@ permalink: /
       <div class="row">
         <div class="col-md-3">
           <div class="tp-section-header">
-          <h2 class="tp-section-header__title">DEVREL</h2>
-            <h2 class="tp-section-header__title-ja is-ja">What is DevRel?</h2>
+          <h2 class="tp-section-header__title">DevRel?</h2>
+            <h2 class="tp-section-header__title-ja is-ja">デブレルとは？</h2>
           </div>
         </div>
         <div class="col-md-9">
           <h3 class="tp-header is-ja">About DEVREL(Developer Relations)</h3>
           <p class="tp-section__text is-ja">
-            <span class="tp-section__text-dot">■</span>「せっかく作ったサービスがなかなか広まらない」<br>
-            <span class="tp-section__text-dot">■</span>「大手は広告や営業力でばんばん攻めてくる」<br>
-            <span class="tp-section__text-dot">■</span>「他社とどう差別化を考えれば良いか分からない」<br>
-            IT技術の進歩によって、日々新しいサービスが生まれています。また、人気のあるサービスはあっという間に同じようなコンセプトのサービスが登場します。そのような中で他社とどう差別化し、どう広めていけば良いか頭を悩ませている方は多いでしょう。<br>
-            その一助になりえるのが DEVREL です。DEVREL とはDeveloper Relations（デベロッパーリレーションズ）の略で、外部の開発者とのつながりを形成し自社製品/サービスを知ってもらうためのマーケティング活動になります。
+            <span class="tp-section__text-dot">■</span> Can't spread service in the world<br>
+            <span class="tp-section__text-dot">■</span> Competiters are attacking with advertising and sales power<br>
+            <span class="tp-section__text-dot">■</span> Don't know how to make differs from other companies<br>
+            Advances in IT technology are creating new services every day. In addition, popular services come out with services of the same concept in a matter of seconds. Under such circumstances, there are many who are wondering how to differentiate from other companies and how to spread them. <br />
+            It is DEVREL that can help. DEVREL stands for Developer Relations, which is a marketing activity that forms links with external developers and makes them aware of their products / services.
           </p>
           <p>
             <div class="u-align-center mt2"><a href="/about" class="c-btn c-btn--viewmore">VIEW MORE</a></div>
@@ -33,31 +33,6 @@ permalink: /
       </div> <!-- / .row  -->
     </div><!-- /.container -->
   </section>
-
-  <section class="tp-section tp-section--gray">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3">
-          <div class="tp-section-header">
-          <h2 class="tp-section-header__title">NEWS</h2>
-            <h2 class="tp-section-header__title-ja is-ja">お知らせ</h2>
-          </div>
-        </div>
-        <div class="col-md-9">
-        <h3 class="tp-header is-ja">05/07 DevRel戦略シートダウンロード開始</h3>
-        <p class="tp-section__text is-ja">
-          DevRelでは施策が多岐に渡って存在します。そのすべてに満遍なく取り組むのはほぼ不可能です。そこで施策ごとに効果を算出し、取り組むべき施策を可視化できるシートを用意しました。
-          <a href="/storategy-template/">こちらのリンクよりダウンロード可能</a>です。
-        </p>
-        <h3 class="tp-header is-ja">03/18 コミュニティマーケティング基本のキ 配布開始</h3>
-        <p class="tp-section__text is-ja">
-          DevRelにおける大事な施策の一つ、開発者コミュニティを構築するためのコミュニティマーケティングに関するeBook「コミュニティマーケティング基本のキ」を配布開始しました。<a href="/ebook">こちらのリンクよりダウンロード可能</a>です。
-        </p>
-        </div> <!-- / .col  -->
-      </div> <!-- / .row  -->
-    </div><!-- /.container -->
-  </section>
-
 
   <a name="mission"></a>
   <section class="tp-section tp-section">
@@ -70,31 +45,31 @@ permalink: /
           </div>
         </div>
         <div class="col-md-9">
-            <h3 class="tp-header is-ja">開発者と製品/サービスを結びつけるマーケティング活動</h3>
+            <h3 class="tp-header is-ja">Marketing activities linking developers and products / services</h3>
             <p class="tp-section__text is-ja tp-section__text--pc">
-            マーケティングとは購入対象者に製品の情報を届ける活動です。開発者であってもそれは変わらず、彼らのところまで製品やサービス情報を届けなければなりません。開発者は広告を見ることがほとんどなく、効果は高くありません。そのため、ブログやミートアップの主催や参加、ソーシャルメディアを通じた購入などが効果的です。広告と対照的に、日々の活動が開発者と製品とを結びつけていきます。
+            Marketing is an activity that delivers your product information to customers. Even if it is a developer, it does not change, and it is necessary to deliver product and service information to them. Developers rarely see ads and are not effective. Therefore, hosting and participating in blogs and meetups, and purchasing through social media are effective. In contrast to advertising, day-to-day activities connect developers with products.
             </p>
             <h3 class="tp-header is-en">For whom and what world will be realized</h3>
             <div class="missionIcons clearfix">
               <dl class="missionIcons__item">
-                <dt><img src="assets/images/mission_mark01.png" alt="認知度"/></dt>
-                <dd class="is-ja">認知度</dd>
+                <dt><img src="assets/images/mission_mark01.png" alt="Awareness"/></dt>
+                <dd class="is-ja">Awareness</dd>
               </dl>
               <dl class="missionIcons__item">
-                <dt><img src="assets/images/mission_mark02.png" alt="利用者"/></dt>
-                <dd class="is-ja">利用者</dd>
+                <dt><img src="assets/images/mission_mark02.png" alt="User"/></dt>
+                <dd class="is-ja">User</dd>
               </dl>
               <dl class="missionIcons__item">
-                <dt><img src="assets/images/mission_mark03.png" alt="開発者情報活用"/></dt>
-                <dd class="is-ja">開発者情報活用</dd>
+                <dt><img src="assets/images/mission_mark03.png" alt="Utilize information"/></dt>
+                <dd class="is-ja">Utilize information</dd>
               </dl>
               <dl class="missionIcons__item">
-                <dt><img src="assets/images/mission_mark04.png" alt="広告予算"/></dt>
-                <dd class="is-ja">広告に頼らない</dd>
+                <dt><img src="assets/images/mission_mark04.png" alt="No Ads"/></dt>
+                <dd class="is-ja">No Ads</dd>
               </dl>
             </div><!--//.missionIcons-->
 
-          <p class="kaiketsu is-ja">DEVRELで解決しましょう！</p>
+          <p class="kaiketsu is-ja">Let's solve it by DEVREL!</p>
           <div class="u-align-center mt2"><a href="/mission" class="c-btn c-btn--viewmore">VIEW MORE</a></div>
         </div> <!-- / .col  -->
       </div> <!-- / .row  -->
@@ -112,9 +87,9 @@ permalink: /
           </div>
         </div>
         <div class="col-md-9">
-          <h3 class="tp-header is-ja">主なサービスと価格</h3>
+          <h3 class="tp-header is-ja">Main features and price</h3>
           <p class="tp-section__text is-ja tp-section__text--pc">
-          私たちはエバンジェリスト代行、ブログやドキュメントのライティング、イベント開催、コミュニティ育成をメインとしています。他にも動画の作成やデモコード作成、電子書籍の執筆など、DevRelに関する業務を全方位的に行っています。
+          We mainly focus on evangelists, writing blogs and documents, holding events, and fostering communities. In addition, I work on all aspects of DevRel, such as creating videos, creating demo codes, and writing electronic books.
           </p>
           <div class="serviceIcon clearfix">
             <dl class="serviceIcon__item">
@@ -140,8 +115,7 @@ permalink: /
 
           </div><!--//.serviceIcon-->
 
-          <p class="kaiketsu is-ja">DEVRELをもっと知ろう！</p>
-          <p class="kaiketsu is-en">For whom and what world will be realized</p>
+          <p class="kaiketsu is-ja">Know more detail of DEVREL!</p>
           <div class="u-align-center mt2"><a href="/service" class="c-btn c-btn--viewmore">VIEW MORE</a></div>
       </div> <!-- / .col  -->
     </div> <!-- / .row  -->
@@ -159,27 +133,24 @@ permalink: /
           </div>
         </div>
         <div class="col-md-9">
-          <h3 class="tp-header is-ja">活動を支援しています</h3>
+          <h3 class="tp-header is-ja">We support them</h3>
           <p class="tp-section__text is-ja tp-section__text-pc mb4">
-          国内外のテクノロジー系企業のDevRelを支援しています。スタートアップからエンタープライズ企業まで幅広く、テクノロジーもスマートフォンアプリ、Web、ブロックチェーンなど幅広く関わっています。
+          We support DevRel, a technology company inside and outside Japan. A wide range of technologies, from start-ups to enterprise companies, is involved in a wide range of technologies, including smartphone apps, the Web, and block chains.
           </p>
           <div class="clientIcon clearfix">
             <dl class="clientIcon__item">
               <dt><img src="assets/images/client01.png" alt="ニフクラ mobile backned"/></dt>
-              <dd class="is-ja">ニフクラ<br>mobile backned</dd>
-              <dd class="is-en">nifcloud<br>mobile backned</dd>
+              <dd class="is-ja">nifcloud<br>mobile backned</dd>
             </dl>
 
             <dl class="clientIcon__item">
               <dt><img src="assets/images/client02.png" alt="hifive"/></dt>
               <dd class="is-ja">hifive</dd>
-              <dd class="is-en">hifive</dd>
             </dl>
 
             <dl class="clientIcon__item">
               <dt><img src="assets/images/client04.png" alt="NTTコミュニケーションズ"/></dt>
-              <dd class="is-ja">NTTコミュニケーションズ</dd>
-              <dd class="is-en">NTT Communications Corporation</dd>
+              <dd class="is-ja">NTT Communications Corporation</dd>
             </dl>
           </div><!--//.clients-->
 
@@ -244,34 +215,24 @@ permalink: /
           <table>
             <tbody class="c-table__body">
               <tr class="c-table__row">
-                <th class="c-table__th is-ja">社名</th>
-                <td class="c-table__td is-ja">株式会社MOONGIFT</td>
-                <th class="c-table__th is-en">Company Name</th>
-                <td class="c-table__td is-en">MOONGIFT Inc.</td>
+                <th class="c-table__th is-ja">Company Name</th>
+                <td class="c-table__td is-ja">MOONGIFT Inc.</td>
               </tr>
               <tr class="c-table__row">
-                <th class="c-table__th is-ja">所在地</th>
-                <td class="c-table__td is-ja">〒231-0021 神奈川県横浜市中区日本大通7 日本大通7ビル 4F YBP</td>
-                <th class="c-table__th is-en">Address</th>
-                <td class="c-table__td is-en">〒231-0021 Nihon-ohdouri 7 Building 4F YBP, Nihon-ohdouri, Naka-ku, Yokohama-Shi, Kanagawa, Japan</td>
+                <th class="c-table__th is-ja">Address</th>
+                <td class="c-table__td is-ja">〒231-0021 Nihon-ohdouri 7 Building 4F YBP, Nihon-ohdouri, Naka-ku, Yokohama-Shi, Kanagawa, Japan</td>
               </tr>
               <tr class="c-table__row">
-                <th class="c-table__th is-ja">Eメール</th>
+                <th class="c-table__th is-ja">E-mail</th>
                 <td class="c-table__td is-ja">info@moongift.jp</td>
-                <th class="c-table__th is-en">e-mail</th>
-                <td class="c-table__td is-en">info@moongift.jp</td>
               </tr>
               <tr class="c-table__row">
-                <th class="c-table__th is-ja">役員</th>
-                <td class="c-table__td is-ja">代表取締役 中津川 篤司</td>
-                <th class="c-table__th is-en">Board Member</th>
-                <td class="c-table__td is-en">CEO Atsushi Nakatsugawa</td>
+                <th class="c-table__th is-ja">Board Member</th>
+                <td class="c-table__td is-ja">CEO Atsushi Nakatsugawa</td>
               </tr>
               <tr class="c-table__row">
-                <th class="c-table__th is-ja">資本金</th>
-                <td class="c-table__td is-ja">200万円</td>
-                <th class="c-table__th is-en">Capital Stock</th>
-                <td class="c-table__td is-en">¥2,000,000</td>
+                <th class="c-table__th is-ja">Capital Stock</th>
+                <td class="c-table__td is-ja">¥2,000,000</td>
               </tr>
             </tbody>
           </table>
@@ -296,9 +257,7 @@ permalink: /
         </div>
       </div>
       <div class="col-md-9">
-          <p class="is-ja">お問い合わせは以下にご連絡ください</p>
-          <p class="is-en">Contact is below.</p>
-
+          <p class="is-ja">Contact is below.</p>
         <div class="u-align-center mt8"><a href="/contact" class="c-btn c-btn--contact">CONTACT</a></div>
       </div>
     </div> <!-- / .row  -->

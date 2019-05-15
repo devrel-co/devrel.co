@@ -10,30 +10,27 @@ title: サービス
 			<div class="col-md-3">
 				<div class="tp-section-header">
 					<h2 class="tp-section-header__title">SERVICE</h2>
-					<h2 class="tp-section-header__title-ja is-ja">主なサービスと価格</h2>
+					<h2 class="tp-section-header__title-ja is-ja">サービスと価格</h2>
 				</div>
 			</div>
 			<div class="col-md-9">
-				<h3 class="tp-header is-ja">DEVRELの強みとサービス</h3>
+				<h3 class="tp-header is-ja">DevRel's Strengths and Services</h3>
 				<p class="tp-section__text is-ja tp-section__text--pc">
-        私たちはエバンジェリスト代行、ブログやドキュメントのライティング、イベント開催、コミュニティ育成をメインとしています。他にも動画の作成やデモコード作成、電子書籍の執筆など、DevRelに関する業務を全方位的に行っています。</p>
-				<h3 class="tp-header is-en">For whom and what world will be realized</h3>
-				<p class="tp-section__text is-en tp-section__text--pc">text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here. text will appear here.</p>
-
-				
+				We are mainly involved in promotional work, blog and document writing, event organization, and community creation. Other services, such as video creation, demo code creation, electronic document writing, etc., can also be handled by DevRel.
+				</p>
 				<div class="serviceCol clearfix">
 					<p class="serviceCol__ph"><img src="/assets/images/service_icon06.png" alt="コード"/></p>
 					<div class="serviceCol__detail">
 						<h3 class="serviceCol__title"><span>C</span>ode</h3>
 						<p class="serviceCol__subTitle is-ja">コード</p>
 						<p class="tp-section__text is-ja">
-							御社のフレームワーク、製品、APIを用いたデモアプリやライブラリなどを作成します。付属して、そのデモアプリの解説記事やチュートリアル記事の作成、ライブラリを用いたサンプルアプリなども作成します。開発者が御社の製品を使ったイメージを沸きやすくしたり、フレームワークを用いた作品例、APIをプログラミング言語から使いやすくする効果が得られます。
+						We create apps and libraries based on your framework, products, and APIs. We also create explanatory documents and tutorials for the demo app, as well as sample apps based on the library and provide these with the above. The developers will make your product images easier to upload, and make it easier to use sample products and the API from the programming language using your framework.
             </p>
-						<strong>主な提供サービス</strong>
+						<strong>Main Services</strong>
 						<ul>
-							<li>デモアプリ作成</li>
-							<li>ライブラリ作成</li>
-							<li>フレームワークを利用したフィードバック</li>
+							<li>Demo app creation</li>
+							<li>Library creation</li>
+							<li>Feedback using a framework</li>
 						</ul>
 					</div>
 				</div><!--//serviceCol-->
@@ -43,16 +40,16 @@ title: サービス
 					<div class="serviceCol__detail">
 						<h3 class="serviceCol__title"><span>C</span>ontent</h3>
 						<p class="serviceCol__subTitle is-ja">コンテンツ</p>
-						<p class="tp-section__text is-ja">ブログ記事の執筆、動画作成、ドキュメント管理、翻訳、電子書籍のライティング、雑誌寄稿などDevRelに関するあらゆるコンテンツ作成を行います。ブログはコンテンツマーケティングの一環として、ドキュメントはユーザサポートの一環として重要です。</p>
-						<strong>主な提供サービス</strong>
+						<p class="tp-section__text is-ja">DevRel provide a number of services related to our business, such as blog writing, video creation, document management, translation, electronic document writing, magazine article contribution, etc. Blogs are vital within the scope of content marketing, and documents are important as part of your user support.</p>
+						<strong>Main Services</strong>
 						<ul>
-							<li>ブログ執筆</li>
-							<li>ドキュメントサイト構築、管理</li>
-							<li>チュートリアル作成</li>
-							<li>インタビュー実施、記事作成</li>
-							<li>ドキュメント翻訳（日英、英日）</li>
-							<li>動画作成</li>
-							<li>電子書籍作成</li>
+							<li>Blog writing</li>
+							<li>Document site construction, management</li>
+							<li>Tutorial creation</li>
+							<li>Conducting interviews, article creation</li>
+							<li>Document translation (JA &gt;&lt;EN)</li>
+							<li>Video creation</li>
+							<li>Electronic document creation</li>
 						</ul>
 					</div>
 				</div><!--//serviceCol-->
@@ -63,15 +60,15 @@ title: サービス
 						<h3 class="serviceCol__title"><span>C</span>onductor</h3>
 						<p class="serviceCol__subTitle is-ja">コンダクター</p>
 						<p class="tp-section__text is-ja">
-            御社製品/サービスのエバンジェリスト/アドボケイトになります。ブログの執筆、ソーシャルメディアの運営、ミートアップの主催または参加、セッションでお話ししたり、LT（ライトニングトーク）で製品やサービスについてお話しします。ターゲットと想定する開発者の集まりに参加することにより、彼らとのコミュニケーションはもちろん、課題やフィードバックを得られます。
+						We become the evangelist/advocate for your company's products and/or services. This includes blog writing, social media management, organizing or participating in meet-ups, talking at sessions, as well as talking about your products and/or services at LTs (lightning talks). Of course we communicate with the gathered developers who are expected to be your target, but we also gather issues and feedback from them.
             </p>
-						<strong>主な提供サービス</strong>
+						<strong>Main Services</strong>
 						<ul>
-							<li>エバンジェリスト・アドボケイト代行</li>
-							<li>登壇</li>
-							<li>自社イベント企画、実施</li>
-							<li>スライド作成</li>
-							<li>開発者とのコミュニケーション</li>
+							<li>Promoter/advocate activities</li>
+							<li>Speaking</li>
+							<li>Planning/holding events for your company</li>
+							<li>Slide creation</li>
+							<li>Communication with developers</li>
 						</ul>
 					</div>
 				</div><!--//serviceCol-->
@@ -81,14 +78,16 @@ title: サービス
 					<div class="serviceCol__detail">
 						<h3 class="serviceCol__title"><span>C</span>ommunication</h3>
 						<p class="serviceCol__subTitle is-ja">コミュニケーション</p>
-						<p class="tp-section__text is-ja">コミュニティマネージャとして御社の開発者向けコミュニティを育成します。また、Q&Aにおける回答代理、ソーシャルメディア運用など開発者との相互コミュニケーションに関するサポートを行います。コミュニケーションを通じて開発者のロイヤリティを獲得し、サービス拡大を促進します。</p>
-						<strong>主な提供サービス</strong>
+						<p class="tp-section__text is-ja">
+						We will act as community manager to grow your company's community aimed at developers. Additionally, we will manage Q&A sessions, social media management, and other support related to communication with the developers. We will gain the loyalty of the developers and promote the expansion of your service through this communication.
+						</p>
+						<strong>Main Services</strong>
 						<ul>
-							<li>開発者コミュニティ育成</li>
-							<li>コミュニティマネージャ代行</li>
-							<li>ソーシャルメディア運用</li>
-							<li>Q&A回答</li>
-							<li>オンラインコミュニティ運営</li>
+							<li>Developer community management</li>
+							<li>Community manager activities</li>
+							<li>Social media management</li>
+							<li>Q&A answering</li>
+							<li>Online community management</li>
 						</ul>
 					</div>
 				</div><!--//serviceCol-->
@@ -102,14 +101,13 @@ title: サービス
 			<div class="col-md-3">
 				<div class="tp-section-header">
 					<h2 class="tp-section-header__title">PRICE</h2>
-					<h2 class="tp-section-header__title-ja is-ja">料金プラン</h2>
+					<h2 class="tp-section-header__title-ja is-ja">料金</h2>
 				</div>
 			</div>
 			<div class="col-md-9">
-				<h3 class="tp-header is-ja">DevRelは明確な価格体系で提供しています</h3>
-				<p class="tp-section__text is-ja tp-section__text--pc">コンテンツマーケティングの基本であるブログだけから、エバンジェリスト代行まで目的に合わせて提供しています。</p>
-				<h3 class="tp-header is-en">For whom and what world will be realized</h3>
-
+				<h3 class="tp-header is-ja">DevRel Offers a Clear Pricing System</h3>
+				<p class="tp-section__text is-ja tp-section__text--pc">
+				From the basic content marketing of blog creation to the full promoter activities, we provide a range of services to meet your requirements.</p>
 				<section class="priceSec">
 					<div class="priceCol clearfix">
 						<p class="priceCol__ph"><img src="/assets/images/service_icon06.png" alt="コード"/></p>
@@ -117,7 +115,7 @@ title: サービス
 							<h3 class="priceCol__title"><span>C</span>ode</h3>
 							<p class="priceCol__subTitle is-ja">コード</p>
 							<p class="priceCol__subTitle is-en">Code</p>
-							<p class="priceCol__price is-ja">25万円〜/月　最低契約期間/1ヶ月〜</p>
+							<p class="priceCol__price is-ja">USD2,500〜/month Minimum contract length/1 month〜</p>
 						</div>
 					</div><!--//priceCol-->
 
@@ -127,7 +125,7 @@ title: サービス
 							<h3 class="priceCol__title"><span>C</span>ontent</h3>
 							<p class="priceCol__subTitle is-ja">コンテンツ</p>
 							<p class="priceCol__subTitle is-en">Content</p>
-							<p class="priceCol__price is-ja">14万円〜/月　最低契約期間/1ヶ月〜</p>
+							<p class="priceCol__price is-ja">USD1,400〜/month Minimum contract length/1 month〜</p>
 						</div>
 					</div><!--//priceCol-->
 
@@ -138,7 +136,7 @@ title: サービス
 							<h3 class="priceCol__title"><span>C</span>onductor</h3>
 							<p class="priceCol__subTitle is-ja">コンダクター</p>
 							<p class="priceCol__subTitle is-en">Conductor</p>
-							<p class="priceCol__price is-ja">32万円〜/月　最低契約期間/1ヶ月〜</p>
+							<p class="priceCol__price is-ja">USD3,200〜/month Minimum contract length/3months〜</p>
 						</div>
 					</div><!--//priceCol-->
 
@@ -148,7 +146,7 @@ title: サービス
 							<h3 class="priceCol__title"><span>C</span>ommunication</h3>
 							<p class="priceCol__subTitle is-ja">コミュニケーション</p>
 							<p class="priceCol__subTitle is-en">Communication</p>
-							<p class="priceCol__price is-ja">20万円〜/月　最低契約期間/2ヶ月〜</p>
+							<p class="priceCol__price is-ja">USD2,000〜/month Minimum contract length/2 months〜</p>
 						</div>
 					</div><!--//priceCol-->
 
@@ -165,9 +163,7 @@ title: サービス
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p class="is-ja u-align-center">お問い合わせは以下よりご連絡ください</p>
-				<p class="is-en u-align-center">Contact is below.</p>
-
+				<p class="is-ja u-align-center">Contact is below.</p>
 				<div class="u-align-center mt8"><a href="/contact" class="c-btn c-btn--contact">CONTACT</a></div>
 			</div>
 		</div> <!-- / .row  -->
