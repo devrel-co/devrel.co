@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+_site/
+.DS_Store
+s3_website.yml
+clear_cache.sh
+deploy.sh
+node_modules/

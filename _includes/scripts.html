@@ -1,0 +1,97 @@
+<script src="https://sdk.amazonaws.com/js/aws-sdk-2.2.10.min.js"></script>
+<script>
+  var smoothScroll = function() {
+    var headerHeight = 80;
+    $('a[href^="/#"]').click(function(){
+      var speed = 500;
+      var href= $(this).attr("href");
+      var target = $(href == "#" || href == "" ? 'html' : "a[name='" + href.replace('/#', '') + "']");
+      var position = target.offset().top - headerHeight;
+      $("html, body").animate({scrollTop:position}, speed, "swing");
+      return false;
+    });
+  };
+
+  var ToggleSpMenu = function () {
+    $('.js-spmenu-btn').on('click', function(){
+      $(this).toggleClass('is-on');
+      $(this).next().toggleClass('is-on');
+    })
+  };
+
+  var closeMenu = function () {
+    $('.js-spmenu-btn').removeClass('is-on');
+    $('.js-spmenu-btn').next().removeClass('is-on');
+  }
+
+  var changeLang = function (lang) {
+    switch (lang){
+      case 'ja':
+        $('.is-ja').show();
+        $('.is-en').hide();
+        break;
+      case 'en':
+        $('.is-en').show();
+        $('.is-ja').hide();
+        break;
+    }
+    $('.contact__errmsg').hide();
+  }
+
+  $(function(){
+    changeLang('ja');
+    smoothScroll();
+    ToggleSpMenu();
+    $('.js-spmenu a').on('click', function(){
+      closeMenu();
+    })
+  });
+
+  $("#submit").on("click", function(e) {
+    AWS.config.region = 'ap-northeast-1'; // Region
+    AWS.config.credentials = new AWS.CognitoIdentityCredentials({
+      IdentityPoolId: 'ap-northeast-1:bd469da6-ea5c-425d-9181-a4d854e95ce3'
+    });
+    e.preventDefault();
+    AWS.config.region = 'ap-northeast-1';
+    var s3BucketName = "mail.moongift.jp";
+    var now = new Date();
+    var obj = {
+      title: "DevRel.jp: お問い合わせ",
+      date: now.toLocaleString()
+    };
+    var ary = ['Company', 'Name', 'Email', 'Msg'];
+    var error = false;
+    for (var i = 0; i < ary.length; i += 1) {
+      var name = '#input' + ary[i];
+      if ($(name).val().trim() === '') {
+        $(name + 'Error').html('入力してください');
+        $(name + 'Error').show();
+        error = true;
+      } else {
+        $(name + 'Error').hide();
+        obj[ary[i].toLowerCase()] = $(name).val();
+      }
+    }
+    if (error) return;
+    var s3 = new AWS.S3({params: {Bucket: s3BucketName}});
+    var blob = new Blob([JSON.stringify(obj, null, 2)], {type:'text/plain'});
+    s3.putObject({
+      Key: "uploads/" +now.getTime()+".txt", 
+      ContentType: "text/plain", 
+      Body: blob, 
+      ACL: "public-read"
+    }, function(err, data){
+      if(data !== null){
+        $("#result").text("お問い合わせいただきありがとうございます。すぐに回答いたしますのでお待ちください。")
+        $("#result").addClass("alert-success");
+        $("form")[0].reset();
+        _gaq.push(['_trackPageview', '/contact/success']);
+      } else {
+        $("#result").html("問題が発生しました。<a href='mailto:info@devrel.jp'>info@devrel.jp</a>へメールにてお問い合わせください。");
+        $("#result").addClass("alert-danger");
+      }
+      $("#result").removeClass("hide");
+    });
+  });
+</script>
