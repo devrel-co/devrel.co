@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DevRelとは
+title: What is DevRel?
 permalink: /about/
 ---
 
@@ -14,11 +14,11 @@ permalink: /about/
 				</div>
 			</div>
 			<div class="col-md-9">
-				<h3 class="tp-header is-ja">開発者と自社製品/サービスを結びつけるマーケティング活動</h3>
-        <p class="tp-section__text is-ja tp-section__text--pc">DevRelとはDeveloper Relationsの略語になります。Developer Relationsとはその意味通り、開発者との関係性を重視するマーケティング施策になります。一般社会ではPR（Public Relations）という言葉がありますが、その開発者版と言えるでしょう。その定義はとてもシンプルです。</p>
+				<h3 class="tp-header is-ja">Marketing activities that connect developers and in-house manufactured goods/services</h3>
+        <p class="tp-section__text is-ja tp-section__text--pc">DevRel is short for Developer Relations. Developer Relations is exactly what it means, a marketing policy that prioritizes relationships with developers. In general society, there is a word known as PR (Public Relations); you could say DevRel is the developer version of this. Its definition is very simple.</p>
 				<p class="tp-section__text is-ja tp-section__text--pc">
 					<blockquote style="background-color: #eee;padding:1em; margin-bottom: 1em;font-size: 2rem;">
-					DevRelは外部の開発者との相互コミュニケーションを通じて、自社や自社製品と開発者との継続的かつ良好な関係性を築くためのマーケティング手法。
+					DevRel is the marketing technique used to ensure that one's company, products, and developers establish a good, continuous relationship with external developers through mutual communication.
 					</blockquote>
 				</p>
 				
