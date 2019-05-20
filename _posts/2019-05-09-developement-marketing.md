@@ -5,7 +5,7 @@ date:   2019-05-09 00:00:00
 catch: dev-mark.jpg
 categories:
 - DevRel
-- マーケティング
+- Marketing
 author: moongift
 ---
 
