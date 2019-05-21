@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Large-scale DevRel Event Types and Objectives
-date:   2019-05-20 00:00:00
+date:   2019-05-20 10:00:00
 catch: event2.jpg
 categories:
 - Event
