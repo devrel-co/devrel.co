@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2019-05-21T08:58:51+09:00</updated><id>https://devre.co/</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">The Difference between Public Relations and DevRel</title><link href="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html" rel="alternate" type="text/html" title="The Difference between Public Relations and DevRel" /><published>2019-05-15T09:00:00+09:00</published><updated>2019-05-15T09:00:00+09:00</updated><id>https://devre.co/public%20relations/pr/2019/05/15/pr-devrel</id><content type="html" xml:base="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html">&lt;p&gt;DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2019-05-21T09:07:59+09:00</updated><id>https://devre.co/</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">Large-scale DevRel Event Types and Objectives</title><link href="https://devre.co/event/2019/05/20/devrel-event.html" rel="alternate" type="text/html" title="Large-scale DevRel Event Types and Objectives" /><published>2019-05-20T09:00:00+09:00</published><updated>2019-05-20T09:00:00+09:00</updated><id>https://devre.co/event/2019/05/20/devrel-event</id><content type="html" xml:base="https://devre.co/event/2019/05/20/devrel-event.html">&lt;p&gt;It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.&lt;/p&gt;
+
+&lt;p&gt;As a different viewpoint, there are also events concerning specific technologies. For user-driven events, there are various events such as RubyKaigi, PyCon, try! Swift, and Android Bazaar and Conference. The company can still take the lead in hosting the event despite it concerning specific technologies. Well-known examples are ad:tech Tokyo, CloudNative Days, and Developers Summit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/articles/event-pattern.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This time, we’ll explain the characteristics of each of these four patterns.&lt;/p&gt;
+
+&lt;h2 id=&quot;company-services-x-company-held-events&quot;&gt;Company Services x Company-held Events&lt;/h2&gt;
+
+&lt;p&gt;An event concerning the services of one’s company, organized and held with the company’s initiative. The speaker is an expert in a specific technology and calls out some of the users to stand on stage. Listed below are some well-known examples of this.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc19/&quot;&gt;WWDC&lt;/a&gt;（Apple）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.google.com/io/&quot;&gt;Google I/O&lt;/a&gt;（Google）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.f8.com/&quot;&gt;F8&lt;/a&gt;（Facebook）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubuniverse.com/&quot;&gt;GitHub Universe&lt;/a&gt;（GitHub）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/ja-jp/events/decode/2019/default.aspx&quot;&gt;de:code&lt;/a&gt;（Microsoft）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.discovery2019.soracom.jp/&quot;&gt;SORACOM Conference Discovery&lt;/a&gt;（SORACOM）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/build&quot;&gt;Microsoft Build&lt;/a&gt;（Microsoft）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/summits/tokyo-2019/&quot;&gt;AWS Summit Tokyo&lt;/a&gt;（AWS）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linedevday.linecorp.com/jp/2018/&quot;&gt;LINE DEVELOPER DAY&lt;/a&gt;（LINE）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are also small events, but when it comes to opening your own company’s event, it can range to all sorts of scales (hundreds-thousands). While there are times when it’s only done by one’s own company, there are also many cases when it’s partner-centric, gathering supporting companies.&lt;/p&gt;
+
+&lt;p&gt;Your event’s objective is likely to increase the presence of your company and its services. If it’s a large-scale event, it’s likely to get more exposure to the media and spread across social networks. If it’s a once in a year chance, it can gather participants throughout the country (or the world). It can be enjoyed as a kind of festival.&lt;/p&gt;
+
+&lt;p&gt;Increased loyalty is also tied to the event’s refinement. While talks in regular study sessions are based on the current situation, conferences announce features that will be released in the future. By meeting or exceeding developer expectations, you can reassure them and renew their desire to keep using your services.&lt;/p&gt;
+
+&lt;h2 id=&quot;company-services-x-user-held-events&quot;&gt;Company Services x User-held Events&lt;/h2&gt;
+
+&lt;p&gt;An event organized by the users (community). As a community, we believe that it’s likely one of the things we should aim for. Even though it’s for your company’s services, you’re not involved with the management, so if you don’t have much heat going on, the event probably wouldn’t be successful and many wouldn’t think of holding one.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jawsdays2019.jaws-ug.jp/&quot;&gt;JAWS DAYS&lt;/a&gt;（AWS）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://backlog.com/ja/backlog-world/&quot;&gt;Backlog World&lt;/a&gt;（Backlog）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://connect2019.jpstripes.com/&quot;&gt;JP_Stripes Connect&lt;/a&gt;（Stripe）&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mtddc2018.mt-tokyo.net/&quot;&gt;MTDDC Meetup TOKYO&lt;/a&gt;（Movable Type）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since it’s user-driven, its main goal is likely for fellow users to have fun and communicate with each other. At a conference, the chairperson is usually the most fired up, but also the one shouldering the heaviest burden, which can lead to burnout. It can lead to a good cycle, but can also slow you down if you don’t start looking for the next leader.&lt;/p&gt;
+
+&lt;h2 id=&quot;specific-technology-x-company-held-events&quot;&gt;Specific Technology x Company-held Events&lt;/h2&gt;
+
+&lt;p&gt;It’s an event held by a specific company’s initiative focusing on specific technologies. Its advantages are that you can easily control the frequency and size of the event and gather customers attracted to the technological trends.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adtech-tokyo.com/ja/&quot;&gt;ad:tech Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudnativedays.jp/&quot;&gt;CloudNative Days&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://event.shoeisha.jp/devsumi&quot;&gt;Developers Summit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ledge.ai/the-ai-2018/&quot;&gt;THE AI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apithedocs.org/&quot;&gt;API the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this case, the major problem is where to put your company’s presence. If you highlight it too much, it can be seen as a commercial event. This kind of event should be held with emphasis on being technically neutral. However, being too neutral may lead to your company and its products being left unknown despite the event becoming famous. Your competitors might end up being the ones getting sponsored instead, robbing you of your due.&lt;/p&gt;
+
+&lt;h2 id=&quot;specific-technology-x-user-held-events&quot;&gt;Specific Technology x User-held Events&lt;/h2&gt;
+
+&lt;p&gt;This is what is called a community sponsored developer event. Examples of this event are too many to mention.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2019&quot;&gt;RubyKaigi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pycon.jp/2018/&quot;&gt;PyCon JP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tryswift.co/events/2019/tokyo/jp/&quot;&gt;try! Swift&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://builderscon.io/&quot;&gt;builderscon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abc.android-group.jp/&quot;&gt;Android Bazaar and Conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/&quot;&gt;DroidKaigi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iosdc.jp/&quot;&gt;iOSDC Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A community event with the developer community as its base, organized with their passion. In many cases, it’s done for each programming language, but it can also be for software and frameworks such as React Conf and SeleniumConf. In that sense, many communities held by connpass and Doorkeeper can be the target for conferences and large-scale events.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Holding a large-scale event can be a daunting task. If it’s company-based, the person in charge can do it as part of their job. The budget is also allocated by the company, with the event being carried out within that range. For user-held events, they can’t be held if there’s no heat going on with your products or services.&lt;/p&gt;
+
+&lt;p&gt;MOONGIFT attends to training involving event hosting and developer communities. We respond to various needs, such as wanting to raise a developer community which can host large-scale events, and wanting to properly conduct company-held events. First of all, &lt;a href=&quot;/contact&quot;&gt;feel free to contact us.&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.</summary></entry><entry><title type="html">The Difference between Public Relations and DevRel</title><link href="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html" rel="alternate" type="text/html" title="The Difference between Public Relations and DevRel" /><published>2019-05-15T09:00:00+09:00</published><updated>2019-05-15T09:00:00+09:00</updated><id>https://devre.co/public%20relations/pr/2019/05/15/pr-devrel</id><content type="html" xml:base="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html">&lt;p&gt;DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.&lt;/p&gt;
 
 &lt;p&gt;Public Relations can be thought of as a corporation and also a member of society, playing the role of satisfying stakeholders from all directions. Suppose that a project for building a mall in a regional city was launched. It will undoubtedly arouse opposition from the locals. The roads would probably become congested. Things would likely get noisier in that once quiet place, and there’s also the possibility of logging down the forests, making it a life-and-death problem for the small shopping district. It’s the role of Public Relations to give explanations to those who would become stockholders, take in their feedback, and find common ground. For example, they could design a parking route to prevent traffic jams, arrange for security guards, or help maintain the park.&lt;/p&gt;
 
