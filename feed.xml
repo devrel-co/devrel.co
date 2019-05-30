@@ -1,4 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2019-05-27T20:07:12+09:00</updated><id>https://devre.co/</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">We went to the 6th Techbook Fest (revenue listed at the end of this article)</title><link href="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html" rel="alternate" type="text/html" title="We went to the 6th Techbook Fest (revenue listed at the end of this article)" /><published>2019-05-27T09:00:00+09:00</published><updated>2019-05-27T09:00:00+09:00</updated><id>https://devre.co/event/techbook%20fest/2019/05/27/techbookfest</id><content type="html" xml:base="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html">&lt;p&gt;The &lt;a href=&quot;http://techbookfest.org/event/tbf06&quot;&gt;6th Techbook Fest&lt;/a&gt; is coterie event for people who would like to write their own technical books. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2019-05-30T09:31:49+09:00</updated><id>https://devre.co/</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">What kind of companies and services should incorporate DevRel?</title><link href="https://devre.co/devrel/2019/05/29/who-run-devrel.html" rel="alternate" type="text/html" title="What kind of companies and services should incorporate DevRel?" /><published>2019-05-29T09:00:00+09:00</published><updated>2019-05-29T09:00:00+09:00</updated><id>https://devre.co/devrel/2019/05/29/who-run-devrel</id><content type="html" xml:base="https://devre.co/devrel/2019/05/29/who-run-devrel.html">&lt;p&gt;How can we decide if we should introduce DevRel? The desicion is actually very easy to make.&lt;/p&gt;
+
+&lt;p&gt;** If the developer is a stakeholder **&lt;/p&gt;
+
+&lt;p&gt;Then you should incorporate DevRel. If not, then it isn’t necessary.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-stakeholders&quot;&gt;What are Stakeholders?&lt;/h2&gt;
+
+&lt;p&gt;Stakeholders are entities that share interests directly or indirectly. If the establishment of good relationships with developers results in an interest in your company and your products, you can say that they are stakeholders.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-of-stakeholders&quot;&gt;Example of Stakeholders&lt;/h2&gt;
+
+&lt;p&gt;For example, the following relationship may be considered.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Developer involved in adopting the products&lt;/li&gt;
+  &lt;li&gt;Developers using the products&lt;/li&gt;
+  &lt;li&gt;Developers not related to the adoption of the products, but are involved in the implementation phase after the initial adoption&lt;/li&gt;
+  &lt;li&gt;Has a development team and hire developers&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;why-are-good-relationships-needed&quot;&gt;Why are good relationships needed&lt;/h2&gt;
+
+&lt;p&gt;We tend to think that product adoption is carried out rationally in businesses, but in reality, that is not necessarily the case. There are cases where products are chosen without careful examination and in a quantitative (emotional) manner such as because it is de facto, or it’s frequently seen, or it’s been recommended by friends. In other words, if a developer has a negative impression of a product, there are many cases where the product will not get adopted no matter how good the product is.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it doesn’t mean that even useless products are good if you have a good relationship. We are talking about a good relationship on the assumption that the product is good. A good relationship relieves negative emotions and amplifies positive ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-relationships-that-can-not-be-made-overnight&quot;&gt;A relationships that can not be made overnight&lt;/h2&gt;
+
+&lt;p&gt;There was a time when Microsoft was considered a bad company. Currently, Microsoft’s reputation has improved significantly. However, there is still a portion of people that responds negatively to Microsoft’s actions. Twitter has restricted the use of their API many times, and got negative responses from developers each time. They have declared several times to improve their relationships with developers. However, it is not easy to improve the relationship that’s been damaged in the past.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, there are companies that have successfully built good relationships with developers such as Apple, Google, AWS, GitHub and Unity. Their relationship with developers is built based on an already-existing, long standing relationship, and not something that was made just yesterday. Given that Twitter once had a good relationship with developers, we can say that DevRel is something easy to break but hard to built. This can be compared to trust. Just as you can not completely trust the people you met today, it’s difficult for companies and services to build DevRel.&lt;/p&gt;
+
+&lt;p&gt;However, the trust built up overtime will be beneficial in terms of awareness and recognition of service, share and community. It may be obvious how DevRel works as an advantage for companies in terms of differentiation from competition.&lt;/p&gt;
+
+&lt;h2 id=&quot;devrel-is-also-good-for-job-calls&quot;&gt;DevRel is also good for job calls&lt;/h2&gt;
+
+&lt;p&gt;DevRel works well not only for services, but for companies as well. There are companies that are chosen even if people are presented with similar salaries and jobs. Further, there are companies that are selected even if their salary is less than that of other similar jobs. Conversely, there are companies that has to increase the salary posted in order to be picked. Where does this difference come from?&lt;/p&gt;
+
+&lt;p&gt;Outsiders know very little about the company’s inner workings. There are forums and sites that discuss this, but not many people trust it 100%. So what it comes down to, is the company’s branding towards developers. By becoming a successful brand , you will be able to enhance the recruitment process.&lt;/p&gt;
+
+&lt;p&gt;The foremost thing will be GAFA. Of course,  the increase in salary is attractive, but if we’re simply talking about just salary, there could be other companies that can offer more. It is the power of branding that helps a company be chosen amongst all its competitors. It can be said that there is no reason for people to choose a Japanese company that does not brandoffer enough pay&lt;/p&gt;
+
+&lt;p&gt;It can be said that there is no reason to choose a Japanese company that does not have enough pay and branding.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-cannot-reach-people-by-being-halfhearted&quot;&gt;You cannot reach people by being halfhearted&lt;/h2&gt;
+
+&lt;p&gt;Recently, it has become commonplace to publish APIs for any web services. This means that simply publishing the API has made it impossible to attract the developers. We’ve already gone beyond that phase. Documentation, tutorials, SDKs, and demo apps are the kind of things required today. Without such an environment, there would be no developers testing out the service.&lt;/p&gt;
+
+&lt;p&gt;Similarly, setting up a developer blog has become commonplace. In order to stand out, it is important to create content that meets the trend in time as well as company needs. It is not only ineffective when done halfheartedly, but also a complete waste of time. If you’re going to do it, do it properly.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;If you believe that developers are stakeholders for your company, then DevRel is a must. That being said, if it’s done halfheartedly and not properly, then it adds extra cost and becomes a negative factor. If you’re going to do it, you should have a medium to long-term perspective and goal.&lt;/p&gt;
+
+&lt;p&gt;At MOONGIFT, we do consulting and outsourcing of DevRel. We will discuss DevRel work and strategies that works for your company specifically, and implement it. For any inquires regarding DevRel, &lt;a href=&quot;/contact&quot;&gt;please contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">How can we decide if we should introduce DevRel? The desicion is actually very easy to make.</summary></entry><entry><title type="html">Information that should be measured in cultivating the developer community.</title><link href="https://devre.co/community/2019/05/28/watching-community-metrics.html" rel="alternate" type="text/html" title="Information that should be measured in cultivating the developer community." /><published>2019-05-28T09:00:00+09:00</published><updated>2019-05-28T09:00:00+09:00</updated><id>https://devre.co/community/2019/05/28/watching-community-metrics</id><content type="html" xml:base="https://devre.co/community/2019/05/28/watching-community-metrics.html">&lt;p&gt;I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.&lt;/p&gt;
+
+&lt;p&gt;This time I will introduce areas of focus for carrying out a developer community.&lt;/p&gt;
+
+&lt;h2 id=&quot;number-of-participants&quot;&gt;Number of participants.&lt;/h2&gt;
+
+&lt;p&gt;If there is only one person registered for 50-person events, you have a big problem. Why does this issue occur?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Insufficient notice.&lt;/li&gt;
+  &lt;li&gt;Lack of target group.&lt;/li&gt;
+  &lt;li&gt;Problems with the content.&lt;/li&gt;
+  &lt;li&gt;Location issues.&lt;/li&gt;
+  &lt;li&gt;Scheduling issues.&lt;/li&gt;
+  &lt;li&gt;Event fare.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These and more can be thought of as answers. In most cases, the cause seems to be problems with the content. Rather than considering what you want to convey, you should focus on what content the audience wants to hear. If the content is too specialized and catered towards a narrow field, there is the chance your target audience will be insufficient from the outset.&lt;/p&gt;
+
+&lt;p&gt;If your event charges money for entry the amount of participation registrations will drop dramatically. If you have confidence in the content, there shouldn’t be a problem even if you charge. In this case, the participation rate of the next event will improve by a large margin.&lt;/p&gt;
+
+&lt;h2 id=&quot;participation-rate&quot;&gt;Participation rate.&lt;/h2&gt;
+
+&lt;p&gt;It is also a problem if 50 people register but only 20 show up. Many people will say that 70% of the developer community attending is a satisfactory result, but I personally do not think that way. The minimum line should be 85% at the least, (25 participants per 30 registrations.) The causes of this problem are outlined below.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No reminders are sent.&lt;/li&gt;
+  &lt;li&gt;People who register provisionally.&lt;/li&gt;
+  &lt;li&gt;Problems with the weather.&lt;/li&gt;
+  &lt;li&gt;Free events.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;People register provisionally to get in first. Because of that, they register provisionally regardless of whether or not they will actually attend. They only think over whether or not they will attend afterwards, then will cancel their attendance or just not show up. In this case, reception needs to be conducted properly, and repeated no showers should be denied participation.&lt;/p&gt;
+
+&lt;p&gt;Participation rates tend to be poor for free events. It seems that people think that because these events are free they can register casually and therefore that its okay if they don’t go.&lt;/p&gt;
+
+&lt;h2 id=&quot;repeat-rate&quot;&gt;Repeat rate.&lt;/h2&gt;
+
+&lt;p&gt;Take a look at the rate of participants who have attended before and those who are new. If your participants are only repeaters or only new, you have a problem. The ratio of existing to new participants should be around 6:4 in general. Please consult &lt;a href=&quot;/community/2019/05/24/community-metrics.html&quot;&gt;The ratio of existing and new participants which cannot be overlooked in community development &lt;/a&gt; for further details.&lt;/p&gt;
+
+&lt;h2 id=&quot;amount-of-tweets&quot;&gt;Amount of tweets.&lt;/h2&gt;
+
+&lt;p&gt;Most developers have twitter accounts. New people are informed through their output. If the community is lively and energetic, these new people might want to participate in the next event.&lt;/p&gt;
+
+&lt;p&gt;The amount of tweets is important, but let’s take a look at the number of people tweeting. If a lot of the participants have an account but aren’t tweeting about the event, the cause could be a problem with the content.&lt;/p&gt;
+
+&lt;h2 id=&quot;participation-report-number&quot;&gt;Participation report number.&lt;/h2&gt;
+
+&lt;p&gt;If the amount of reports of participation from blogs, Qiita, etc., increases the presence of the community will broaden. You may as well add a participation box on a blog, but personally I don’t get the impression that many people register through these blog boxes. Rather, it seems to be more effective to ask people to write their impressions on their blogs either during the event or afterwards.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequency-of-holding-events&quot;&gt;Frequency of holding events.&lt;/h2&gt;
+
+&lt;p&gt;The more participants you have, the more intense it is, and the more overflowing with content your event is, the more the frequency of event holding increases. Whether or not they should be held once a month or once every three months probably depends on the community. The important thing is to conduct them regularly. The frequency with which events are held is determined by the number of the target audience. Please take care not to run out of content as result of forcing yourself to repeat these events too often.&lt;/p&gt;
+
+&lt;h2 id=&quot;number-of-social-gathering-and-after-party-participants&quot;&gt;Number of social gathering and after party participants.&lt;/h2&gt;
+
+&lt;p&gt;If the event is felt to be enjoyable, many will remain for the social gathering afterwards. Furthermore, those who stay for the after party will be even more eager and there is a chance you can invite them to become management members. People will stay for the social gathering for the content, and there is a high chance they will remain for the after party if the participants and managing members are good. Community isn’t just about the content, the connections between people is important. These connections will of course appear at the social gathering, but will be even stronger at the after party.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion.&lt;/h2&gt;
+
+&lt;p&gt;Information like that above can be measured quantitatively. And remember to record qualitative information such as the atmosphere of the event. By recording information like this, you can quickly grasp that the participation rate is decreasing and the rate of event holding is falling. Attempting to support something after it has already entered a downward trend is even more difficult than starting from scratch, so dealing with it as soon as possible is a necessity.&lt;/p&gt;
+
+&lt;h2 id=&quot;moongift-supports-community-cultivation&quot;&gt;MOONGIFT supports community cultivation.&lt;/h2&gt;
+
+&lt;p&gt;At MOONGIFT, we support the cultivation of developer communities. As the community manager of your company, we nurture developer communities. We aim for communities to eventually propel themselves and run on their own. For those who want to start their own community, or for those having problems with their current community &lt;a href=&quot;/contact&quot;&gt;please contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.</summary></entry><entry><title type="html">We went to the 6th Techbook Fest (revenue listed at the end of this article)</title><link href="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html" rel="alternate" type="text/html" title="We went to the 6th Techbook Fest (revenue listed at the end of this article)" /><published>2019-05-27T09:00:00+09:00</published><updated>2019-05-27T09:00:00+09:00</updated><id>https://devre.co/event/techbook%20fest/2019/05/27/techbookfest</id><content type="html" xml:base="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html">&lt;p&gt;The &lt;a href=&quot;http://techbookfest.org/event/tbf06&quot;&gt;6th Techbook Fest&lt;/a&gt; is coterie event for people who would like to write their own technical books. 
 We went to it as DevRel Meetup in Tokyo. This is our second time going to the event, after going to the 5th Techbook Fest last year. We would like to do a reflection and sum up on this experience.&lt;/p&gt;
 
 &lt;h2 id=&quot;reflecting-on-the-5th-techbook-fest&quot;&gt;Reflecting on the 5th Techbook Fest&lt;/h2&gt;
