@@ -48,7 +48,7 @@ permalink: /contact/
 		    .mauticform-pagebreak-wrapper .mauticform-button-wrapper {  display: inline; }
 		</style>
 		<div id="mauticform_wrapper_devrelwenihewase" class="mauticform_wrapper">
-		    <form autocomplete="false" role="form" method="post" action="https://ma.moongift.co.jp/form/submit?formId=6" id="mauticform_devrelwenihewase" data-mautic-form="devrelwenihewase" enctype="multipart/form-data">
+		    <form id="contact">
 		        <div class="mauticform-error" id="mauticform_devrelwenihewase_error"></div>
 		        <div class="mauticform-message" id="mauticform_devrelwenihewase_message"></div>
 		        <div class="mauticform-innerform">
@@ -58,43 +58,39 @@ permalink: /contact/
 
 		            <div id="mauticform_devrelwenihewase_hui_she_ming" data-validate="hui_she_ming" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
 		                <label id="mauticform_label_devrelwenihewase_hui_she_ming" for="mauticform_input_devrelwenihewase_hui_she_ming" class="mauticform-label">Company name</label>
-		                <input id="mauticform_input_devrelwenihewase_hui_she_ming" name="mauticform[hui_she_ming]" value="" class="mauticform-input" type="text">
+		                <input id="mauticform_input_devrelwenihewase_hui_she_ming" name="company" value="" class="mauticform-input" type="text">
 		                <span class="mauticform-errormsg" style="display: none;">This is required.</span>
 		            </div>
 
 		            <div id="mauticform_devrelwenihewase_xing" data-validate="xing" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
 		                <label id="mauticform_label_devrelwenihewase_xing" for="mauticform_input_devrelwenihewase_xing" class="mauticform-label">Family name</label>
-		                <input id="mauticform_input_devrelwenihewase_xing" name="mauticform[xing]" value="" placeholder="Nakatsugawa" class="mauticform-input" type="text">
+		                <input id="mauticform_input_devrelwenihewase_xing" name="last" value="" placeholder="Nakatsugawa" class="mauticform-input" type="text">
 		                <span class="mauticform-errormsg" style="display: none;">This is required.</span>
 		            </div>
 
 		            <div id="mauticform_devrelwenihewase_ming" data-validate="ming" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
 		                <label id="mauticform_label_devrelwenihewase_ming" for="mauticform_input_devrelwenihewase_ming" class="mauticform-label">First name</label>
-		                <input id="mauticform_input_devrelwenihewase_ming" name="mauticform[ming]" value="" placeholder="Atsushi" class="mauticform-input" type="text">
+		                <input id="mauticform_input_devrelwenihewase_ming" name="first" value="" placeholder="Atsushi" class="mauticform-input" type="text">
 		                <span class="mauticform-errormsg" style="display: none;">This is required.</span>
 		            </div>
 
 		            <div id="mauticform_devrelwenihewase_meruadoresu" data-validate="meruadoresu" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-4 mauticform-required">
 		                <label id="mauticform_label_devrelwenihewase_meruadoresu" for="mauticform_input_devrelwenihewase_meruadoresu" class="mauticform-label">E-mail address</label>
-		                <input id="mauticform_input_devrelwenihewase_meruadoresu" name="mauticform[meruadoresu]" value="" placeholder="info@moongift.jp" class="mauticform-input" type="email">
+		                <input id="mauticform_input_devrelwenihewase_meruadoresu" name="email" value="" placeholder="info@moongift.jp" class="mauticform-input" type="email">
 		                <span class="mauticform-errormsg" style="display: none;">This is required.</span>
 		            </div>
 
 		            <div id="mauticform_devrelwenihewase_o_weni_hewase_nei_rong" data-validate="o_weni_hewase_nei_rong" data-validation-type="textarea" class="mauticform-row mauticform-text mauticform-field-5 mauticform-required">
 		                <label id="mauticform_label_devrelwenihewase_o_weni_hewase_nei_rong" for="mauticform_input_devrelwenihewase_o_weni_hewase_nei_rong" class="mauticform-label">Body</label>
-		                <textarea id="mauticform_input_devrelwenihewase_o_weni_hewase_nei_rong" name="mauticform[o_weni_hewase_nei_rong]" class="mauticform-textarea"></textarea>
+		                <textarea id="mauticform_input_devrelwenihewase_o_weni_hewase_nei_rong" name="body" class="mauticform-textarea"></textarea>
 		                <span class="mauticform-errormsg" style="display: none;">This is required.</span>
 		            </div>
 
 		            <div id="mauticform_devrelwenihewase_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-6">
-		                <button type="submit" name="mauticform[submit]" id="mauticform_input_devrelwenihewase_submit" value="" class="mauticform-button btn btn-default">Send</button>
+		                <button type="submit" name="submit" id="mauticform_input_devrelwenihewase_submit" value="" class="mauticform-button btn btn-default">Send</button>
 		            </div>
 		            </div>
 		        </div>
-
-		        <input type="hidden" name="mauticform[formId]" id="mauticform_devrelwenihewase_id" value="6">
-		        <input type="hidden" name="mauticform[return]" id="mauticform_devrelwenihewase_return" value="">
-		        <input type="hidden" name="mauticform[formName]" id="mauticform_devrelwenihewase_name" value="devrelwenihewase">
 
 		        </form>
 		</div>
@@ -102,22 +98,5 @@ permalink: /contact/
 
 	</div><!-- /.container -->
 </section>
-
-<script type="text/javascript">
-    /** This section is only needed once per page if manually copying **/
-    if (typeof MauticSDKLoaded == 'undefined') {
-        var MauticSDKLoaded = true;
-        var head            = document.getElementsByTagName('head')[0];
-        var script          = document.createElement('script');
-        script.type         = 'text/javascript';
-        script.src          = 'https://ma.moongift.co.jp/media/js/mautic-form.js';
-        script.onload       = function() {
-            MauticSDK.onLoad();
-        };
-        head.appendChild(script);
-        var MauticDomain = 'https://ma.moongift.co.jp';
-        var MauticLang   = {
-            'submittingMessage': "Just a moment..."
-        }
-    }
-</script>
+<script src="/assets/js/ncmb.min.js"></script>
+<script src="/assets/js/app.js"></script>
