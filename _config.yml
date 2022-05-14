@@ -17,7 +17,7 @@ title: "DEVREL - Agency developer relations -"
 email: info@devrel.jp
 description: The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devre.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
