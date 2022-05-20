@@ -1,0 +1,38 @@
+<script>
+	document.addEventListener('DOMContentLoaded', e => {
+		if (!document.querySelector('#map')) return;
+		const accessToken = 'pk.eyJ1IjoibW9vbmdpZnQiLCJhIjoiY2wxZDQ1bTc2MGNjZTNrcGN5ajgzZzU2biJ9.wY_v4yQPHLoDFvIy-6mcPQ';
+		var map = L.map('map').setView([20, 0], 2);
+		L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+			attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+			maxZoom: 18,
+			id: 'mapbox/streets-v11',
+			tileSize: 512,
+			zoomOffset: -1,
+			accessToken
+		}).addTo(map);
+		const points = [
+			{name: 'Bengaluru 🇮🇳', lat: 12.95396, lng: 77.4908534},
+			{name: 'Israel 🇮🇱', lat: 31.386713, lng: 32.8381744},
+			{name: 'Amsterdam 🇳🇱', lat: 52.3545828, lng: 4.7638784},
+			{name: 'België 🇧🇪', lat: 50.4956747, lng: 3.3451305},
+			{name: 'Paris 🇫🇷', lat: 48.8588336, lng: 2.2769954},
+			{name: 'Nigeria 🇳🇬', lat: 9.0065117, lng: 4.1799603},
+			{name: 'Seattle 🇺🇸', lat: 47.6129432, lng: -122.4821472},
+			{name: 'Nantes 🇫🇷', lat: 47.2382114, lng: -1.6303741},
+		];
+		points.forEach(p => {
+			const icon = L.divIcon({className: '', iconSize: [50, 50], html:'<div style="font-size: 50px; margin-top: -25px;">✋</div>'});
+			// const icon = L.divIcon({className: '', html:'✋'});
+			L.marker([p.lat, p.lng], { icon }).addTo(map).bindPopup(`Hello from ${p.name}!`);
+		});
+	});
+</script>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+crossorigin=""></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/emojify.js/1.1.0/js/emojify.min.js"></script>
+<style>
+  #map { width: 100%; height: 400px; }
+	.marker {width: 30px; height: 40px;}
+</style>

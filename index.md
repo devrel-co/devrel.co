@@ -7,7 +7,23 @@ permalink: /
   <section class="tp-hero">
     <h1 class="tp-hero__img-wrapper"><img src="assets/images/logo_topmain.png" alt="MOONGIFT" class="tp-hero__logo" /></h1>
   </section>
-  
+  <section class="tp-section tp-section--gray">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="tp-section-header">
+          <h2 class="tp-section-header__title">News</h2>
+            <h2 class="tp-section-header__title-ja is-ja">ニュース</h2>
+          </div>
+        </div>
+        <div class="col-md-9">
+          <p class="tp-section__text is-ja">
+            <a href="/journey-22/">Could you meet Atsushi? The journey time is coming!</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="tp-section tp-section--gray">
     <div class="container">
       <div class="row">
