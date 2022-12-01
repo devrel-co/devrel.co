@@ -1,737 +1,756 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2022-05-23T13:17:03+09:00</updated><id>https://devre.co/</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">Why I love DevRel</title><link href="https://devre.co/general/2022/04/10/why-i-love-devrel.html" rel="alternate" type="text/html" title="Why I love DevRel" /><published>2022-04-10T09:00:00+09:00</published><updated>2022-04-10T09:00:00+09:00</updated><id>https://devre.co/general/2022/04/10/why-i-love-devrel</id><content type="html" xml:base="https://devre.co/general/2022/04/10/why-i-love-devrel.html">&lt;p&gt;I am not a very high-achieving student, but rather a fifth-year student in a technical college (technical colleges have three years of high school plus two years of junior college for five years. I was on the verge of flunking out by the time I was a fifth-year student at a technical college.) I was on the verge of flunking my classes, which I could not afford to fail. I failed a class that I could never fail (because of me), but the teacher who saved me at that time was the instructor of the drafting class.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="https://devre.co/feed.xml" rel="self" type="application/atom+xml" /><link href="https://devre.co/" rel="alternate" type="text/html" /><updated>2022-12-01T20:45:21+09:00</updated><id>https://devre.co/feed.xml</id><title type="html">DEVREL - Agency developer relations -</title><subtitle>The Developer Relations support industry is realizing a world where developers can have a better development experience. We support all of your developer relations.</subtitle><entry><title type="html">Important information dissemination methods in DevRel</title><link href="https://devre.co/devrel/2022/12/01/right-delivery.html" rel="alternate" type="text/html" title="Important information dissemination methods in DevRel" /><published>2022-12-01T19:00:00+09:00</published><updated>2022-12-01T19:00:00+09:00</updated><id>https://devre.co/devrel/2022/12/01/right-delivery</id><content type="html" xml:base="https://devre.co/devrel/2022/12/01/right-delivery.html"><![CDATA[<p>DevRel is all about “deliver correctly the right information to the developers who need it”. Getting any one of these things wrong can lead to major problems and damage.</p>
 
-&lt;p&gt;But that black history is not important. The instructor was originally a designer of Shinkansen bullet trains, and after retiring, he became a teacher at Tokyo National College of Technology. I was impressed by what the professor, who had a wealth of experience as a member of society, said in class.&lt;/p&gt;
+<ul>
+  <li>“Wrong” information, correctly delivered to the developers who need it.</li>
+  <li>Deliver correctly the right information to the developers who “don’t need” it.</li>
+  <li>Deliver correctly the “wrong” information to the developers who needs it.</li>
+</ul>
 
-&lt;p&gt;He said, “I would be happy if I could build a company with only engineers”.&lt;/p&gt;
+<p>You know that none of these things will work.</p>
 
-&lt;p&gt;The professor probably felt the friction between the development site, other departments, and management in various ways. And he probably believed that with his technical skills and passion for manufacturing as an engineer, he could build a great company. Of course, that is not the only way to build a business, but there are some aspects that I personally still sympathize with.&lt;/p&gt;
+<p>The challenge, then, is how to “deliver correctly the right information to the developers who need it”.</p>
 
-&lt;p&gt;This is because I personally love engineers and strongly believe that they will create a wonderful future that we have yet to see. Recently, there have been calls for a shortage of engineers, and I feel it is very good that the treatment of engineers, especially in the IT field, has improved significantly. Many startups are growing by leveraging their technological capabilities, and as a result, an increasing number of them are going public, which is truly a state of affairs where engineers are changing the world.&lt;/p&gt;
+<h2 id="what-is-correct-information">What is correct information?</h2>
 
-&lt;p&gt;It is difficult to realize a teacher’s dream in one fell swoop, but I believe that in some circles, a happy world for engineers is becoming a reality.&lt;/p&gt;
+<p>Correct information can also be defined as accurate information. In general, correctness should be as follows</p>
 
-&lt;h2 id=&quot;learning-from-running-moongift&quot;&gt;Learning from running MOONGIFT&lt;/h2&gt;
+<ol>
+  <li>From an official website</li>
+  <li>Blog articles on the official website</li>
+  <li>From official social accounts</li>
+  <li>Third-party blogs</li>
+  <li>Third-party social</li>
+  <li>Q&amp;A site</li>
+</ol>
 
-&lt;p&gt;Now that I have finished talking about my time as a student, let me move on to what happened after entering the workforce.&lt;/p&gt;
+<p>We put Q&amp;A sites at the bottom of the list because the initial information (questions) is generally wrong. In response, a bona fide third party provides the answer, which becomes correct information. If the question is left as is, incorrect information may be propagated.</p>
 
-&lt;p&gt;After my third job change, I started a blog called &lt;a href=&quot;https://www.moongift.jp/&quot;&gt;MOONGIFT&lt;/a&gt; (now out of service). It was a blog with the theme of introducing open-source software run for the next 20 years. I started this blog because I wanted other engineers to know about the open-source software I use and find in my work. Since there was no one (literally no one) within the company who enjoyed these technical conversations, I sought out external sources to bear the brunt of it. The term “open source software” was gaining momentum, and MOONGIFT grew to be reasonably well known among engineers.&lt;/p&gt;
+<p>The reason the official blog is second is that many blog posts have an expiration date; information that was correct at the time may naturally become wrong or deteriorate as the SDK is upgraded or as prerequisite market conditions change. While it is best to review the information on a regular basis, many blogs do not take the time to do so. Therefore, it is common to hedge the risk by putting out a warning such as “This information is one year old.</p>
 
-&lt;p&gt;I was very happy to realize that I was able to support their development (both professional and personal) using the software introduced on MOONGIFT. Many have told me that they check it every day and that it helped them a lot when they were new. In addition, we’ve had people proudly tell us that they were featured on MOONGIFT. I have recently met people who tell me that they have been featured on MOONGIFT. These stories make me very happy.&lt;/p&gt;
+<p>In some cases, the priority for social services is not correctness, but rather immediacy and visual impact. As a result, the accuracy of the content must be slightly degraded. Especially on Twitter, there is a limit to the number of characters, and in many cases it may not be possible to convey the message as intended. While taking such points into account, be aware that incorrect communication on social media can lead to the risk of flames.</p>
 
-&lt;p&gt;Here are two particularly unexpected memories.&lt;/p&gt;
+<p>Transmissions by third parties (community members, users, etc.) provide readers with a sense of security that the information will be written from a fair perspective. Therefore, it is also true that it is easier to gain trust when a third party says “it is a good product” than when official information transmits “it is a good product. Nevertheless, it is also true that some articles written without knowledge of the internal process or without a complete understanding of the specifications may be based on incorrect assumptions or misperceptions. If such articles are not approached with care, they may be perceived as intimidating or demotivating. To build a good relationship, keep a mild approach in mind.</p>
 
-&lt;h3 id=&quot;the-case-of-zabbix-japan&quot;&gt;The case of Zabbix Japan&lt;/h3&gt;
+<h2 id="what-is-a-developer-you-need">What is a developer you need?</h2>
 
-&lt;p&gt;The first was when we contacted &lt;a href=&quot;https://www.zabbix.com/jp&quot;&gt;Zabbix Japan&lt;/a&gt; as a sponsor (Zabbix is a well-known monitoring software) while thinking about a special project to celebrate the 10th anniversary of MOONGIFT operation. I did not have any contacts, so I contacted them through the contact form on their official website, and I immediately received a reply from Mr. Terashima, the representative of Zabbix Japan. And he agreed to meet with me with two words.&lt;/p&gt;
+<p>Developers in need are exactly the people who need your information. Depending on the type of information, they may not know your product yet, or they may already know (or use) it. Depending on such differences in knowledge, the way information is delivered will differ.</p>
 
-&lt;p&gt;After meeting with him, I found out the reason why, when Zabbix Japan was not well-known at all at the time of its establishment, MOONGIFT introduced it to the public and the number of visitors to the website increased dramatically. By the time we met, the software was already well-known, but Mr. Terashima remembered that time and thanked me very much. After that, he sponsored the commemorative contents, and I remember that I felt happy to have managed MOONGIFT, even though it was a connection that I had made without knowing it.&lt;/p&gt;
+<p>People who do not know your product are, in other words, your intended users. It is only when information is delivered to the intended users that they will consider using the product. In order to do this, we need to do some filtering and narrow down our target audience to those developers to whom we want to deliver information.</p>
 
-&lt;h3 id=&quot;the-case-of-concrete5-japan&quot;&gt;The case of Concrete5 Japan&lt;/h3&gt;
+<p>Filtering is an attribute, so to speak. For example</p>
 
-&lt;p&gt;The other story is about when I met Mr. Sakaki of &lt;a href=&quot;https://concrete5-japan.org/&quot;&gt;Concrete5 Japan&lt;/a&gt;. Concrete5 is a wiki engine and CMS. Concrete5 is great software, and after reading an article about it on MOONGIFT, he immediately went to the developer in the U.S. and got a sales contract. The result was the establishment of Concrete5 Japan, a company called Concrete5 Japan. As someone who had never heard of such a thing, I was thrilled that we were able to create a new business through our introduction on MOONGIFT.&lt;/p&gt;
+<ul>
+  <li>Programmer / Engineer / Lead Engineer / Manager</li>
+  <li>Programming language</li>
+  <li>Database type</li>
+  <li>Hardware type</li>
+  <li>Company size</li>
+  <li>Company Stage</li>
+  <li>Years of experience</li>
+  <li>Desktop/Web/Mobile</li>
+  <li>Front-end and back-end</li>
+</ul>
 
-&lt;p&gt;—Mr.&lt;/p&gt;
+<p>Depending on these attributes, developers work differently and gather information in different ways. Therefore, the best channel must be chosen.</p>
 
-&lt;p&gt;There are many other encounters and memories that came about through MOONGIFT, but that’s enough for now (it’s not even the main point). All I can say is that through the management of MOONGIFT, I have come to understand the importance of contributing to the productivity of developers and the importance of correctly communicating correct information to them.&lt;/p&gt;
+<h2 id="what-is-communicating-correctly">What is communicating correctly?</h2>
 
-&lt;h2 id=&quot;encounter-with-devrel&quot;&gt;Encounter with DevRel&lt;/h2&gt;
+<p>Finally, communicating correctly has two aspects.</p>
 
-&lt;p&gt;Then, in February 2014, I came across the word DevRel. The biggest thing that led me to this point was getting to know &lt;a href=&quot;https://twitter.com/masuidrive&quot;&gt;@masuidrive&lt;/a&gt;. We have been chatting for more than 10 years, and when he was leaving the US, I decided to join Appcelerator right before he left and started working as a Titanium evangelist in Japan. This was probably around 2009-10, but the word “DevRel” did not exist, nor did I care about it.&lt;/p&gt;
+<h3 id="communicate-in-a-way-that-can-be-understood">Communicate in a way that can be understood.</h3>
 
-&lt;p&gt;And it was around February 2014 that I became aware of DevRel. The reason for this was that a cloud service had been deployed in Japan and the US in completely different ways. In the U.S., the cloud service was holding hackathons and establishing a developer community. In Japan, on the other hand, they were marketing the service in the form of an investment with a certain phone company. One of them was to sell premium service licenses (six months or a year) at bookstores. Even though it is a cloud service.&lt;/p&gt;
+<p>It is a bad idea to be so concerned with the accuracy of information that the text becomes redundant or difficult to read. In BtoB, it is tempting to use stiff sentences, but if the sentences are unintelligible, it is a waste of time.</p>
 
-&lt;p&gt;I was very interested in the difference between Japan and the U.S. The former (U.S.) focuses on developers. The former (U.S.) focuses on developers and expands its services in a way that is close to them. In Japan, on the other hand, the API and SDK were not advertised at all and were only known to those in the know. The former seemed the right approach, as I had already seen many services open their APIs to the public and expand their business through collaborative services. The latter seemed like a bad idea and did not work.&lt;/p&gt;
+<p>People have a form of information that is easy to recognize. This is not uniform, but varies from person to person. Some people find it easier to understand text, others find it easier to understand an explanation by a person, and still others prefer video. Some people may prefer novels because they can picture the scene better, while others may find manga easier to understand. Therefore, it is important to deliver information in a variety of formats, even if it is only one piece of information.</p>
 
-&lt;p&gt;So I looked into what was going on in the US and found that people called evangelists were leading hackathons and communicating with developers. And I was convinced by the fact that @masuidrive agreed with me. However, I did not know what the evangelists were doing. After careful research, I found out that in Google Brazil (Perhaps), such activities for developers were called DevRel. This February ‘14 was the month I met DevRel (the specific date is unknown).&lt;/p&gt;
+<h3 id="communicating-correctly-as-a-devrel">Communicating correctly as a DevRel</h3>
 
-&lt;p&gt;When I thought about why this DevRel is not popular in Japan, I realized that the evangelists are highly qualified. They are people who have good presentation skills, can write blog posts, and also have good developer skills. These people are very limited, and if you want to hire them, the annual salary is naturally high. It would be very difficult to match them in the Japanese employment system.&lt;/p&gt;
+<p>The other aspect is as a DevRel. Some marketing may use fear-mongering, inflated numbers, or other tricks that seem to be trying to trick the other side. Such bad tactics may achieve the instantaneous goal. However, they are not suitable for building a medium- to long-term relationship with the developer (customer). Developers who feel cheated will never use your product again.</p>
 
-&lt;p&gt;Therefore, we came up with the idea of DevRel as a service, providing DevRel support to multiple companies for a fee based on their functions, rather than a 100% commitment. This will be a DevRel service that is still ongoing as of 2022. This DevRel service was test-marketed on March 17 and was launched in April by NIFTY Corporation (at that time. (now FJCT) &lt;a href=&quot;https://mbaas.nifcloud.com/&quot;&gt;Nifcloud mobile backend&lt;/a&gt; in April. Eight years have already passed, and we are still providing the service on an ongoing basis. We have also provided services to various domestic and international companies over the past 8 years.&lt;/p&gt;
+<p>Honesty is also an important aspect of DevRel. All you have to do is to admit that you cannot do what you cannot do, and then utilize the feedback (feature requests, etc.) from developers in the development of new features. The only reason you get good feedback is because you have built a good relationship between you and the developers.</p>
 
-&lt;h2 id=&quot;delivering-the-right-information-to-developers-in-the-right-way&quot;&gt;Delivering the right information to developers in the right way&lt;/h2&gt;
+<h2 id="summary">Summary</h2>
 
-&lt;p&gt;What I feel after 8 years of DevRel is that DevRel is “a presence that can be close to developers”. I have always said that DevRel is about “helping developers create an invincible future. DevRel must support, inspire, and be with them. DevRel has such great potential.&lt;/p&gt;
+<p>In this article, I have explained the importance of DevRel, which is to “deliver correctly the right information to the developers who need it. Instead of just sending out information in the dark, always try to communicate based on the perspectives introduced in this article.</p>
 
-&lt;p&gt;As a company, &lt;a href=&quot;https://moongift.co.jp/&quot;&gt;MOONGIFT’s mission is “to deliver the right information to developers in the right way”&lt;/a&gt;. Since the time we introduced open-source software, we have been trying to deliver the right information to developers. This policy has not changed with the current DevRel. And we will be delighted when the correct information improves developers’ productivity and produces the best products.&lt;/p&gt;
+<p><a href="/contact">We supports your DevRel activities. Please feel free to contact us</a>.</p>]]></content><author><name>moongift</name></author><category term="DevRel" /><summary type="html"><![CDATA[DevRel is all about “deliver correctly the right information to the developers who need it”. Getting any one of these things wrong can lead to major problems and damage.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://devre.co/images/articles/right-publishing.jpg" /><media:content medium="image" url="https://devre.co/images/articles/right-publishing.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why I love DevRel</title><link href="https://devre.co/general/2022/04/10/why-i-love-devrel.html" rel="alternate" type="text/html" title="Why I love DevRel" /><published>2022-04-10T09:00:00+09:00</published><updated>2022-04-10T09:00:00+09:00</updated><id>https://devre.co/general/2022/04/10/why-i-love-devrel</id><content type="html" xml:base="https://devre.co/general/2022/04/10/why-i-love-devrel.html"><![CDATA[<p>I am not a very high-achieving student, but rather a fifth-year student in a technical college (technical colleges have three years of high school plus two years of junior college for five years. I was on the verge of flunking out by the time I was a fifth-year student at a technical college.) I was on the verge of flunking my classes, which I could not afford to fail. I failed a class that I could never fail (because of me), but the teacher who saved me at that time was the instructor of the drafting class.</p>
 
-&lt;p&gt;I love DevRel because it allows me to be there for the developers and be with them. Hopefully, I would be very happy if I could help in that way, even a little, to grow into a happy company for engineers or to make their careers happier. I believe that this is the way to the happiness of engineers that the instructor mentioned.&lt;/p&gt;
+<p>But that black history is not important. The instructor was originally a designer of Shinkansen bullet trains, and after retiring, he became a teacher at Tokyo National College of Technology. I was impressed by what the professor, who had a wealth of experience as a member of society, said in class.</p>
 
-&lt;p&gt;— MOONGIFT&lt;/p&gt;
+<p>He said, “I would be happy if I could build a company with only engineers”.</p>
 
-&lt;p&gt;If you are interested in DevRel, &lt;a href=&quot;/contact&quot;&gt;please feel free to talk to me&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">I am not a very high-achieving student, but rather a fifth-year student in a technical college (technical colleges have three years of high school plus two years of junior college for five years. I was on the verge of flunking out by the time I was a fifth-year student at a technical college.) I was on the verge of flunking my classes, which I could not afford to fail. I failed a class that I could never fail (because of me), but the teacher who saved me at that time was the instructor of the drafting class.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://devre.co/images/articles/i-love-devrel.jpeg" /></entry><entry><title type="html">What kind of companies and services should incorporate DevRel?</title><link href="https://devre.co/devrel/2019/05/29/who-run-devrel.html" rel="alternate" type="text/html" title="What kind of companies and services should incorporate DevRel?" /><published>2019-05-29T09:00:00+09:00</published><updated>2019-05-29T09:00:00+09:00</updated><id>https://devre.co/devrel/2019/05/29/who-run-devrel</id><content type="html" xml:base="https://devre.co/devrel/2019/05/29/who-run-devrel.html">&lt;p&gt;How can we decide if we should introduce DevRel? The desicion is actually very easy to make.&lt;/p&gt;
+<p>The professor probably felt the friction between the development site, other departments, and management in various ways. And he probably believed that with his technical skills and passion for manufacturing as an engineer, he could build a great company. Of course, that is not the only way to build a business, but there are some aspects that I personally still sympathize with.</p>
 
-&lt;p&gt;** If the developer is a stakeholder **&lt;/p&gt;
+<p>This is because I personally love engineers and strongly believe that they will create a wonderful future that we have yet to see. Recently, there have been calls for a shortage of engineers, and I feel it is very good that the treatment of engineers, especially in the IT field, has improved significantly. Many startups are growing by leveraging their technological capabilities, and as a result, an increasing number of them are going public, which is truly a state of affairs where engineers are changing the world.</p>
 
-&lt;p&gt;Then you should incorporate DevRel. If not, then it isn’t necessary.&lt;/p&gt;
+<p>It is difficult to realize a teacher’s dream in one fell swoop, but I believe that in some circles, a happy world for engineers is becoming a reality.</p>
 
-&lt;h2 id=&quot;what-are-stakeholders&quot;&gt;What are Stakeholders?&lt;/h2&gt;
+<h2 id="learning-from-running-moongift">Learning from running MOONGIFT</h2>
 
-&lt;p&gt;Stakeholders are entities that share interests directly or indirectly. If the establishment of good relationships with developers results in an interest in your company and your products, you can say that they are stakeholders.&lt;/p&gt;
+<p>Now that I have finished talking about my time as a student, let me move on to what happened after entering the workforce.</p>
 
-&lt;h2 id=&quot;example-of-stakeholders&quot;&gt;Example of Stakeholders&lt;/h2&gt;
+<p>After my third job change, I started a blog called <a href="https://www.moongift.jp/">MOONGIFT</a> (now out of service). It was a blog with the theme of introducing open-source software run for the next 20 years. I started this blog because I wanted other engineers to know about the open-source software I use and find in my work. Since there was no one (literally no one) within the company who enjoyed these technical conversations, I sought out external sources to bear the brunt of it. The term “open source software” was gaining momentum, and MOONGIFT grew to be reasonably well known among engineers.</p>
 
-&lt;p&gt;For example, the following relationship may be considered.&lt;/p&gt;
+<p>I was very happy to realize that I was able to support their development (both professional and personal) using the software introduced on MOONGIFT. Many have told me that they check it every day and that it helped them a lot when they were new. In addition, we’ve had people proudly tell us that they were featured on MOONGIFT. I have recently met people who tell me that they have been featured on MOONGIFT. These stories make me very happy.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;Developer involved in adopting the products&lt;/li&gt;
-  &lt;li&gt;Developers using the products&lt;/li&gt;
-  &lt;li&gt;Developers not related to the adoption of the products, but are involved in the implementation phase after the initial adoption&lt;/li&gt;
-  &lt;li&gt;Has a development team and hire developers&lt;/li&gt;
-&lt;/ol&gt;
+<p>Here are two particularly unexpected memories.</p>
 
-&lt;h2 id=&quot;why-are-good-relationships-needed&quot;&gt;Why are good relationships needed&lt;/h2&gt;
+<h3 id="the-case-of-zabbix-japan">The case of Zabbix Japan</h3>
 
-&lt;p&gt;We tend to think that product adoption is carried out rationally in businesses, but in reality, that is not necessarily the case. There are cases where products are chosen without careful examination and in a quantitative (emotional) manner such as because it is de facto, or it’s frequently seen, or it’s been recommended by friends. In other words, if a developer has a negative impression of a product, there are many cases where the product will not get adopted no matter how good the product is.&lt;/p&gt;
+<p>The first was when we contacted <a href="https://www.zabbix.com/jp">Zabbix Japan</a> as a sponsor (Zabbix is a well-known monitoring software) while thinking about a special project to celebrate the 10th anniversary of MOONGIFT operation. I did not have any contacts, so I contacted them through the contact form on their official website, and I immediately received a reply from Mr. Terashima, the representative of Zabbix Japan. And he agreed to meet with me with two words.</p>
 
-&lt;p&gt;Nevertheless, it doesn’t mean that even useless products are good if you have a good relationship. We are talking about a good relationship on the assumption that the product is good. A good relationship relieves negative emotions and amplifies positive ones.&lt;/p&gt;
+<p>After meeting with him, I found out the reason why, when Zabbix Japan was not well-known at all at the time of its establishment, MOONGIFT introduced it to the public and the number of visitors to the website increased dramatically. By the time we met, the software was already well-known, but Mr. Terashima remembered that time and thanked me very much. After that, he sponsored the commemorative contents, and I remember that I felt happy to have managed MOONGIFT, even though it was a connection that I had made without knowing it.</p>
 
-&lt;h2 id=&quot;a-relationships-that-can-not-be-made-overnight&quot;&gt;A relationships that can not be made overnight&lt;/h2&gt;
+<h3 id="the-case-of-concrete5-japan">The case of Concrete5 Japan</h3>
 
-&lt;p&gt;There was a time when Microsoft was considered a bad company. Currently, Microsoft’s reputation has improved significantly. However, there is still a portion of people that responds negatively to Microsoft’s actions. Twitter has restricted the use of their API many times, and got negative responses from developers each time. They have declared several times to improve their relationships with developers. However, it is not easy to improve the relationship that’s been damaged in the past.&lt;/p&gt;
+<p>The other story is about when I met Mr. Sakaki of <a href="https://concrete5-japan.org/">Concrete5 Japan</a>. Concrete5 is a wiki engine and CMS. Concrete5 is great software, and after reading an article about it on MOONGIFT, he immediately went to the developer in the U.S. and got a sales contract. The result was the establishment of Concrete5 Japan, a company called Concrete5 Japan. As someone who had never heard of such a thing, I was thrilled that we were able to create a new business through our introduction on MOONGIFT.</p>
 
-&lt;p&gt;On the other hand, there are companies that have successfully built good relationships with developers such as Apple, Google, AWS, GitHub and Unity. Their relationship with developers is built based on an already-existing, long standing relationship, and not something that was made just yesterday. Given that Twitter once had a good relationship with developers, we can say that DevRel is something easy to break but hard to built. This can be compared to trust. Just as you can not completely trust the people you met today, it’s difficult for companies and services to build DevRel.&lt;/p&gt;
+<p>—Mr.</p>
 
-&lt;p&gt;However, the trust built up overtime will be beneficial in terms of awareness and recognition of service, share and community. It may be obvious how DevRel works as an advantage for companies in terms of differentiation from competition.&lt;/p&gt;
+<p>There are many other encounters and memories that came about through MOONGIFT, but that’s enough for now (it’s not even the main point). All I can say is that through the management of MOONGIFT, I have come to understand the importance of contributing to the productivity of developers and the importance of correctly communicating correct information to them.</p>
 
-&lt;h2 id=&quot;devrel-is-also-good-for-job-calls&quot;&gt;DevRel is also good for job calls&lt;/h2&gt;
+<h2 id="encounter-with-devrel">Encounter with DevRel</h2>
 
-&lt;p&gt;DevRel works well not only for services, but for companies as well. There are companies that are chosen even if people are presented with similar salaries and jobs. Further, there are companies that are selected even if their salary is less than that of other similar jobs. Conversely, there are companies that has to increase the salary posted in order to be picked. Where does this difference come from?&lt;/p&gt;
+<p>Then, in February 2014, I came across the word DevRel. The biggest thing that led me to this point was getting to know <a href="https://twitter.com/masuidrive">@masuidrive</a>. We have been chatting for more than 10 years, and when he was leaving the US, I decided to join Appcelerator right before he left and started working as a Titanium evangelist in Japan. This was probably around 2009-10, but the word “DevRel” did not exist, nor did I care about it.</p>
 
-&lt;p&gt;Outsiders know very little about the company’s inner workings. There are forums and sites that discuss this, but not many people trust it 100%. So what it comes down to, is the company’s branding towards developers. By becoming a successful brand , you will be able to enhance the recruitment process.&lt;/p&gt;
+<p>And it was around February 2014 that I became aware of DevRel. The reason for this was that a cloud service had been deployed in Japan and the US in completely different ways. In the U.S., the cloud service was holding hackathons and establishing a developer community. In Japan, on the other hand, they were marketing the service in the form of an investment with a certain phone company. One of them was to sell premium service licenses (six months or a year) at bookstores. Even though it is a cloud service.</p>
 
-&lt;p&gt;The foremost thing will be GAFA. Of course,  the increase in salary is attractive, but if we’re simply talking about just salary, there could be other companies that can offer more. It is the power of branding that helps a company be chosen amongst all its competitors. It can be said that there is no reason for people to choose a Japanese company that does not brandoffer enough pay&lt;/p&gt;
+<p>I was very interested in the difference between Japan and the U.S. The former (U.S.) focuses on developers. The former (U.S.) focuses on developers and expands its services in a way that is close to them. In Japan, on the other hand, the API and SDK were not advertised at all and were only known to those in the know. The former seemed the right approach, as I had already seen many services open their APIs to the public and expand their business through collaborative services. The latter seemed like a bad idea and did not work.</p>
 
-&lt;p&gt;It can be said that there is no reason to choose a Japanese company that does not have enough pay and branding.&lt;/p&gt;
+<p>So I looked into what was going on in the US and found that people called evangelists were leading hackathons and communicating with developers. And I was convinced by the fact that @masuidrive agreed with me. However, I did not know what the evangelists were doing. After careful research, I found out that in Google Brazil (Perhaps), such activities for developers were called DevRel. This February ‘14 was the month I met DevRel (the specific date is unknown).</p>
 
-&lt;h2 id=&quot;you-cannot-reach-people-by-being-halfhearted&quot;&gt;You cannot reach people by being halfhearted&lt;/h2&gt;
+<p>When I thought about why this DevRel is not popular in Japan, I realized that the evangelists are highly qualified. They are people who have good presentation skills, can write blog posts, and also have good developer skills. These people are very limited, and if you want to hire them, the annual salary is naturally high. It would be very difficult to match them in the Japanese employment system.</p>
 
-&lt;p&gt;Recently, it has become commonplace to publish APIs for any web services. This means that simply publishing the API has made it impossible to attract the developers. We’ve already gone beyond that phase. Documentation, tutorials, SDKs, and demo apps are the kind of things required today. Without such an environment, there would be no developers testing out the service.&lt;/p&gt;
+<p>Therefore, we came up with the idea of DevRel as a service, providing DevRel support to multiple companies for a fee based on their functions, rather than a 100% commitment. This will be a DevRel service that is still ongoing as of 2022. This DevRel service was test-marketed on March 17 and was launched in April by NIFTY Corporation (at that time. (now FJCT) <a href="https://mbaas.nifcloud.com/">Nifcloud mobile backend</a> in April. Eight years have already passed, and we are still providing the service on an ongoing basis. We have also provided services to various domestic and international companies over the past 8 years.</p>
 
-&lt;p&gt;Similarly, setting up a developer blog has become commonplace. In order to stand out, it is important to create content that meets the trend in time as well as company needs. It is not only ineffective when done halfheartedly, but also a complete waste of time. If you’re going to do it, do it properly.&lt;/p&gt;
+<h2 id="delivering-the-right-information-to-developers-in-the-right-way">Delivering the right information to developers in the right way</h2>
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<p>What I feel after 8 years of DevRel is that DevRel is “a presence that can be close to developers”. I have always said that DevRel is about “helping developers create an invincible future. DevRel must support, inspire, and be with them. DevRel has such great potential.</p>
 
-&lt;p&gt;If you believe that developers are stakeholders for your company, then DevRel is a must. That being said, if it’s done halfheartedly and not properly, then it adds extra cost and becomes a negative factor. If you’re going to do it, you should have a medium to long-term perspective and goal.&lt;/p&gt;
+<p>As a company, <a href="https://moongift.co.jp/">MOONGIFT’s mission is “to deliver the right information to developers in the right way”</a>. Since the time we introduced open-source software, we have been trying to deliver the right information to developers. This policy has not changed with the current DevRel. And we will be delighted when the correct information improves developers’ productivity and produces the best products.</p>
 
-&lt;p&gt;At MOONGIFT, we do consulting and outsourcing of DevRel. We will discuss DevRel work and strategies that works for your company specifically, and implement it. For any inquires regarding DevRel, &lt;a href=&quot;/contact&quot;&gt;please contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">How can we decide if we should introduce DevRel? The desicion is actually very easy to make.</summary></entry><entry><title type="html">Information that should be measured in cultivating the developer community.</title><link href="https://devre.co/community/2019/05/28/watching-community-metrics.html" rel="alternate" type="text/html" title="Information that should be measured in cultivating the developer community." /><published>2019-05-28T09:00:00+09:00</published><updated>2019-05-28T09:00:00+09:00</updated><id>https://devre.co/community/2019/05/28/watching-community-metrics</id><content type="html" xml:base="https://devre.co/community/2019/05/28/watching-community-metrics.html">&lt;p&gt;I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.&lt;/p&gt;
+<p>I love DevRel because it allows me to be there for the developers and be with them. Hopefully, I would be very happy if I could help in that way, even a little, to grow into a happy company for engineers or to make their careers happier. I believe that this is the way to the happiness of engineers that the instructor mentioned.</p>
 
-&lt;p&gt;This time I will introduce areas of focus for carrying out a developer community.&lt;/p&gt;
+<p>— MOONGIFT</p>
 
-&lt;h2 id=&quot;number-of-participants&quot;&gt;Number of participants.&lt;/h2&gt;
+<p>If you are interested in DevRel, <a href="/contact">please feel free to talk to me</a>.</p>]]></content><author><name>moongift</name></author><category term="General" /><summary type="html"><![CDATA[I am not a very high-achieving student, but rather a fifth-year student in a technical college (technical colleges have three years of high school plus two years of junior college for five years. I was on the verge of flunking out by the time I was a fifth-year student at a technical college.) I was on the verge of flunking my classes, which I could not afford to fail. I failed a class that I could never fail (because of me), but the teacher who saved me at that time was the instructor of the drafting class.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://devre.co/images/articles/i-love-devrel.jpeg" /><media:content medium="image" url="https://devre.co/images/articles/i-love-devrel.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What kind of companies and services should incorporate DevRel?</title><link href="https://devre.co/devrel/2019/05/29/who-run-devrel.html" rel="alternate" type="text/html" title="What kind of companies and services should incorporate DevRel?" /><published>2019-05-29T09:00:00+09:00</published><updated>2019-05-29T09:00:00+09:00</updated><id>https://devre.co/devrel/2019/05/29/who-run-devrel</id><content type="html" xml:base="https://devre.co/devrel/2019/05/29/who-run-devrel.html"><![CDATA[<p>How can we decide if we should introduce DevRel? The desicion is actually very easy to make.</p>
 
-&lt;p&gt;If there is only one person registered for 50-person events, you have a big problem. Why does this issue occur?&lt;/p&gt;
+<p>** If the developer is a stakeholder **</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Insufficient notice.&lt;/li&gt;
-  &lt;li&gt;Lack of target group.&lt;/li&gt;
-  &lt;li&gt;Problems with the content.&lt;/li&gt;
-  &lt;li&gt;Location issues.&lt;/li&gt;
-  &lt;li&gt;Scheduling issues.&lt;/li&gt;
-  &lt;li&gt;Event fare.&lt;/li&gt;
-&lt;/ul&gt;
+<p>Then you should incorporate DevRel. If not, then it isn’t necessary.</p>
 
-&lt;p&gt;These and more can be thought of as answers. In most cases, the cause seems to be problems with the content. Rather than considering what you want to convey, you should focus on what content the audience wants to hear. If the content is too specialized and catered towards a narrow field, there is the chance your target audience will be insufficient from the outset.&lt;/p&gt;
+<h2 id="what-are-stakeholders">What are Stakeholders?</h2>
 
-&lt;p&gt;If your event charges money for entry the amount of participation registrations will drop dramatically. If you have confidence in the content, there shouldn’t be a problem even if you charge. In this case, the participation rate of the next event will improve by a large margin.&lt;/p&gt;
+<p>Stakeholders are entities that share interests directly or indirectly. If the establishment of good relationships with developers results in an interest in your company and your products, you can say that they are stakeholders.</p>
 
-&lt;h2 id=&quot;participation-rate&quot;&gt;Participation rate.&lt;/h2&gt;
+<h2 id="example-of-stakeholders">Example of Stakeholders</h2>
 
-&lt;p&gt;It is also a problem if 50 people register but only 20 show up. Many people will say that 70% of the developer community attending is a satisfactory result, but I personally do not think that way. The minimum line should be 85% at the least, (25 participants per 30 registrations.) The causes of this problem are outlined below.&lt;/p&gt;
+<p>For example, the following relationship may be considered.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;No reminders are sent.&lt;/li&gt;
-  &lt;li&gt;People who register provisionally.&lt;/li&gt;
-  &lt;li&gt;Problems with the weather.&lt;/li&gt;
-  &lt;li&gt;Free events.&lt;/li&gt;
-&lt;/ul&gt;
+<ol>
+  <li>Developer involved in adopting the products</li>
+  <li>Developers using the products</li>
+  <li>Developers not related to the adoption of the products, but are involved in the implementation phase after the initial adoption</li>
+  <li>Has a development team and hire developers</li>
+</ol>
 
-&lt;p&gt;People register provisionally to get in first. Because of that, they register provisionally regardless of whether or not they will actually attend. They only think over whether or not they will attend afterwards, then will cancel their attendance or just not show up. In this case, reception needs to be conducted properly, and repeated no showers should be denied participation.&lt;/p&gt;
+<h2 id="why-are-good-relationships-needed">Why are good relationships needed</h2>
 
-&lt;p&gt;Participation rates tend to be poor for free events. It seems that people think that because these events are free they can register casually and therefore that its okay if they don’t go.&lt;/p&gt;
+<p>We tend to think that product adoption is carried out rationally in businesses, but in reality, that is not necessarily the case. There are cases where products are chosen without careful examination and in a quantitative (emotional) manner such as because it is de facto, or it’s frequently seen, or it’s been recommended by friends. In other words, if a developer has a negative impression of a product, there are many cases where the product will not get adopted no matter how good the product is.</p>
 
-&lt;h2 id=&quot;repeat-rate&quot;&gt;Repeat rate.&lt;/h2&gt;
+<p>Nevertheless, it doesn’t mean that even useless products are good if you have a good relationship. We are talking about a good relationship on the assumption that the product is good. A good relationship relieves negative emotions and amplifies positive ones.</p>
 
-&lt;p&gt;Take a look at the rate of participants who have attended before and those who are new. If your participants are only repeaters or only new, you have a problem. The ratio of existing to new participants should be around 6:4 in general. Please consult &lt;a href=&quot;/community/2019/05/24/community-metrics.html&quot;&gt;The ratio of existing and new participants which cannot be overlooked in community development &lt;/a&gt; for further details.&lt;/p&gt;
+<h2 id="a-relationships-that-can-not-be-made-overnight">A relationships that can not be made overnight</h2>
 
-&lt;h2 id=&quot;amount-of-tweets&quot;&gt;Amount of tweets.&lt;/h2&gt;
+<p>There was a time when Microsoft was considered a bad company. Currently, Microsoft’s reputation has improved significantly. However, there is still a portion of people that responds negatively to Microsoft’s actions. Twitter has restricted the use of their API many times, and got negative responses from developers each time. They have declared several times to improve their relationships with developers. However, it is not easy to improve the relationship that’s been damaged in the past.</p>
 
-&lt;p&gt;Most developers have twitter accounts. New people are informed through their output. If the community is lively and energetic, these new people might want to participate in the next event.&lt;/p&gt;
+<p>On the other hand, there are companies that have successfully built good relationships with developers such as Apple, Google, AWS, GitHub and Unity. Their relationship with developers is built based on an already-existing, long standing relationship, and not something that was made just yesterday. Given that Twitter once had a good relationship with developers, we can say that DevRel is something easy to break but hard to built. This can be compared to trust. Just as you can not completely trust the people you met today, it’s difficult for companies and services to build DevRel.</p>
 
-&lt;p&gt;The amount of tweets is important, but let’s take a look at the number of people tweeting. If a lot of the participants have an account but aren’t tweeting about the event, the cause could be a problem with the content.&lt;/p&gt;
+<p>However, the trust built up overtime will be beneficial in terms of awareness and recognition of service, share and community. It may be obvious how DevRel works as an advantage for companies in terms of differentiation from competition.</p>
 
-&lt;h2 id=&quot;participation-report-number&quot;&gt;Participation report number.&lt;/h2&gt;
+<h2 id="devrel-is-also-good-for-job-calls">DevRel is also good for job calls</h2>
 
-&lt;p&gt;If the amount of reports of participation from blogs, Qiita, etc., increases the presence of the community will broaden. You may as well add a participation box on a blog, but personally I don’t get the impression that many people register through these blog boxes. Rather, it seems to be more effective to ask people to write their impressions on their blogs either during the event or afterwards.&lt;/p&gt;
+<p>DevRel works well not only for services, but for companies as well. There are companies that are chosen even if people are presented with similar salaries and jobs. Further, there are companies that are selected even if their salary is less than that of other similar jobs. Conversely, there are companies that has to increase the salary posted in order to be picked. Where does this difference come from?</p>
 
-&lt;h2 id=&quot;frequency-of-holding-events&quot;&gt;Frequency of holding events.&lt;/h2&gt;
+<p>Outsiders know very little about the company’s inner workings. There are forums and sites that discuss this, but not many people trust it 100%. So what it comes down to, is the company’s branding towards developers. By becoming a successful brand , you will be able to enhance the recruitment process.</p>
 
-&lt;p&gt;The more participants you have, the more intense it is, and the more overflowing with content your event is, the more the frequency of event holding increases. Whether or not they should be held once a month or once every three months probably depends on the community. The important thing is to conduct them regularly. The frequency with which events are held is determined by the number of the target audience. Please take care not to run out of content as result of forcing yourself to repeat these events too often.&lt;/p&gt;
+<p>The foremost thing will be GAFA. Of course,  the increase in salary is attractive, but if we’re simply talking about just salary, there could be other companies that can offer more. It is the power of branding that helps a company be chosen amongst all its competitors. It can be said that there is no reason for people to choose a Japanese company that does not brandoffer enough pay</p>
 
-&lt;h2 id=&quot;number-of-social-gathering-and-after-party-participants&quot;&gt;Number of social gathering and after party participants.&lt;/h2&gt;
+<p>It can be said that there is no reason to choose a Japanese company that does not have enough pay and branding.</p>
 
-&lt;p&gt;If the event is felt to be enjoyable, many will remain for the social gathering afterwards. Furthermore, those who stay for the after party will be even more eager and there is a chance you can invite them to become management members. People will stay for the social gathering for the content, and there is a high chance they will remain for the after party if the participants and managing members are good. Community isn’t just about the content, the connections between people is important. These connections will of course appear at the social gathering, but will be even stronger at the after party.&lt;/p&gt;
+<h2 id="you-cannot-reach-people-by-being-halfhearted">You cannot reach people by being halfhearted</h2>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion.&lt;/h2&gt;
+<p>Recently, it has become commonplace to publish APIs for any web services. This means that simply publishing the API has made it impossible to attract the developers. We’ve already gone beyond that phase. Documentation, tutorials, SDKs, and demo apps are the kind of things required today. Without such an environment, there would be no developers testing out the service.</p>
 
-&lt;p&gt;Information like that above can be measured quantitatively. And remember to record qualitative information such as the atmosphere of the event. By recording information like this, you can quickly grasp that the participation rate is decreasing and the rate of event holding is falling. Attempting to support something after it has already entered a downward trend is even more difficult than starting from scratch, so dealing with it as soon as possible is a necessity.&lt;/p&gt;
+<p>Similarly, setting up a developer blog has become commonplace. In order to stand out, it is important to create content that meets the trend in time as well as company needs. It is not only ineffective when done halfheartedly, but also a complete waste of time. If you’re going to do it, do it properly.</p>
 
-&lt;h2 id=&quot;moongift-supports-community-cultivation&quot;&gt;MOONGIFT supports community cultivation.&lt;/h2&gt;
+<h2 id="summary">Summary</h2>
 
-&lt;p&gt;At MOONGIFT, we support the cultivation of developer communities. As the community manager of your company, we nurture developer communities. We aim for communities to eventually propel themselves and run on their own. For those who want to start their own community, or for those having problems with their current community &lt;a href=&quot;/contact&quot;&gt;please contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.</summary></entry><entry><title type="html">We went to the 6th Techbook Fest (revenue listed at the end of this article)</title><link href="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html" rel="alternate" type="text/html" title="We went to the 6th Techbook Fest (revenue listed at the end of this article)" /><published>2019-05-27T09:00:00+09:00</published><updated>2019-05-27T09:00:00+09:00</updated><id>https://devre.co/event/techbook%20fest/2019/05/27/techbookfest</id><content type="html" xml:base="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html">&lt;p&gt;The &lt;a href=&quot;http://techbookfest.org/event/tbf06&quot;&gt;6th Techbook Fest&lt;/a&gt; is coterie event for people who would like to write their own technical books. 
-We went to it as DevRel Meetup in Tokyo. This is our second time going to the event, after going to the 5th Techbook Fest last year. We would like to do a reflection and sum up on this experience.&lt;/p&gt;
+<p>If you believe that developers are stakeholders for your company, then DevRel is a must. That being said, if it’s done halfheartedly and not properly, then it adds extra cost and becomes a negative factor. If you’re going to do it, you should have a medium to long-term perspective and goal.</p>
 
-&lt;h2 id=&quot;reflecting-on-the-5th-techbook-fest&quot;&gt;Reflecting on the 5th Techbook Fest&lt;/h2&gt;
-&lt;p&gt;As mentioned in my last post, the 5th Techbook Fest was the first ever Techbook Fest that we went to, so we struggled quite a bit with distribution (we was quite unpleasant on that day, and we weren’t selling things). This is a book with both the &lt;a href=&quot;https://www.amazon.co.jp/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%80%90%E5%85%89%E7%B7%A8%E3%80%91-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07HY296HF/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=devrel&amp;amp;qid=1555332198&amp;amp;s=gateway&amp;amp;sr=8-3&quot;&gt;good side&lt;/a&gt; and the &lt;a href=&quot;https://www.amazon.co.jp/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%80%90%E9%97%87%E7%B7%A8%E3%80%91-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07HY2QB66/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=devrel&amp;amp;qid=1555332198&amp;amp;s=gateway&amp;amp;sr=8-2&quot;&gt;bad side&lt;/a&gt; of the technician community. People were happy because they were able to write what we wanted to write about and turn it into books, but that doesn’t mean their books all made good hits. That being said, though, there were just so many books one could go crazy about, and it was extremely difficult to narrow down topics and whom you could sell you work to. Techbook Fest is deep indeed.&lt;/p&gt;
+<p>At MOONGIFT, we do consulting and outsourcing of DevRel. We will discuss DevRel work and strategies that works for your company specifically, and implement it. For any inquires regarding DevRel, <a href="/contact">please contact us</a>.</p>]]></content><author><name>moongift</name></author><category term="DevRel" /><summary type="html"><![CDATA[How can we decide if we should introduce DevRel? The desicion is actually very easy to make.]]></summary></entry><entry><title type="html">Information that should be measured in cultivating the developer community.</title><link href="https://devre.co/community/2019/05/28/watching-community-metrics.html" rel="alternate" type="text/html" title="Information that should be measured in cultivating the developer community." /><published>2019-05-28T09:00:00+09:00</published><updated>2019-05-28T09:00:00+09:00</updated><id>https://devre.co/community/2019/05/28/watching-community-metrics</id><content type="html" xml:base="https://devre.co/community/2019/05/28/watching-community-metrics.html"><![CDATA[<p>I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.</p>
 
-&lt;p&gt;It was sort of a shame that each author only got 2,639 yen last time, so we thought we would work a little harder this time (well, at least we didn’t end up with a negative number last time).&lt;/p&gt;
+<p>This time I will introduce areas of focus for carrying out a developer community.</p>
 
-&lt;h2 id=&quot;deciding-what-you-are-going-to-write-about&quot;&gt;Deciding what you are going to write about&lt;/h2&gt;
+<h2 id="number-of-participants">Number of participants.</h2>
 
-&lt;p&gt;Write as you may, you need to make your work easy for people to buy. Also, if you are part of DevRel Meetup in Tokyo, you are required to join the event with other people.&lt;/p&gt;
+<p>If there is only one person registered for 50-person events, you have a big problem. Why does this issue occur?</p>
 
-&lt;p&gt;People were all free to throw their ideas around until the election, but on the day right after the election (February 6th), we had a chat online and decided what the topics would be.&lt;/p&gt;
+<ul>
+  <li>Insufficient notice.</li>
+  <li>Lack of target group.</li>
+  <li>Problems with the content.</li>
+  <li>Location issues.</li>
+  <li>Scheduling issues.</li>
+  <li>Event fare.</li>
+</ul>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>These and more can be thought of as answers. In most cases, the cause seems to be problems with the content. Rather than considering what you want to convey, you should focus on what content the audience wants to hear. If the content is too specialized and catered towards a narrow field, there is the chance your target audience will be insufficient from the outset.</p>
 
-&lt;p&gt;At this point, we decided to go with “English lecture for engineers”, “On blogging” and “Presentation skills”.&lt;/p&gt;
+<p>If your event charges money for entry the amount of participation registrations will drop dramatically. If you have confidence in the content, there shouldn’t be a problem even if you charge. In this case, the participation rate of the next event will improve by a large margin.</p>
 
-&lt;h2 id=&quot;tablecloth-for-your-group&quot;&gt;Tablecloth for your group&lt;/h2&gt;
+<h2 id="participation-rate">Participation rate.</h2>
 
-&lt;p&gt;[Canvath started taking table cloth orders] on February 7th (https://canvath.jp/items). And that’s when DevRel Meetup in Tokyo first had to have its table cloth made. We outsourced this task to &lt;a href=&quot;https://twitter.com/taiponrock&quot;&gt;@taiponrock&lt;/a&gt;, who, as far as tablecloths are concerned, handles everything from designing to logo design.&lt;/p&gt;
+<p>It is also a problem if 50 people register but only 20 show up. Many people will say that 70% of the developer community attending is a satisfactory result, but I personally do not think that way. The minimum line should be 85% at the least, (25 participants per 30 registrations.) The causes of this problem are outlined below.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<ul>
+  <li>No reminders are sent.</li>
+  <li>People who register provisionally.</li>
+  <li>Problems with the weather.</li>
+  <li>Free events.</li>
+</ul>
 
-&lt;h2 id=&quot;choosing-a-leader&quot;&gt;Choosing a leader&lt;/h2&gt;
-&lt;p&gt;If a book is co-authored, there has to be a person in charge of writing the introduction and manages everyone to make sure they are moving along just fine. I did all of these by myself last time, but this time I chose a leader for each book and assigned a book to each one of them.&lt;/p&gt;
+<p>People register provisionally to get in first. Because of that, they register provisionally regardless of whether or not they will actually attend. They only think over whether or not they will attend afterwards, then will cancel their attendance or just not show up. In this case, reception needs to be conducted properly, and repeated no showers should be denied participation.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>Participation rates tend to be poor for free events. It seems that people think that because these events are free they can register casually and therefore that its okay if they don’t go.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;English lecture for engineers：&lt;a href=&quot;https://twitter.com/taiponrock&quot;&gt;@taiponrock&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Presentation skills：&lt;a href=&quot;https://twitter.com/1ft_seabass&quot;&gt;@tseigo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;On blogging：&lt;a href=&quot;https://twitter.com/beajourneyman/&quot;&gt;@beajourneyman&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="repeat-rate">Repeat rate.</h2>
 
-&lt;p&gt;I gathered even more authors from our community events. At the end, I ended up with 6 authors for “English lecture for engineers” and “On blogging”, and 4 people for “Presentation skills”. The calculation goes: if we have 6 people writing 5 pages each, we would then end up with 30 pages, which makes something of a book.&lt;/p&gt;
+<p>Take a look at the rate of participants who have attended before and those who are new. If your participants are only repeaters or only new, you have a problem. The ratio of existing to new participants should be around 6:4 in general. Please consult <a href="/community/2019/05/24/community-metrics.html">The ratio of existing and new participants which cannot be overlooked in community development </a> for further details.</p>
 
-&lt;h2 id=&quot;book-releasemarch-18th&quot;&gt;Book release（March 18th）&lt;/h2&gt;
+<h2 id="amount-of-tweets">Amount of tweets.</h2>
 
-&lt;p&gt;We made our work public on March 18th, and it was from this point on out that we spread words on social media and collected hits. We started making flyers for our club and added detailed information for our work on social media.&lt;/p&gt;
+<p>Most developers have twitter accounts. New people are informed through their output. If the community is lively and energetic, these new people might want to participate in the next event.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>The amount of tweets is important, but let’s take a look at the number of people tweeting. If a lot of the participants have an account but aren’t tweeting about the event, the cause could be a problem with the content.</p>
 
-&lt;p&gt;This is how it was the other day when everyone was quietly producing their work.&lt;/p&gt;
+<h2 id="participation-report-number">Participation report number.</h2>
 
-&lt;p&gt;We didn’t keep a good record of how many hits we got, but a quick look a Slack’s blog gives us these.&lt;/p&gt;
+<p>If the amount of reports of participation from blogs, Qiita, etc., increases the presence of the community will broaden. You may as well add a participation box on a blog, but personally I don’t get the impression that many people register through these blog boxes. Rather, it seems to be more effective to ask people to write their impressions on their blogs either during the event or afterwards.</p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Date&lt;/th&gt;
-      &lt;th&gt;Hits&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March 18 9:00&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March 18 23:00&lt;/td&gt;
-      &lt;td&gt;29&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March 23 14:38&lt;/td&gt;
-      &lt;td&gt;54&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March 27 17:57&lt;/td&gt;
-      &lt;td&gt;66&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March 29 17:29&lt;/td&gt;
-      &lt;td&gt;71&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 02 11:11&lt;/td&gt;
-      &lt;td&gt;90&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 03 11:36&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 08 14:57&lt;/td&gt;
-      &lt;td&gt;141&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 09 08:57&lt;/td&gt;
-      &lt;td&gt;156&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 11 10:12&lt;/td&gt;
-      &lt;td&gt;189&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 11 11:37&lt;/td&gt;
-      &lt;td&gt;191&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 11 18:08&lt;/td&gt;
-      &lt;td&gt;195&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 12 10:50&lt;/td&gt;
-      &lt;td&gt;206&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 13 07:30&lt;/td&gt;
-      &lt;td&gt;233&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 13 21:10&lt;/td&gt;
-      &lt;td&gt;293&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 14 07:15&lt;/td&gt;
-      &lt;td&gt;358&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;April 14 12:00&lt;/td&gt;
-      &lt;td&gt;408&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<h2 id="frequency-of-holding-events">Frequency of holding events.</h2>
 
-&lt;p&gt;This is how it looks like when we turned these numbers into a graph. The slope gets steeper as we get closer.&lt;/p&gt;
+<p>The more participants you have, the more intense it is, and the more overflowing with content your event is, the more the frequency of event holding increases. Whether or not they should be held once a month or once every three months probably depends on the community. The important thing is to conduct them regularly. The frequency with which events are held is determined by the number of the target audience. Please take care not to run out of content as result of forcing yourself to repeat these events too often.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<h2 id="number-of-social-gathering-and-after-party-participants">Number of social gathering and after party participants.</h2>
 
-&lt;p&gt;The number of hits we have tells us how many people know about us, so we were quite satisfied with the number we had. By the way, we only had 71 hits at the 5th Techbook Fest last time, which means that, this time, we had close to 6 times the hits we had before. I guess our work clicked with our readers!&lt;/p&gt;
+<p>If the event is felt to be enjoyable, many will remain for the social gathering afterwards. Furthermore, those who stay for the after party will be even more eager and there is a chance you can invite them to become management members. People will stay for the social gathering for the content, and there is a high chance they will remain for the after party if the participants and managing members are good. Community isn’t just about the content, the connections between people is important. These connections will of course appear at the social gathering, but will be even stronger at the after party.</p>
 
-&lt;h2 id=&quot;the-manga-pamphlet&quot;&gt;The manga pamphlet&lt;/h2&gt;
+<h2 id="conclusion">Conclusion.</h2>
 
-&lt;p&gt;We prepared 300 copies of “Know DevRel by manga”(by &lt;a href=&quot;https://twitter.com/llminatoll&quot;&gt;Minatogawa&lt;/a&gt;). For every one copy of our work people bought from us, we gave them one copy of the manga pamphlet for free. We gave away the manga pamphlets in place of a novelty, and we had to pay for the manga pamphlets out of our own pockets. We had 300 copies, costing us a total of 25,890 yen, which averages to 86 yen each copy. Not too bad a price to pay for a novelty to be made, I would say. The manga pamphlets made great hit, and there were even people who went only to buy the manga pamphlets. The manga pamphlets just spread like wildfire. Wakaba-chan is truly amazing…&lt;/p&gt;
+<p>Information like that above can be measured quantitatively. And remember to record qualitative information such as the atmosphere of the event. By recording information like this, you can quickly grasp that the participation rate is decreasing and the rate of event holding is falling. Attempting to support something after it has already entered a downward trend is even more difficult than starting from scratch, so dealing with it as soon as possible is a necessity.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<h2 id="moongift-supports-community-cultivation">MOONGIFT supports community cultivation.</h2>
 
-&lt;p&gt;By the way, this  “Know DevRel by manga” is for not sale, and you can only get it for free if you join &lt;a href=&quot;https://devrel.connpass.com/&quot;&gt;DevRel Meetup in Tokyo&lt;/a&gt;. Join us to get your free copy!&lt;/p&gt;
+<p>At MOONGIFT, we support the cultivation of developer communities. As the community manager of your company, we nurture developer communities. We aim for communities to eventually propel themselves and run on their own. For those who want to start their own community, or for those having problems with their current community <a href="/contact">please contact us</a>.</p>]]></content><author><name>moongift</name></author><category term="Community" /><summary type="html"><![CDATA[I often hear people say that they want to create a developer community for the service of their company. I also often hear people say that while it is good to make a community, they just don’t seem to go well. The problem here is most likely thinking of a community as a qualitative thing, and working it out by feel. Because of that, it becomes hard to tell if more support is needed, or to discover points which require improvement.]]></summary></entry><entry><title type="html">We went to the 6th Techbook Fest (revenue listed at the end of this article)</title><link href="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html" rel="alternate" type="text/html" title="We went to the 6th Techbook Fest (revenue listed at the end of this article)" /><published>2019-05-27T09:00:00+09:00</published><updated>2019-05-27T09:00:00+09:00</updated><id>https://devre.co/event/techbook%20fest/2019/05/27/techbookfest</id><content type="html" xml:base="https://devre.co/event/techbook%20fest/2019/05/27/techbookfest.html"><![CDATA[<p>The <a href="http://techbookfest.org/event/tbf06">6th Techbook Fest</a> is coterie event for people who would like to write their own technical books. 
+We went to it as DevRel Meetup in Tokyo. This is our second time going to the event, after going to the 5th Techbook Fest last year. We would like to do a reflection and sum up on this experience.</p>
 
-&lt;h2 id=&quot;the-front-cover&quot;&gt;The front cover&lt;/h2&gt;
+<h2 id="reflecting-on-the-5th-techbook-fest">Reflecting on the 5th Techbook Fest</h2>
+<p>As mentioned in my last post, the 5th Techbook Fest was the first ever Techbook Fest that we went to, so we struggled quite a bit with distribution (we was quite unpleasant on that day, and we weren’t selling things). This is a book with both the <a href="https://www.amazon.co.jp/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%80%90%E5%85%89%E7%B7%A8%E3%80%91-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07HY296HF/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=devrel&amp;qid=1555332198&amp;s=gateway&amp;sr=8-3">good side</a> and the <a href="https://www.amazon.co.jp/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%80%90%E9%97%87%E7%B7%A8%E3%80%91-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07HY2QB66/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=devrel&amp;qid=1555332198&amp;s=gateway&amp;sr=8-2">bad side</a> of the technician community. People were happy because they were able to write what we wanted to write about and turn it into books, but that doesn’t mean their books all made good hits. That being said, though, there were just so many books one could go crazy about, and it was extremely difficult to narrow down topics and whom you could sell you work to. Techbook Fest is deep indeed.</p>
 
-&lt;p&gt;There are countless clubs to see at a Techbook Fest, so you don’t exactly have all the time in the world to look around. You literally need to judge your targets by their covers and decide whether you are going to by them or not after giving their samples a good look. We had 3 books this time, and they were all designed by &lt;a href=&quot;https://twitter.com/taiponrock&quot;&gt;@taiponrock&lt;/a&gt;. It was a big of a burden, but it was great to have a sense of unity.&lt;/p&gt;
+<p>It was sort of a shame that each author only got 2,639 yen last time, so we thought we would work a little harder this time (well, at least we didn’t end up with a negative number last time).</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<h2 id="deciding-what-you-are-going-to-write-about">Deciding what you are going to write about</h2>
 
-&lt;h2 id=&quot;printing&quot;&gt;Printing&lt;/h2&gt;
+<p>Write as you may, you need to make your work easy for people to buy. Also, if you are part of DevRel Meetup in Tokyo, you are required to join the event with other people.</p>
 
-&lt;p&gt;We outsourced printing to [Nikko Kikaku] (http://www.nikko-pc.com) as we did last time. They print everything perfectly even if what you initially ask them to print might be the best in terms of quality. We print our books in the following quantities. The quantities have been decided by each of leader in charge of each of our books.&lt;/p&gt;
+<p>People were all free to throw their ideas around until the election, but on the day right after the election (February 6th), we had a chat online and decided what the topics would be.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;English lecture for engineers：150 copies&lt;/li&gt;
-  &lt;li&gt;Presentation skills：70 copies&lt;/li&gt;
-  &lt;li&gt;On blogging：100 copies&lt;/li&gt;
-&lt;/ul&gt;
+<p><img src="/images/articles/techbookfest6-1.png" alt="" /></p>
 
-&lt;p&gt;We asked them to print this many copies for “English lecture for engineers” because I thought there would be a lot of people buying it. Well, turned out it was just my wishful thinking.&lt;/p&gt;
+<p>At this point, we decided to go with “English lecture for engineers”, “On blogging” and “Presentation skills”.</p>
 
-&lt;p&gt;On the day of the event, we started with work by &lt;a href=&quot;https://twitter.com/1ft_seabass&quot;&gt;@tseigo&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/tarotaro4&quot;&gt;@tarotaro&lt;/a&gt;. (I started by helping out at a different club).&lt;/p&gt;
+<h2 id="tablecloth-for-your-group">Tablecloth for your group</h2>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>[Canvath started taking table cloth orders] on February 7th (https://canvath.jp/items). And that’s when DevRel Meetup in Tokyo first had to have its table cloth made. We outsourced this task to <a href="https://twitter.com/taiponrock">@taiponrock</a>, who, as far as tablecloths are concerned, handles everything from designing to logo design.</p>
 
-&lt;p&gt;Then, right at that moment, &lt;a href=&quot;https://twitter.com/1ft_seabass&quot;&gt;@tseigo&lt;/a&gt; finished his shout out message to the visitors, which includes his physical and hand gestures. When 11 am rolled around, people just kept coming and coming and coming.&lt;/p&gt;
+<p><img src="/images/articles/techbookfest6-2.jpeg" alt="" /></p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;We are DevRel Meetup! We have everything you need to spread your techniques! Check out what we have - books on English, presentation skills, and blogging! Get one of our books now and get a copy of “Know DevRel by manga” by Minatogawa. We have all sorts of sample magazines, too. Feel free to check them out.&lt;/p&gt;
-&lt;/blockquote&gt;
+<h2 id="choosing-a-leader">Choosing a leader</h2>
+<p>If a book is co-authored, there has to be a person in charge of writing the introduction and manages everyone to make sure they are moving along just fine. I did all of these by myself last time, but this time I chose a leader for each book and assigned a book to each one of them.</p>
 
-&lt;p&gt;This shout out message was super important, because people pretty much only pass by your stand once with the venue being as crowded as it was, so a good message that could help us get people’s attention and stop by  was of vital importance. People didn’t have time to listen to a long message, so we had to be concise and straight up tell people “what it is we were selling”, “who we were trying to sell our products to”, as well as the fact that “we had a free copy of manga to give away for each book purchased”. &lt;a href=&quot;https://twitter.com/kabukawa/&quot;&gt;@kabukawa&lt;/a&gt; and I personally took over and did the shout out message after.&lt;/p&gt;
+<p><img src="/images/articles/techbookfest6-3.png" alt="" /></p>
 
-&lt;h3 id=&quot;selling-things-over-the-counter&quot;&gt;Selling things over the counter&lt;/h3&gt;
+<ul>
+  <li>English lecture for engineers：<a href="https://twitter.com/taiponrock">@taiponrock</a></li>
+  <li>Presentation skills：<a href="https://twitter.com/1ft_seabass">@tseigo</a></li>
+  <li>On blogging：<a href="https://twitter.com/beajourneyman/">@beajourneyman</a></li>
+</ul>
 
-&lt;p&gt;When it comes to a Techbook Fest, one thing I found enjoyable is the fact that you get to sell things over the counter. Friends dropped by, read our samples, asked us “Are you guys going to give a speech abroad?”, and told us that “We watch MOONGIFT”. We didn’t have time to slowly talk to everyone, but one thing we found truly fantastic about the event is that everyone who bought from us was super happy.&lt;/p&gt;
+<p>I gathered even more authors from our community events. At the end, I ended up with 6 authors for “English lecture for engineers” and “On blogging”, and 4 people for “Presentation skills”. The calculation goes: if we have 6 people writing 5 pages each, we would then end up with 30 pages, which makes something of a book.</p>
 
-&lt;h3 id=&quot;out-of-stock&quot;&gt;Out of stock&lt;/h3&gt;
+<h2 id="book-releasemarch-18th">Book release（March 18th）</h2>
 
-&lt;p&gt;We ran out of all 70 copies of our free mangas at 13:34.&lt;/p&gt;
+<p>We made our work public on March 18th, and it was from this point on out that we spread words on social media and collected hits. We started making flyers for our club and added detailed information for our work on social media.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/articles/techbookfest6-4.png" alt="" /></p>
 
-&lt;p&gt;Then at 14:01, we ran out of copies for “English lecture for engineers”.&lt;/p&gt;
+<p>This is how it was the other day when everyone was quietly producing their work.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>We didn’t keep a good record of how many hits we got, but a quick look a Slack’s blog gives us these.</p>
 
-&lt;p&gt;We ran out of “On blogging” at 14:08. We were totally out of physical copies. I guess there was potential for us to sell more (probably 30 more copies in total).&lt;/p&gt;
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Hits</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>March 18 9:00</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td>March 18 23:00</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>March 23 14:38</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td>March 27 17:57</td>
+      <td>66</td>
+    </tr>
+    <tr>
+      <td>March 29 17:29</td>
+      <td>71</td>
+    </tr>
+    <tr>
+      <td>April 02 11:11</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td>April 03 11:36</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>April 08 14:57</td>
+      <td>141</td>
+    </tr>
+    <tr>
+      <td>April 09 08:57</td>
+      <td>156</td>
+    </tr>
+    <tr>
+      <td>April 11 10:12</td>
+      <td>189</td>
+    </tr>
+    <tr>
+      <td>April 11 11:37</td>
+      <td>191</td>
+    </tr>
+    <tr>
+      <td>April 11 18:08</td>
+      <td>195</td>
+    </tr>
+    <tr>
+      <td>April 12 10:50</td>
+      <td>206</td>
+    </tr>
+    <tr>
+      <td>April 13 07:30</td>
+      <td>233</td>
+    </tr>
+    <tr>
+      <td>April 13 21:10</td>
+      <td>293</td>
+    </tr>
+    <tr>
+      <td>April 14 07:15</td>
+      <td>358</td>
+    </tr>
+    <tr>
+      <td>April 14 12:00</td>
+      <td>408</td>
+    </tr>
+  </tbody>
+</table>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>This is how it looks like when we turned these numbers into a graph. The slope gets steeper as we get closer.</p>
 
-&lt;h3 id=&quot;on-to-kindle&quot;&gt;On to Kindle&lt;/h3&gt;
+<p><img src="/images/articles/techbookfest6-5.png" alt="" /></p>
 
-&lt;p&gt;We moved on to Kindle after we were done selling all our physical copies. What we realized, though, was that a lot of people either didn’t have the Kindle app installed or that they simply didn’t like Kindle, so, based on our rough estimate, we lost about half of our potential buyers. Guess we should have used the download card more often…&lt;/p&gt;
+<p>The number of hits we have tells us how many people know about us, so we were quite satisfied with the number we had. By the way, we only had 71 hits at the 5th Techbook Fest last time, which means that, this time, we had close to 6 times the hits we had before. I guess our work clicked with our readers!</p>
 
-&lt;p&gt;We sold about 50 copies on Kindle in a single day.&lt;/p&gt;
+<h2 id="the-manga-pamphlet">The manga pamphlet</h2>
 
-&lt;h2 id=&quot;profit&quot;&gt;Profit&lt;/h2&gt;
+<p>We prepared 300 copies of “Know DevRel by manga”(by <a href="https://twitter.com/llminatoll">Minatogawa</a>). For every one copy of our work people bought from us, we gave them one copy of the manga pamphlet for free. We gave away the manga pamphlets in place of a novelty, and we had to pay for the manga pamphlets out of our own pockets. We had 300 copies, costing us a total of 25,890 yen, which averages to 86 yen each copy. Not too bad a price to pay for a novelty to be made, I would say. The manga pamphlets made great hit, and there were even people who went only to buy the manga pamphlets. The manga pamphlets just spread like wildfire. Wakaba-chan is truly amazing…</p>
 
-&lt;p&gt;I guess you all are very curious about how much we money we made. Here you go.&lt;/p&gt;
+<p><img src="/images/articles/techbookfest6-6.png" alt="" /></p>
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Items&lt;/th&gt;
-      &lt;th&gt;Amount&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Expense&lt;/td&gt;
-      &lt;td&gt;108,762 yen&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Proceed&lt;/td&gt;
-      &lt;td&gt;333,418 yen&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Profit&lt;/td&gt;
-      &lt;td&gt;224,656 yen&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<p>By the way, this  “Know DevRel by manga” is for not sale, and you can only get it for free if you join <a href="https://devrel.connpass.com/">DevRel Meetup in Tokyo</a>. Join us to get your free copy!</p>
 
-&lt;p&gt;This profit was split among the authors, so everyone got about 15,000 yen. If we were to calculate this amount by the hour, though, we probably would have been sued for workplace abuse, but then again it was just a coterie event, and the event itself was just part of what the community does. It was meant for people to enjoy coming up with their own books and selling them and, if they were lucky enough to go home to even a tiny amount of profit, they would be fine with just that (and I think most people will agree with my take on this).&lt;/p&gt;
+<h2 id="the-front-cover">The front cover</h2>
 
-&lt;p&gt;The amount of profit we ended up with, though, is so much more than the 2,639 yen that we had last time. I think it’s because what we had were what a lot of people were looking for. Not sure if things will go this well for us next time, but I would definitely like to try and come up with something more solid for the next Textbook Fest.&lt;/p&gt;
+<p>There are countless clubs to see at a Techbook Fest, so you don’t exactly have all the time in the world to look around. You literally need to judge your targets by their covers and decide whether you are going to by them or not after giving their samples a good look. We had 3 books this time, and they were all designed by <a href="https://twitter.com/taiponrock">@taiponrock</a>. It was a big of a burden, but it was great to have a sense of unity.</p>
 
-&lt;h2 id=&quot;the-after-party&quot;&gt;The after-party&lt;/h2&gt;
+<p><img src="/images/articles/techbookfest6-7.png" alt="" /></p>
 
-&lt;p&gt;With the event coming to an end, we all went to the entrance to have pictures taken and started heading towards the venue for the after-party. There were other unofficial after-parties we could go to, but we decided to do our own celebration at a tavern because we wanted to hang out with other communities, and also because there were just too many of us.&lt;/p&gt;
+<h2 id="printing">Printing</h2>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-11.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>We outsourced printing to [Nikko Kikaku] (http://www.nikko-pc.com) as we did last time. They print everything perfectly even if what you initially ask them to print might be the best in terms of quality. We print our books in the following quantities. The quantities have been decided by each of leader in charge of each of our books.</p>
 
-&lt;p&gt;Our after-after-party, at a gyoza restaurant.&lt;/p&gt;
+<ul>
+  <li>English lecture for engineers：150 copies</li>
+  <li>Presentation skills：70 copies</li>
+  <li>On blogging：100 copies</li>
+</ul>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/techbookfest6-12.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p>We asked them to print this many copies for “English lecture for engineers” because I thought there would be a lot of people buying it. Well, turned out it was just my wishful thinking.</p>
 
-&lt;h2 id=&quot;thoughts&quot;&gt;Thoughts&lt;/h2&gt;
+<p>On the day of the event, we started with work by <a href="https://twitter.com/1ft_seabass">@tseigo</a> and <a href="https://twitter.com/tarotaro4">@tarotaro</a>. (I started by helping out at a different club).</p>
 
-&lt;p&gt;It sure was exhausting having to stand all day and shouting to get our books sold, but it was wonderful being able to see the even allowed people to communicate to one another through writing technical books. It would suck the soul out of a person if you ask him to write a 200-page book alone. On the other hand, though, being able to write a book with that many pages with people from your community is a lot more fun, and that’s how DevRel comes up with its fan fictions.This is what &lt;a href=&quot;https://twitter.com/beajourneyman/&quot;&gt;@beajourneyman&lt;/a&gt; said.&lt;/p&gt;
+<p><img src="/images/articles/techbookfest6-7.jpeg" alt="" /></p>
 
-&lt;blockquote&gt;
-  &lt;p&gt;For books with single authors, they would be hard sales if the authors can’t offer what readers are looking for. On the other hand, co-authored books would fare much better because those books have all sorts of different points of views from different authors.&lt;/p&gt;
-&lt;/blockquote&gt;
+<p>Then, right at that moment, <a href="https://twitter.com/1ft_seabass">@tseigo</a> finished his shout out message to the visitors, which includes his physical and hand gestures. When 11 am rolled around, people just kept coming and coming and coming.</p>
 
-&lt;p&gt;And it’s even more so the case with events like the Techbook Fest, where such a specific group of buyers gather together for such a specific category of books; if your work doesn’t go big, it goes home.  Books with hundreds of pages will just crash and burn if people just don’t buy them. You might be able to come up with your own books the more Techbook Fests you go to, but if you end up going home with work that didn’t fly, you most likely wouldn’t want to join the event ever again. While we decided on themes we wanted for our books, I think it was the fact that our books were co-authored (as they say, “Together, we are strong”) that help us survive just fine.&lt;/p&gt;
+<blockquote>
+  <p>We are DevRel Meetup! We have everything you need to spread your techniques! Check out what we have - books on English, presentation skills, and blogging! Get one of our books now and get a copy of “Know DevRel by manga” by Minatogawa. We have all sorts of sample magazines, too. Feel free to check them out.</p>
+</blockquote>
 
-&lt;p&gt;By the way, all our physical copies were sold out, as I mentioned earlier. You can, though, still buy a copy on Kindle at the following link.&lt;/p&gt;
+<p>This shout out message was super important, because people pretty much only pass by your stand once with the venue being as crowded as it was, so a good message that could help us get people’s attention and stop by  was of vital importance. People didn’t have time to listen to a long message, so we had to be concise and straight up tell people “what it is we were selling”, “who we were trying to sell our products to”, as well as the fact that “we had a free copy of manga to give away for each book purchased”. <a href="https://twitter.com/kabukawa/">@kabukawa</a> and I personally took over and did the shout out message after.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%BA%83%E3%81%8C%E3%82%8B%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07Q86FNHB/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=devrel&amp;amp;qid=1555331303&amp;amp;s=gateway&amp;amp;sr=8-5&quot;&gt;English lecture for engineers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86-%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B8%E3%81%8F%E6%8A%80%E8%A1%93-%E7%94%B0%E4%B8%AD%E6%AD%A3%E5%90%BE-ebook/dp/B07Q4RFSQV/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=devrel&amp;amp;qid=1555331303&amp;amp;s=gateway&amp;amp;sr=8-6&quot;&gt;On blogging&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-%E7%94%B0%E4%B8%AD%E6%AD%A3%E5%90%BE-ebook/dp/B07Q854G1T/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;keywords=devrel&amp;amp;qid=1555331303&amp;amp;s=gateway&amp;amp;sr=8-7&quot;&gt;Presentation skills&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<h3 id="selling-things-over-the-counter">Selling things over the counter</h3>
 
-&lt;p&gt;We are thinking about making more copies so people can purcahse their physical copies from us at community events. If you are interested, check out &lt;a href=&quot;https://devrel.connpass.com/&quot;&gt;DevRel Meetup in Tokyo&lt;/a&gt; where our event dates are posted.&lt;/p&gt;
+<p>When it comes to a Techbook Fest, one thing I found enjoyable is the fact that you get to sell things over the counter. Friends dropped by, read our samples, asked us “Are you guys going to give a speech abroad?”, and told us that “We watch MOONGIFT”. We didn’t have time to slowly talk to everyone, but one thing we found truly fantastic about the event is that everyone who bought from us was super happy.</p>
 
-&lt;p&gt;Oh yea, we are looking for writers for the next event! Join us and enjoy writing!&lt;/p&gt;
+<h3 id="out-of-stock">Out of stock</h3>
 
-&lt;script&gt;
-  document.addEventListener('DOMContentLoaded', (e) =&gt; {
+<p>We ran out of all 70 copies of our free mangas at 13:34.</p>
+
+<p><img src="/images/articles/techbookfest6-8.png" alt="" /></p>
+
+<p>Then at 14:01, we ran out of copies for “English lecture for engineers”.</p>
+
+<p><img src="/images/articles/techbookfest6-9.png" alt="" /></p>
+
+<p>We ran out of “On blogging” at 14:08. We were totally out of physical copies. I guess there was potential for us to sell more (probably 30 more copies in total).</p>
+
+<p><img src="/images/articles/techbookfest6-10.png" alt="" /></p>
+
+<h3 id="on-to-kindle">On to Kindle</h3>
+
+<p>We moved on to Kindle after we were done selling all our physical copies. What we realized, though, was that a lot of people either didn’t have the Kindle app installed or that they simply didn’t like Kindle, so, based on our rough estimate, we lost about half of our potential buyers. Guess we should have used the download card more often…</p>
+
+<p>We sold about 50 copies on Kindle in a single day.</p>
+
+<h2 id="profit">Profit</h2>
+
+<p>I guess you all are very curious about how much we money we made. Here you go.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Items</th>
+      <th>Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Expense</td>
+      <td>108,762 yen</td>
+    </tr>
+    <tr>
+      <td>Proceed</td>
+      <td>333,418 yen</td>
+    </tr>
+    <tr>
+      <td>Profit</td>
+      <td>224,656 yen</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This profit was split among the authors, so everyone got about 15,000 yen. If we were to calculate this amount by the hour, though, we probably would have been sued for workplace abuse, but then again it was just a coterie event, and the event itself was just part of what the community does. It was meant for people to enjoy coming up with their own books and selling them and, if they were lucky enough to go home to even a tiny amount of profit, they would be fine with just that (and I think most people will agree with my take on this).</p>
+
+<p>The amount of profit we ended up with, though, is so much more than the 2,639 yen that we had last time. I think it’s because what we had were what a lot of people were looking for. Not sure if things will go this well for us next time, but I would definitely like to try and come up with something more solid for the next Textbook Fest.</p>
+
+<h2 id="the-after-party">The after-party</h2>
+
+<p>With the event coming to an end, we all went to the entrance to have pictures taken and started heading towards the venue for the after-party. There were other unofficial after-parties we could go to, but we decided to do our own celebration at a tavern because we wanted to hang out with other communities, and also because there were just too many of us.</p>
+
+<p><img src="/images/articles/techbookfest6-11.jpeg" alt="" /></p>
+
+<p>Our after-after-party, at a gyoza restaurant.</p>
+
+<p><img src="/images/articles/techbookfest6-12.jpg" alt="" /></p>
+
+<h2 id="thoughts">Thoughts</h2>
+
+<p>It sure was exhausting having to stand all day and shouting to get our books sold, but it was wonderful being able to see the even allowed people to communicate to one another through writing technical books. It would suck the soul out of a person if you ask him to write a 200-page book alone. On the other hand, though, being able to write a book with that many pages with people from your community is a lot more fun, and that’s how DevRel comes up with its fan fictions.This is what <a href="https://twitter.com/beajourneyman/">@beajourneyman</a> said.</p>
+
+<blockquote>
+  <p>For books with single authors, they would be hard sales if the authors can’t offer what readers are looking for. On the other hand, co-authored books would fare much better because those books have all sorts of different points of views from different authors.</p>
+</blockquote>
+
+<p>And it’s even more so the case with events like the Techbook Fest, where such a specific group of buyers gather together for such a specific category of books; if your work doesn’t go big, it goes home.  Books with hundreds of pages will just crash and burn if people just don’t buy them. You might be able to come up with your own books the more Techbook Fests you go to, but if you end up going home with work that didn’t fly, you most likely wouldn’t want to join the event ever again. While we decided on themes we wanted for our books, I think it was the fact that our books were co-authored (as they say, “Together, we are strong”) that help us survive just fine.</p>
+
+<p>By the way, all our physical copies were sold out, as I mentioned earlier. You can, though, still buy a copy on Kindle at the following link.</p>
+
+<ul>
+  <li><a href="https://www.amazon.co.jp/%E8%8B%B1%E8%AA%9E%E3%81%A7%E5%BA%83%E3%81%8C%E3%82%8B%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2-%E4%B8%AD%E6%B4%A5%E5%B7%9D%E7%AF%A4%E5%8F%B8-ebook/dp/B07Q86FNHB/ref=sr_1_5?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=devrel&amp;qid=1555331303&amp;s=gateway&amp;sr=8-5">English lecture for engineers</a></li>
+  <li><a href="https://www.amazon.co.jp/%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B8%E3%81%93%E3%81%86-%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B8%E3%81%8F%E6%8A%80%E8%A1%93-%E7%94%B0%E4%B8%AD%E6%AD%A3%E5%90%BE-ebook/dp/B07Q4RFSQV/ref=sr_1_6?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=devrel&amp;qid=1555331303&amp;s=gateway&amp;sr=8-6">On blogging</a></li>
+  <li><a href="https://www.amazon.co.jp/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-%E7%94%B0%E4%B8%AD%E6%AD%A3%E5%90%BE-ebook/dp/B07Q854G1T/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;keywords=devrel&amp;qid=1555331303&amp;s=gateway&amp;sr=8-7">Presentation skills</a></li>
+</ul>
+
+<p>We are thinking about making more copies so people can purcahse their physical copies from us at community events. If you are interested, check out <a href="https://devrel.connpass.com/">DevRel Meetup in Tokyo</a> where our event dates are posted.</p>
+
+<p>Oh yea, we are looking for writers for the next event! Join us and enjoy writing!</p>
+
+<script>
+  document.addEventListener('DOMContentLoaded', (e) => {
     let first = true;
-    document.querySelectorAll('.postBody img').forEach(dom =&gt; {
+    document.querySelectorAll('.postBody img').forEach(dom => {
       if (!first) {
         dom.classList.add('blogImg');
       }
       first = false;
     });
-    document.querySelectorAll('table').forEach(dom =&gt; {
+    document.querySelectorAll('table').forEach(dom => {
       dom.classList.add('table')
     });
   });
-&lt;/script&gt;
+</script>
 
-&lt;style&gt;
+<style>
   .blogImg {
     width: 70% !important;
     text-align: center;
     border: 1px grey solid;
   }
-&lt;/style&gt;</content><author><name>moongift</name></author><summary type="html">The 6th Techbook Fest is coterie event for people who would like to write their own technical books. We went to it as DevRel Meetup in Tokyo. This is our second time going to the event, after going to the 5th Techbook Fest last year. We would like to do a reflection and sum up on this experience.</summary></entry><entry><title type="html">the number of people at an event that can sustain the level of passion of the developer community</title><link href="https://devre.co/community/2019/05/24/community-metrics.html" rel="alternate" type="text/html" title="the number of people at an event that can sustain the level of passion of the developer community" /><published>2019-05-24T09:00:00+09:00</published><updated>2019-05-24T09:00:00+09:00</updated><id>https://devre.co/community/2019/05/24/community-metrics</id><content type="html" xml:base="https://devre.co/community/2019/05/24/community-metrics.html">&lt;p&gt;The larger an event becomes, the more satisfying and larger the sense of accomplishment for those on the operations side. When you are able to say that you have assembled 200, or 300 people for a single event, the sight of all those people gathered in one place is surely impactful, and most likely spectacular as well. However, if you were to ask if that would absolutely be a good thing, that is not necessarily always the case. The most important thing to the developer community is passion, even more than the number of people. The number of persons and the level of passion exist in relative relation to one another, and in the case of smaller numbers of people, you end up with situations where people with a high level of passion are mingling with those with a low level of heat.&lt;/p&gt;
+</style>]]></content><author><name>moongift</name></author><category term="Event" /><category term="Techbook Fest" /><summary type="html"><![CDATA[The 6th Techbook Fest is coterie event for people who would like to write their own technical books. We went to it as DevRel Meetup in Tokyo. This is our second time going to the event, after going to the 5th Techbook Fest last year. We would like to do a reflection and sum up on this experience.]]></summary></entry><entry><title type="html">the number of people at an event that can sustain the level of passion of the developer community</title><link href="https://devre.co/community/2019/05/24/community-metrics.html" rel="alternate" type="text/html" title="the number of people at an event that can sustain the level of passion of the developer community" /><published>2019-05-24T09:00:00+09:00</published><updated>2019-05-24T09:00:00+09:00</updated><id>https://devre.co/community/2019/05/24/community-metrics</id><content type="html" xml:base="https://devre.co/community/2019/05/24/community-metrics.html"><![CDATA[<p>The larger an event becomes, the more satisfying and larger the sense of accomplishment for those on the operations side. When you are able to say that you have assembled 200, or 300 people for a single event, the sight of all those people gathered in one place is surely impactful, and most likely spectacular as well. However, if you were to ask if that would absolutely be a good thing, that is not necessarily always the case. The most important thing to the developer community is passion, even more than the number of people. The number of persons and the level of passion exist in relative relation to one another, and in the case of smaller numbers of people, you end up with situations where people with a high level of passion are mingling with those with a low level of heat.</p>
 
-&lt;h2 id=&quot;a-sense-of-distance&quot;&gt;A sense of distance&lt;/h2&gt;
+<h2 id="a-sense-of-distance">A sense of distance</h2>
 
-&lt;p&gt;First of all, the distance between those on the operations side and the participants will grow. This is due to, first, a physical distance owing to the expansive size of a venue, and secondly, a psychological distance that one will sense, unable to truly feel that they a part of this community, due to the large number of people present. When only a select number of highly passionate persons and people from the operations side are excitedly enjoying themselves, those persons participating for the first time, or perhaps are not yet fully acclimated, will find themselves on the outside looking in. It is in this situation that we see an overwhelming difference in the disparate levels of passion. In particular, situations in which only a select number of persons are excitedly enjoying themselves tend to generate a sense of insularity, leading those on the outside to feel that they are “not allowed to enter the circle,” or that they are “unwelcome to join.”&lt;/p&gt;
+<p>First of all, the distance between those on the operations side and the participants will grow. This is due to, first, a physical distance owing to the expansive size of a venue, and secondly, a psychological distance that one will sense, unable to truly feel that they a part of this community, due to the large number of people present. When only a select number of highly passionate persons and people from the operations side are excitedly enjoying themselves, those persons participating for the first time, or perhaps are not yet fully acclimated, will find themselves on the outside looking in. It is in this situation that we see an overwhelming difference in the disparate levels of passion. In particular, situations in which only a select number of persons are excitedly enjoying themselves tend to generate a sense of insularity, leading those on the outside to feel that they are “not allowed to enter the circle,” or that they are “unwelcome to join.”</p>
 
-&lt;h2 id=&quot;communication-with-the-outside&quot;&gt;Communication with the outside&lt;/h2&gt;
+<h2 id="communication-with-the-outside">Communication with the outside</h2>
 
-&lt;p&gt;Many developers are not adept at communication. It is the role of the operators and highly passionate persons to follow-up and provide support, so that such people do not feel uncomfortable or awkward. However, when there are a large number of participants, and people begin to feel increasingly uncomfortable, there will not be enough persons to provide such follow-up and support. As a result, increasingly more people will start to feel disinterested.&lt;/p&gt;
+<p>Many developers are not adept at communication. It is the role of the operators and highly passionate persons to follow-up and provide support, so that such people do not feel uncomfortable or awkward. However, when there are a large number of participants, and people begin to feel increasingly uncomfortable, there will not be enough persons to provide such follow-up and support. As a result, increasingly more people will start to feel disinterested.</p>
 
-&lt;h2 id=&quot;an-increase-in-people-who-dont-understand-the-framework&quot;&gt;An increase in people who don’t understand the framework&lt;/h2&gt;
+<h2 id="an-increase-in-people-who-dont-understand-the-framework">An increase in people who don’t understand the framework</h2>
 
-&lt;p&gt;If the event is not very large, then it means that there will be a relative increase in new participants. As a result, there will be an increase in people who will not be aware of how past events have been conducted, or their content. Normally, current participants should provide follow-up and support to such new participants. But with a larger number of new participants, such procedures will become difficult to perform. It will then become necessary to communicate, from the beginning, the thematic concept of the community, how it operates, and how participants can enjoy its benefits, each and every time. If the participants do not understand these fundamental concepts, there will be the risk that some of the participants may conduct themselves in ways that deviate from the community’s ideals, and even cause trouble or discomfort for other participants.&lt;/p&gt;
+<p>If the event is not very large, then it means that there will be a relative increase in new participants. As a result, there will be an increase in people who will not be aware of how past events have been conducted, or their content. Normally, current participants should provide follow-up and support to such new participants. But with a larger number of new participants, such procedures will become difficult to perform. It will then become necessary to communicate, from the beginning, the thematic concept of the community, how it operates, and how participants can enjoy its benefits, each and every time. If the participants do not understand these fundamental concepts, there will be the risk that some of the participants may conduct themselves in ways that deviate from the community’s ideals, and even cause trouble or discomfort for other participants.</p>
 
-&lt;h2 id=&quot;unable-to-introduce-oneself-to-others&quot;&gt;Unable to introduce oneself to others&lt;/h2&gt;
+<h2 id="unable-to-introduce-oneself-to-others">Unable to introduce oneself to others</h2>
 
-&lt;p&gt;The events in which I am involved necessitate that participants introduce themselves before the event begins. Even if it’s only for 10 seconds (per person), it is what we do. Although some comment whether introductions are effective even if they are so short, I believe that if given 30 seconds, and someone just blabbers on and bores everyone, or just passes their turn to the next person because they have nothing to say, then I feel that 10 to 15 seconds is adequate. By introducing themselves, that person recognizes and acknowledges him or herself, as well as the people around them.&lt;/p&gt;
+<p>The events in which I am involved necessitate that participants introduce themselves before the event begins. Even if it’s only for 10 seconds (per person), it is what we do. Although some comment whether introductions are effective even if they are so short, I believe that if given 30 seconds, and someone just blabbers on and bores everyone, or just passes their turn to the next person because they have nothing to say, then I feel that 10 to 15 seconds is adequate. By introducing themselves, that person recognizes and acknowledges him or herself, as well as the people around them.</p>
 
-&lt;p&gt;When the number of people increases, it becomes difficult to recognize even the persons sitting next to you. That happens because these people are not members of the community, but merely people who are participating in a study group. When there are too many participants in an event, it becomes a problem when we lose the ability to organize self-introductions.&lt;/p&gt;
+<p>When the number of people increases, it becomes difficult to recognize even the persons sitting next to you. That happens because these people are not members of the community, but merely people who are participating in a study group. When there are too many participants in an event, it becomes a problem when we lose the ability to organize self-introductions.</p>
 
-&lt;h2 id=&quot;50-persons-per-event-maximum-80&quot;&gt;50 persons per event, maximum 80&lt;/h2&gt;
+<h2 id="50-persons-per-event-maximum-80">50 persons per event, maximum 80</h2>
 
-&lt;p&gt;I believe that there should be about 50 persons per event, and a maximum of 80. In the case of 80 persons, allowing 10 seconds per person to have them introduce themselves will take less than 10 minutes (generally, each person will take less than 10 seconds). The ideal number would be about 50 persons, enough so that everyone there can acknowledge and recognize each other.&lt;/p&gt;
+<p>I believe that there should be about 50 persons per event, and a maximum of 80. In the case of 80 persons, allowing 10 seconds per person to have them introduce themselves will take less than 10 minutes (generally, each person will take less than 10 seconds). The ideal number would be about 50 persons, enough so that everyone there can acknowledge and recognize each other.</p>
 
-&lt;h2 id=&quot;if-the-number-of-participants-was-to-increase&quot;&gt;If the number of participants was to increase…&lt;/h2&gt;
+<h2 id="if-the-number-of-participants-was-to-increase">If the number of participants was to increase…</h2>
 
-&lt;p&gt;When expectations toward the community increase, with a surge in the number of participants, it is said that this offers a chance to turn this opportunity into a break-out session. It would be advantageous to divide up by region, or perhaps by theme. We recommend archiving the content of the study group, or perhaps getting people to understand better through output such as a blog. Even in a city like Tokyo, there is the possibility of subdividing into towns such as Shinjuku, or Ueno, or even Shimbashi.&lt;/p&gt;
+<p>When expectations toward the community increase, with a surge in the number of participants, it is said that this offers a chance to turn this opportunity into a break-out session. It would be advantageous to divide up by region, or perhaps by theme. We recommend archiving the content of the study group, or perhaps getting people to understand better through output such as a blog. Even in a city like Tokyo, there is the possibility of subdividing into towns such as Shinjuku, or Ueno, or even Shimbashi.</p>
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<h2 id="summary">Summary</h2>
 
-&lt;p&gt;The reason we desire larger numbers of people is perhaps a desire for approval from those on the operations side. However, what we need to prioritize are the “participation rate,” the “levels of satisfaction,” the “sustainability rate,” and “output level” with regard to an event. If we can form break-out sessions, we can also increase the number of events. Having an event with 300 participants sounds great, but you need to be careful that there is not a decrease in the level of passion, which can lead to the sense of a hollowed-out, empty atmosphere.&lt;/p&gt;
+<p>The reason we desire larger numbers of people is perhaps a desire for approval from those on the operations side. However, what we need to prioritize are the “participation rate,” the “levels of satisfaction,” the “sustainability rate,” and “output level” with regard to an event. If we can form break-out sessions, we can also increase the number of events. Having an event with 300 participants sounds great, but you need to be careful that there is not a decrease in the level of passion, which can lead to the sense of a hollowed-out, empty atmosphere.</p>
 
-&lt;h2 id=&quot;at-moongift-we-are-in-the-business-of-growing-communities&quot;&gt;At MOONGIFT, we are in the business of growing communities&lt;/h2&gt;
+<h2 id="at-moongift-we-are-in-the-business-of-growing-communities">At MOONGIFT, we are in the business of growing communities</h2>
 
-&lt;p&gt;At MOONGIFT, we provide support for growing developer communities. We can serve as your company’s community manager, to grow your developer community. Our goal is to eventually help your community run autonomously, and operate independently. We invite anyone who is thinking of starting a community, or is having issues with their existing community, to &lt;a href=&quot;/contact&quot;&gt;please inquire with us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">The larger an event becomes, the more satisfying and larger the sense of accomplishment for those on the operations side. When you are able to say that you have assembled 200, or 300 people for a single event, the sight of all those people gathered in one place is surely impactful, and most likely spectacular as well. However, if you were to ask if that would absolutely be a good thing, that is not necessarily always the case. The most important thing to the developer community is passion, even more than the number of people. The number of persons and the level of passion exist in relative relation to one another, and in the case of smaller numbers of people, you end up with situations where people with a high level of passion are mingling with those with a low level of heat.</summary></entry><entry><title type="html">Outsourcing Evangelists/Advocates</title><link href="https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing.html" rel="alternate" type="text/html" title="Outsourcing Evangelists/Advocates" /><published>2019-05-23T09:00:00+09:00</published><updated>2019-05-23T09:00:00+09:00</updated><id>https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing</id><content type="html" xml:base="https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing.html">&lt;p&gt;MOONGIFT has been in the business of outsourcing for DevRel, including the outsourcing of evangelists, since 2014. Over the past five years, an increasing number of companies have come to employ evangelists and advocates (hereinafter referred to simply as “evangelists”) as full-time staff, which is really exciting. Meanwhile, there are some areas of concern. Thinking in terms of such concerns, this article will present the advantages of the option of outsourcing evangelists.&lt;/p&gt;
+<p>At MOONGIFT, we provide support for growing developer communities. We can serve as your company’s community manager, to grow your developer community. Our goal is to eventually help your community run autonomously, and operate independently. We invite anyone who is thinking of starting a community, or is having issues with their existing community, to <a href="/contact">please inquire with us</a>.</p>]]></content><author><name>moongift</name></author><category term="community" /><summary type="html"><![CDATA[The larger an event becomes, the more satisfying and larger the sense of accomplishment for those on the operations side. When you are able to say that you have assembled 200, or 300 people for a single event, the sight of all those people gathered in one place is surely impactful, and most likely spectacular as well. However, if you were to ask if that would absolutely be a good thing, that is not necessarily always the case. The most important thing to the developer community is passion, even more than the number of people. The number of persons and the level of passion exist in relative relation to one another, and in the case of smaller numbers of people, you end up with situations where people with a high level of passion are mingling with those with a low level of heat.]]></summary></entry><entry><title type="html">Outsourcing Evangelists/Advocates</title><link href="https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing.html" rel="alternate" type="text/html" title="Outsourcing Evangelists/Advocates" /><published>2019-05-23T09:00:00+09:00</published><updated>2019-05-23T09:00:00+09:00</updated><id>https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing</id><content type="html" xml:base="https://devre.co/devrel/evangelist/advocate/2019/05/23/oursourcing.html"><![CDATA[<p>MOONGIFT has been in the business of outsourcing for DevRel, including the outsourcing of evangelists, since 2014. Over the past five years, an increasing number of companies have come to employ evangelists and advocates (hereinafter referred to simply as “evangelists”) as full-time staff, which is really exciting. Meanwhile, there are some areas of concern. Thinking in terms of such concerns, this article will present the advantages of the option of outsourcing evangelists.</p>
 
-&lt;h2 id=&quot;evangelists-are-very-familiar-with-the-grass-being-greener&quot;&gt;Evangelists are very familiar with the grass being greener&lt;/h2&gt;
+<h2 id="evangelists-are-very-familiar-with-the-grass-being-greener">Evangelists are very familiar with the grass being greener</h2>
 
-&lt;p&gt;Evangelists often participate in the community and speak at events outside the company. These situations naturally present many opportunities to learn about the technologies and new services of other companies, together with the initiatives that are being taken within those companies. A great number of evangelists are headhunted as a result.&lt;/p&gt;
+<p>Evangelists often participate in the community and speak at events outside the company. These situations naturally present many opportunities to learn about the technologies and new services of other companies, together with the initiatives that are being taken within those companies. A great number of evangelists are headhunted as a result.</p>
 
-&lt;p&gt;The point here is that other company’s services looks better than those of the evangelist’s own company. Naturally, the grass in the other company looks nice and green, although the evangelist may find the situation to be different after taking up their new position. When an evangelist cannot see growth, and when he or she feels some sense of dissatisfaction or blockage vis-a-vis his or her current work situation, the option of changing jobs starts to look attractive.&lt;/p&gt;
+<p>The point here is that other company’s services looks better than those of the evangelist’s own company. Naturally, the grass in the other company looks nice and green, although the evangelist may find the situation to be different after taking up their new position. When an evangelist cannot see growth, and when he or she feels some sense of dissatisfaction or blockage vis-a-vis his or her current work situation, the option of changing jobs starts to look attractive.</p>
 
-&lt;p&gt;Old-fashioned companies that do not permit participation in the community are viewed as problematic, but in the case of evangelists, the main part of their job is actually participating in the community. This being the case, there is probably no helping the fact that they will come into contact with appealing services or that they will be headhunted.&lt;/p&gt;
+<p>Old-fashioned companies that do not permit participation in the community are viewed as problematic, but in the case of evangelists, the main part of their job is actually participating in the community. This being the case, there is probably no helping the fact that they will come into contact with appealing services or that they will be headhunted.</p>
 
-&lt;h2 id=&quot;not-appraised-properly&quot;&gt;Not appraised properly&lt;/h2&gt;
+<h2 id="not-appraised-properly">Not appraised properly</h2>
 
-&lt;p&gt;Many evangelists working for services in Japan entertain doubts about their performance evaluations. Career evangelists who belong to the company are often selected from its talented developers. If, in addition to their skills as developers, they also have strong presentation and communication skills, it is not surprising for them to want to be appraised (and compensated) in accordance with their talents.&lt;/p&gt;
+<p>Many evangelists working for services in Japan entertain doubts about their performance evaluations. Career evangelists who belong to the company are often selected from its talented developers. If, in addition to their skills as developers, they also have strong presentation and communication skills, it is not surprising for them to want to be appraised (and compensated) in accordance with their talents.</p>
 
-&lt;p&gt;The standardization of the personnel system in Japanese companies, however, makes it impossible to be flexible about making changes to reflect the abilities of the person in question. As a result, many evangelists are poached by foreign-owned enterprises or seek new jobs. The GAFA problem that is experienced by engineers also occurs among evangelists.&lt;/p&gt;
+<p>The standardization of the personnel system in Japanese companies, however, makes it impossible to be flexible about making changes to reflect the abilities of the person in question. As a result, many evangelists are poached by foreign-owned enterprises or seek new jobs. The GAFA problem that is experienced by engineers also occurs among evangelists.</p>
 
-&lt;p&gt;This problem could be solved by creating a system whereby salary is determined according to the employee’s work ability rather than his or her seniority, even in Japanese companies. However, the innovation of human resources and salary systems is a problem relating to the entire workforce, not only evangelists, making it difficult to implement quickly or easily.&lt;/p&gt;
+<p>This problem could be solved by creating a system whereby salary is determined according to the employee’s work ability rather than his or her seniority, even in Japanese companies. However, the innovation of human resources and salary systems is a problem relating to the entire workforce, not only evangelists, making it difficult to implement quickly or easily.</p>
 
-&lt;h2 id=&quot;unable-to-appraise-correctly&quot;&gt;Unable to appraise correctly&lt;/h2&gt;
+<h2 id="unable-to-appraise-correctly">Unable to appraise correctly</h2>
 
-&lt;p&gt;Looking at the problem from the alternative perspective of the company, we can see that it is difficult for companies to properly appraise the work that evangelists do. As evangelism is a very new type of work, companies have no idea about the criteria that should be used for positive or negative evaluation. While appraisals should be quantitative, they seem likely to be established without any basis, even with regards the target figures.&lt;/p&gt;
+<p>Looking at the problem from the alternative perspective of the company, we can see that it is difficult for companies to properly appraise the work that evangelists do. As evangelism is a very new type of work, companies have no idea about the criteria that should be used for positive or negative evaluation. While appraisals should be quantitative, they seem likely to be established without any basis, even with regards the target figures.</p>
 
-&lt;p&gt;One also often hears the following problem: while management understands the importance of DevRel, middle management often does not. Particularly if it is the immediate supervisor who does not understand, appraisals are likely to be severe. Motivation gets stripped away as a result.&lt;/p&gt;
+<p>One also often hears the following problem: while management understands the importance of DevRel, middle management often does not. Particularly if it is the immediate supervisor who does not understand, appraisals are likely to be severe. Motivation gets stripped away as a result.</p>
 
-&lt;p&gt;This problem is a troublesome one that is also found in the personnel system of Japanese companies. Sales has an indicator that is easy to perceive: turnover. Developers and back office staff do their work with performance indicators that remain vague, with running costs being the main measurement. This makes in impossible to create appraisals correctly, with measurements and evaluations.&lt;/p&gt;
+<p>This problem is a troublesome one that is also found in the personnel system of Japanese companies. Sales has an indicator that is easy to perceive: turnover. Developers and back office staff do their work with performance indicators that remain vague, with running costs being the main measurement. This makes in impossible to create appraisals correctly, with measurements and evaluations.</p>
 
-&lt;h2 id=&quot;combining-with-other-work-is-a-bad-move&quot;&gt;Combining with other work is a bad move&lt;/h2&gt;
+<h2 id="combining-with-other-work-is-a-bad-move">Combining with other work is a bad move</h2>
 
-&lt;p&gt;Evangelists tend to be highly paid. If they do not have enough work to commit 100%, then they are generally asked to combine evangelism with other work—often with development work. This is the worst thing to do, because the objectives of development and evangelism are entirely different.&lt;/p&gt;
+<p>Evangelists tend to be highly paid. If they do not have enough work to commit 100%, then they are generally asked to combine evangelism with other work—often with development work. This is the worst thing to do, because the objectives of development and evangelism are entirely different.</p>
 
-&lt;p&gt;Developers can work quietly without leaving the office. Evangelists, on the other hand, must be proactive about getting out of the office and speaking to people. Developers develop applications at the product level while evangelists operate at the level of showing things as demos, and are often committed to things being open source. The quality of the source code that they write is different.&lt;/p&gt;
+<p>Developers can work quietly without leaving the office. Evangelists, on the other hand, must be proactive about getting out of the office and speaking to people. Developers develop applications at the product level while evangelists operate at the level of showing things as demos, and are often committed to things being open source. The quality of the source code that they write is different.</p>
 
-&lt;p&gt;In many cases, development leaders and managers act concurrently as evangelists when services are first released. But the most intense point of the project soon arrives and they end up involved in the work of development. When the service is released, they finally remember their work as evangelists. Registration for many events, however, must be completed one month in advance. When such evangelists speak at an event, the content of their talk needs to be further accelerated forward. If releases were always problem-free, this would pose no problem, but if the project goes a little off course, this tends to result in a less-than-perfect presentation.&lt;/p&gt;
+<p>In many cases, development leaders and managers act concurrently as evangelists when services are first released. But the most intense point of the project soon arrives and they end up involved in the work of development. When the service is released, they finally remember their work as evangelists. Registration for many events, however, must be completed one month in advance. When such evangelists speak at an event, the content of their talk needs to be further accelerated forward. If releases were always problem-free, this would pose no problem, but if the project goes a little off course, this tends to result in a less-than-perfect presentation.</p>
 
-&lt;p&gt;If an evangelist’s work is uneven as a result, he or she will be judged as being more productive by concentrating on development. Being an excellent developer, development productivity will, quite naturally, increase, but the work of marketing (which is originally a different role) will come to a halt. If the company truly wants to do DevRel, these roles and company departments should be kept completely separate.&lt;/p&gt;
+<p>If an evangelist’s work is uneven as a result, he or she will be judged as being more productive by concentrating on development. Being an excellent developer, development productivity will, quite naturally, increase, but the work of marketing (which is originally a different role) will come to a halt. If the company truly wants to do DevRel, these roles and company departments should be kept completely separate.</p>
 
-&lt;h2 id=&quot;preventing-evangelist-turnover&quot;&gt;Preventing evangelist turnover&lt;/h2&gt;
+<h2 id="preventing-evangelist-turnover">Preventing evangelist turnover</h2>
 
-&lt;p&gt;So how does a company create an environment to ensure that its evangelists will not quit their jobs?  The first issue to address is salary. Other companies will try to get your evangelists without incurring education costs. Foreign-owned companies will try to get them by offering over double, while Japanese companies will try to do so by raising their salary by a significant percentage. To prevent this from happening, the company should first review the situation in terms of remuneration. Considering what would happen if your evangelist were to be taken by another company—the amount of time that it would take to train up a new evangelist and the length of time that such marketing activities would come to a standstill—it would most likely be cheaper to increase what you are offering your evangelist and the problem of headhunting.&lt;/p&gt;
+<p>So how does a company create an environment to ensure that its evangelists will not quit their jobs?  The first issue to address is salary. Other companies will try to get your evangelists without incurring education costs. Foreign-owned companies will try to get them by offering over double, while Japanese companies will try to do so by raising their salary by a significant percentage. To prevent this from happening, the company should first review the situation in terms of remuneration. Considering what would happen if your evangelist were to be taken by another company—the amount of time that it would take to train up a new evangelist and the length of time that such marketing activities would come to a standstill—it would most likely be cheaper to increase what you are offering your evangelist and the problem of headhunting.</p>
 
-&lt;p&gt;The next factor is how appealing your service is. When the grass looks greener in other companies, the key factor is probably the service, rather than salary. When the service is developed and really appealing, it is only natural that someone would want to act as an evangelist for it. You need to make your service such that it is always appealing and your evangelist is its biggest fan.&lt;/p&gt;
+<p>The next factor is how appealing your service is. When the grass looks greener in other companies, the key factor is probably the service, rather than salary. When the service is developed and really appealing, it is only natural that someone would want to act as an evangelist for it. You need to make your service such that it is always appealing and your evangelist is its biggest fan.</p>
 
-&lt;p&gt;The final element is the understanding of the people in the company who associate with the evangelist. Your evangelist is frequently out of the office and often taking part in events, so he or she will sometimes be viewed by colleagues as fooling around and having fun. There is also a tendency for evangelists to become estranged from colleagues in terms of communication, or to feel lonely when in the office. To nip these kinds of problems in the bud, one must build a system that fosters evaluations and understanding from everyone including superiors, executives, and colleagues.&lt;/p&gt;
+<p>The final element is the understanding of the people in the company who associate with the evangelist. Your evangelist is frequently out of the office and often taking part in events, so he or she will sometimes be viewed by colleagues as fooling around and having fun. There is also a tendency for evangelists to become estranged from colleagues in terms of communication, or to feel lonely when in the office. To nip these kinds of problems in the bud, one must build a system that fosters evaluations and understanding from everyone including superiors, executives, and colleagues.</p>
 
-&lt;h2 id=&quot;the-outsourcing-route&quot;&gt;The outsourcing route&lt;/h2&gt;
+<h2 id="the-outsourcing-route">The outsourcing route</h2>
 
-&lt;p&gt;In the context of these kinds of problems, we would like to recommend outsourcing evangelists. When outsourcing is used as a solution, you will be able to enjoy an ongoing service, so long as your contract with each other is still valid. An evangelist who has been outsourced will not suddenly quit the job like an employee. Also, in contrast to in-house people who are acting as evangelists for the very first time, you will be working with someone who is a professional evangelist from the outset. Being able to buy this kind of know-how with money is also one of the advantages of outsourcing evangelists.&lt;/p&gt;
+<p>In the context of these kinds of problems, we would like to recommend outsourcing evangelists. When outsourcing is used as a solution, you will be able to enjoy an ongoing service, so long as your contract with each other is still valid. An evangelist who has been outsourced will not suddenly quit the job like an employee. Also, in contrast to in-house people who are acting as evangelists for the very first time, you will be working with someone who is a professional evangelist from the outset. Being able to buy this kind of know-how with money is also one of the advantages of outsourcing evangelists.</p>
 
-&lt;p&gt;Outsourcing an evangelist is not the same as contracting development, so one of the advantages that this offers is that the roles are completely separate. You can engage in DevRel without a loss of productivity in your development team.&lt;/p&gt;
+<p>Outsourcing an evangelist is not the same as contracting development, so one of the advantages that this offers is that the roles are completely separate. You can engage in DevRel without a loss of productivity in your development team.</p>
 
-&lt;h2 id=&quot;moongift-supports-your-devrel-by-outsourcing&quot;&gt;MOONGIFT supports your DevRel by outsourcing&lt;/h2&gt;
+<h2 id="moongift-supports-your-devrel-by-outsourcing">MOONGIFT supports your DevRel by outsourcing</h2>
 
-&lt;p&gt;MOONGIFT provides evangelists who will work for your company. Our evangelists will work to expand the services that you offer, be it giving presentations at events, blog writing, or social support. If you have ever experienced problems not being able to find an evangelist, not being able to appraise them skillfully, or having them quit on you, we invite you to &lt;a href=&quot;/contact&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">MOONGIFT has been in the business of outsourcing for DevRel, including the outsourcing of evangelists, since 2014. Over the past five years, an increasing number of companies have come to employ evangelists and advocates (hereinafter referred to simply as “evangelists”) as full-time staff, which is really exciting. Meanwhile, there are some areas of concern. Thinking in terms of such concerns, this article will present the advantages of the option of outsourcing evangelists.</summary></entry><entry><title type="html">Large-scale DevRel Event Types and Objectives</title><link href="https://devre.co/event/2019/05/20/devrel-event.html" rel="alternate" type="text/html" title="Large-scale DevRel Event Types and Objectives" /><published>2019-05-20T19:00:00+09:00</published><updated>2019-05-20T19:00:00+09:00</updated><id>https://devre.co/event/2019/05/20/devrel-event</id><content type="html" xml:base="https://devre.co/event/2019/05/20/devrel-event.html">&lt;p&gt;It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.&lt;/p&gt;
+<p>MOONGIFT provides evangelists who will work for your company. Our evangelists will work to expand the services that you offer, be it giving presentations at events, blog writing, or social support. If you have ever experienced problems not being able to find an evangelist, not being able to appraise them skillfully, or having them quit on you, we invite you to <a href="/contact">contact us</a>.</p>]]></content><author><name>moongift</name></author><category term="DevRel" /><category term="Evangelist" /><category term="Advocate" /><summary type="html"><![CDATA[MOONGIFT has been in the business of outsourcing for DevRel, including the outsourcing of evangelists, since 2014. Over the past five years, an increasing number of companies have come to employ evangelists and advocates (hereinafter referred to simply as “evangelists”) as full-time staff, which is really exciting. Meanwhile, there are some areas of concern. Thinking in terms of such concerns, this article will present the advantages of the option of outsourcing evangelists.]]></summary></entry><entry><title type="html">Large-scale DevRel Event Types and Objectives</title><link href="https://devre.co/event/2019/05/20/devrel-event.html" rel="alternate" type="text/html" title="Large-scale DevRel Event Types and Objectives" /><published>2019-05-20T19:00:00+09:00</published><updated>2019-05-20T19:00:00+09:00</updated><id>https://devre.co/event/2019/05/20/devrel-event</id><content type="html" xml:base="https://devre.co/event/2019/05/20/devrel-event.html"><![CDATA[<p>It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.</p>
 
-&lt;p&gt;As a different viewpoint, there are also events concerning specific technologies. For user-driven events, there are various events such as RubyKaigi, PyCon, try! Swift, and Android Bazaar and Conference. The company can still take the lead in hosting the event despite it concerning specific technologies. Well-known examples are ad:tech Tokyo, CloudNative Days, and Developers Summit.&lt;/p&gt;
+<p>As a different viewpoint, there are also events concerning specific technologies. For user-driven events, there are various events such as RubyKaigi, PyCon, try! Swift, and Android Bazaar and Conference. The company can still take the lead in hosting the event despite it concerning specific technologies. Well-known examples are ad:tech Tokyo, CloudNative Days, and Developers Summit.</p>
 
-&lt;p&gt;&lt;img src=&quot;/images/articles/event-pattern.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<p><img src="/images/articles/event-pattern.png" alt="" /></p>
 
-&lt;p&gt;This time, we’ll explain the characteristics of each of these four patterns.&lt;/p&gt;
+<p>This time, we’ll explain the characteristics of each of these four patterns.</p>
 
-&lt;h2 id=&quot;company-services-x-company-held-events&quot;&gt;Company Services x Company-held Events&lt;/h2&gt;
+<h2 id="company-services-x-company-held-events">Company Services x Company-held Events</h2>
 
-&lt;p&gt;An event concerning the services of one’s company, organized and held with the company’s initiative. The speaker is an expert in a specific technology and calls out some of the users to stand on stage. Listed below are some well-known examples of this.&lt;/p&gt;
+<p>An event concerning the services of one’s company, organized and held with the company’s initiative. The speaker is an expert in a specific technology and calls out some of the users to stand on stage. Listed below are some well-known examples of this.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc19/&quot;&gt;WWDC&lt;/a&gt;（Apple）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://events.google.com/io/&quot;&gt;Google I/O&lt;/a&gt;（Google）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.f8.com/&quot;&gt;F8&lt;/a&gt;（Facebook）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://githubuniverse.com/&quot;&gt;GitHub Universe&lt;/a&gt;（GitHub）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/ja-jp/events/decode/2019/default.aspx&quot;&gt;de:code&lt;/a&gt;（Microsoft）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.discovery2019.soracom.jp/&quot;&gt;SORACOM Conference Discovery&lt;/a&gt;（SORACOM）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/build&quot;&gt;Microsoft Build&lt;/a&gt;（Microsoft）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/summits/tokyo-2019/&quot;&gt;AWS Summit Tokyo&lt;/a&gt;（AWS）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://linedevday.linecorp.com/jp/2018/&quot;&gt;LINE DEVELOPER DAY&lt;/a&gt;（LINE）&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><a href="https://developer.apple.com/wwdc19/">WWDC</a>（Apple）</li>
+  <li><a href="https://events.google.com/io/">Google I/O</a>（Google）</li>
+  <li><a href="https://www.f8.com/">F8</a>（Facebook）</li>
+  <li><a href="https://githubuniverse.com/">GitHub Universe</a>（GitHub）</li>
+  <li><a href="https://www.microsoft.com/ja-jp/events/decode/2019/default.aspx">de:code</a>（Microsoft）</li>
+  <li><a href="https://www.discovery2019.soracom.jp/">SORACOM Conference Discovery</a>（SORACOM）</li>
+  <li><a href="https://www.microsoft.com/en-us/build">Microsoft Build</a>（Microsoft）</li>
+  <li><a href="https://aws.amazon.com/jp/summits/tokyo-2019/">AWS Summit Tokyo</a>（AWS）</li>
+  <li><a href="https://linedevday.linecorp.com/jp/2018/">LINE DEVELOPER DAY</a>（LINE）</li>
+</ul>
 
-&lt;p&gt;There are also small events, but when it comes to opening your own company’s event, it can range to all sorts of scales (hundreds-thousands). While there are times when it’s only done by one’s own company, there are also many cases when it’s partner-centric, gathering supporting companies.&lt;/p&gt;
+<p>There are also small events, but when it comes to opening your own company’s event, it can range to all sorts of scales (hundreds-thousands). While there are times when it’s only done by one’s own company, there are also many cases when it’s partner-centric, gathering supporting companies.</p>
 
-&lt;p&gt;Your event’s objective is likely to increase the presence of your company and its services. If it’s a large-scale event, it’s likely to get more exposure to the media and spread across social networks. If it’s a once in a year chance, it can gather participants throughout the country (or the world). It can be enjoyed as a kind of festival.&lt;/p&gt;
+<p>Your event’s objective is likely to increase the presence of your company and its services. If it’s a large-scale event, it’s likely to get more exposure to the media and spread across social networks. If it’s a once in a year chance, it can gather participants throughout the country (or the world). It can be enjoyed as a kind of festival.</p>
 
-&lt;p&gt;Increased loyalty is also tied to the event’s refinement. While talks in regular study sessions are based on the current situation, conferences announce features that will be released in the future. By meeting or exceeding developer expectations, you can reassure them and renew their desire to keep using your services.&lt;/p&gt;
+<p>Increased loyalty is also tied to the event’s refinement. While talks in regular study sessions are based on the current situation, conferences announce features that will be released in the future. By meeting or exceeding developer expectations, you can reassure them and renew their desire to keep using your services.</p>
 
-&lt;h2 id=&quot;company-services-x-user-held-events&quot;&gt;Company Services x User-held Events&lt;/h2&gt;
+<h2 id="company-services-x-user-held-events">Company Services x User-held Events</h2>
 
-&lt;p&gt;An event organized by the users (community). As a community, we believe that it’s likely one of the things we should aim for. Even though it’s for your company’s services, you’re not involved with the management, so if you don’t have much heat going on, the event probably wouldn’t be successful and many wouldn’t think of holding one.&lt;/p&gt;
+<p>An event organized by the users (community). As a community, we believe that it’s likely one of the things we should aim for. Even though it’s for your company’s services, you’re not involved with the management, so if you don’t have much heat going on, the event probably wouldn’t be successful and many wouldn’t think of holding one.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jawsdays2019.jaws-ug.jp/&quot;&gt;JAWS DAYS&lt;/a&gt;（AWS）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://backlog.com/ja/backlog-world/&quot;&gt;Backlog World&lt;/a&gt;（Backlog）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://connect2019.jpstripes.com/&quot;&gt;JP_Stripes Connect&lt;/a&gt;（Stripe）&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://mtddc2018.mt-tokyo.net/&quot;&gt;MTDDC Meetup TOKYO&lt;/a&gt;（Movable Type）&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><a href="https://jawsdays2019.jaws-ug.jp/">JAWS DAYS</a>（AWS）</li>
+  <li><a href="https://backlog.com/ja/backlog-world/">Backlog World</a>（Backlog）</li>
+  <li><a href="https://connect2019.jpstripes.com/">JP_Stripes Connect</a>（Stripe）</li>
+  <li><a href="http://mtddc2018.mt-tokyo.net/">MTDDC Meetup TOKYO</a>（Movable Type）</li>
+</ul>
 
-&lt;p&gt;Since it’s user-driven, its main goal is likely for fellow users to have fun and communicate with each other. At a conference, the chairperson is usually the most fired up, but also the one shouldering the heaviest burden, which can lead to burnout. It can lead to a good cycle, but can also slow you down if you don’t start looking for the next leader.&lt;/p&gt;
+<p>Since it’s user-driven, its main goal is likely for fellow users to have fun and communicate with each other. At a conference, the chairperson is usually the most fired up, but also the one shouldering the heaviest burden, which can lead to burnout. It can lead to a good cycle, but can also slow you down if you don’t start looking for the next leader.</p>
 
-&lt;h2 id=&quot;specific-technology-x-company-held-events&quot;&gt;Specific Technology x Company-held Events&lt;/h2&gt;
+<h2 id="specific-technology-x-company-held-events">Specific Technology x Company-held Events</h2>
 
-&lt;p&gt;It’s an event held by a specific company’s initiative focusing on specific technologies. Its advantages are that you can easily control the frequency and size of the event and gather customers attracted to the technological trends.&lt;/p&gt;
+<p>It’s an event held by a specific company’s initiative focusing on specific technologies. Its advantages are that you can easily control the frequency and size of the event and gather customers attracted to the technological trends.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://adtech-tokyo.com/ja/&quot;&gt;ad:tech Tokyo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://cloudnativedays.jp/&quot;&gt;CloudNative Days&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://event.shoeisha.jp/devsumi&quot;&gt;Developers Summit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ledge.ai/the-ai-2018/&quot;&gt;THE AI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apithedocs.org/&quot;&gt;API the Docs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><a href="http://adtech-tokyo.com/ja/">ad:tech Tokyo</a></li>
+  <li><a href="https://cloudnativedays.jp/">CloudNative Days</a></li>
+  <li><a href="https://event.shoeisha.jp/devsumi">Developers Summit</a></li>
+  <li><a href="https://ledge.ai/the-ai-2018/">THE AI</a></li>
+  <li><a href="https://apithedocs.org/">API the Docs</a></li>
+</ul>
 
-&lt;p&gt;In this case, the major problem is where to put your company’s presence. If you highlight it too much, it can be seen as a commercial event. This kind of event should be held with emphasis on being technically neutral. However, being too neutral may lead to your company and its products being left unknown despite the event becoming famous. Your competitors might end up being the ones getting sponsored instead, robbing you of your due.&lt;/p&gt;
+<p>In this case, the major problem is where to put your company’s presence. If you highlight it too much, it can be seen as a commercial event. This kind of event should be held with emphasis on being technically neutral. However, being too neutral may lead to your company and its products being left unknown despite the event becoming famous. Your competitors might end up being the ones getting sponsored instead, robbing you of your due.</p>
 
-&lt;h2 id=&quot;specific-technology-x-user-held-events&quot;&gt;Specific Technology x User-held Events&lt;/h2&gt;
+<h2 id="specific-technology-x-user-held-events">Specific Technology x User-held Events</h2>
 
-&lt;p&gt;This is what is called a community sponsored developer event. Examples of this event are too many to mention.&lt;/p&gt;
+<p>This is what is called a community sponsored developer event. Examples of this event are too many to mention.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2019&quot;&gt;RubyKaigi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pycon.jp/2018/&quot;&gt;PyCon JP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tryswift.co/events/2019/tokyo/jp/&quot;&gt;try! Swift&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://builderscon.io/&quot;&gt;builderscon&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://abc.android-group.jp/&quot;&gt;Android Bazaar and Conference&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/&quot;&gt;DroidKaigi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://iosdc.jp/&quot;&gt;iOSDC Japan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li><a href="https://rubykaigi.org/2019">RubyKaigi</a></li>
+  <li><a href="https://pycon.jp/2018/">PyCon JP</a></li>
+  <li><a href="https://www.tryswift.co/events/2019/tokyo/jp/">try! Swift</a></li>
+  <li><a href="https://builderscon.io/">builderscon</a></li>
+  <li><a href="https://abc.android-group.jp/">Android Bazaar and Conference</a></li>
+  <li><a href="https://droidkaigi.jp/">DroidKaigi</a></li>
+  <li><a href="https://iosdc.jp/">iOSDC Japan</a></li>
+</ul>
 
-&lt;p&gt;A community event with the developer community as its base, organized with their passion. In many cases, it’s done for each programming language, but it can also be for software and frameworks such as React Conf and SeleniumConf. In that sense, many communities held by connpass and Doorkeeper can be the target for conferences and large-scale events.&lt;/p&gt;
+<p>A community event with the developer community as its base, organized with their passion. In many cases, it’s done for each programming language, but it can also be for software and frameworks such as React Conf and SeleniumConf. In that sense, many communities held by connpass and Doorkeeper can be the target for conferences and large-scale events.</p>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+<h2 id="conclusion">Conclusion</h2>
 
-&lt;p&gt;Holding a large-scale event can be a daunting task. If it’s company-based, the person in charge can do it as part of their job. The budget is also allocated by the company, with the event being carried out within that range. For user-held events, they can’t be held if there’s no heat going on with your products or services.&lt;/p&gt;
+<p>Holding a large-scale event can be a daunting task. If it’s company-based, the person in charge can do it as part of their job. The budget is also allocated by the company, with the event being carried out within that range. For user-held events, they can’t be held if there’s no heat going on with your products or services.</p>
 
-&lt;p&gt;MOONGIFT attends to training involving event hosting and developer communities. We respond to various needs, such as wanting to raise a developer community which can host large-scale events, and wanting to properly conduct company-held events. First of all, &lt;a href=&quot;/contact&quot;&gt;feel free to contact us.&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.</summary></entry><entry><title type="html">The Difference between Public Relations and DevRel</title><link href="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html" rel="alternate" type="text/html" title="The Difference between Public Relations and DevRel" /><published>2019-05-15T09:00:00+09:00</published><updated>2019-05-15T09:00:00+09:00</updated><id>https://devre.co/public%20relations/pr/2019/05/15/pr-devrel</id><content type="html" xml:base="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html">&lt;p&gt;DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.&lt;/p&gt;
+<p>MOONGIFT attends to training involving event hosting and developer communities. We respond to various needs, such as wanting to raise a developer community which can host large-scale events, and wanting to properly conduct company-held events. First of all, <a href="/contact">feel free to contact us.</a>.</p>]]></content><author><name>moongift</name></author><category term="Event" /><summary type="html"><![CDATA[It’s possible to classify events into several types. First, there are in-house events. Famous examples are Build, de:code, and AWS Summit. Of course, the event’s scale doesn’t have to be that large. Also, it may be user-driven even though named as a company service event like well-known examples such as JAWS DAYS and Backlog World.]]></summary></entry><entry><title type="html">The Difference between Public Relations and DevRel</title><link href="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html" rel="alternate" type="text/html" title="The Difference between Public Relations and DevRel" /><published>2019-05-15T09:00:00+09:00</published><updated>2019-05-15T09:00:00+09:00</updated><id>https://devre.co/public%20relations/pr/2019/05/15/pr-devrel</id><content type="html" xml:base="https://devre.co/public%20relations/pr/2019/05/15/pr-devrel.html"><![CDATA[<p>DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.</p>
 
-&lt;p&gt;Public Relations can be thought of as a corporation and also a member of society, playing the role of satisfying stakeholders from all directions. Suppose that a project for building a mall in a regional city was launched. It will undoubtedly arouse opposition from the locals. The roads would probably become congested. Things would likely get noisier in that once quiet place, and there’s also the possibility of logging down the forests, making it a life-and-death problem for the small shopping district. It’s the role of Public Relations to give explanations to those who would become stockholders, take in their feedback, and find common ground. For example, they could design a parking route to prevent traffic jams, arrange for security guards, or help maintain the park.&lt;/p&gt;
+<p>Public Relations can be thought of as a corporation and also a member of society, playing the role of satisfying stakeholders from all directions. Suppose that a project for building a mall in a regional city was launched. It will undoubtedly arouse opposition from the locals. The roads would probably become congested. Things would likely get noisier in that once quiet place, and there’s also the possibility of logging down the forests, making it a life-and-death problem for the small shopping district. It’s the role of Public Relations to give explanations to those who would become stockholders, take in their feedback, and find common ground. For example, they could design a parking route to prevent traffic jams, arrange for security guards, or help maintain the park.</p>
 
-&lt;p&gt;Doing these activities is the role of Public Relations. Developer Relations, or DevRel, is its developer version. DevRel regards developers as stakeholders, and utilizes their feedback and shared information in service development, shouldering both the role of publicity and consulting.&lt;/p&gt;
+<p>Doing these activities is the role of Public Relations. Developer Relations, or DevRel, is its developer version. DevRel regards developers as stakeholders, and utilizes their feedback and shared information in service development, shouldering both the role of publicity and consulting.</p>
 
-&lt;p&gt;Those in charge of Public Relations do not force their company’s opinions but instead take on the role of properly taking in the opinions of the general public and conveying them to the management. When being affiliated with a company, there’s a tendency of thinking the company’s rules to be common sense. To avoid that, it’s important to establish yourself as the company’s conscience. Even in DevRel, the people involved (especially the Evangelist Advocate) must strive to be technically neutral, rather than being fixated on their company’s products.&lt;/p&gt;
+<p>Those in charge of Public Relations do not force their company’s opinions but instead take on the role of properly taking in the opinions of the general public and conveying them to the management. When being affiliated with a company, there’s a tendency of thinking the company’s rules to be common sense. To avoid that, it’s important to establish yourself as the company’s conscience. Even in DevRel, the people involved (especially the Evangelist Advocate) must strive to be technically neutral, rather than being fixated on their company’s products.</p>
 
-&lt;h2 id=&quot;building-trust&quot;&gt;Building Trust&lt;/h2&gt;
+<h2 id="building-trust">Building Trust</h2>
 
-&lt;p&gt;Many outside developers probably come to the Evangelist Advocate for consultations. During such times, many usually feel that they can manufacture their own products but doing so isn’t the best option. During such cases, it’s possible to get more users by promoting your in-house manufactured products. However, as it’s not the best option, there may be a lot of questions, or tricky techniques required, which may result in loss of trust from the developer. If you’re recommending products from other companies, you won’t get to increase your product’s users but can build developer trust. Doing so, you’re probably going to get some questions again the next time you encounter a similar situation. In DevRel, one should focus on building mid-long term trust rather than short term user increase/decrease.&lt;/p&gt;
+<p>Many outside developers probably come to the Evangelist Advocate for consultations. During such times, many usually feel that they can manufacture their own products but doing so isn’t the best option. During such cases, it’s possible to get more users by promoting your in-house manufactured products. However, as it’s not the best option, there may be a lot of questions, or tricky techniques required, which may result in loss of trust from the developer. If you’re recommending products from other companies, you won’t get to increase your product’s users but can build developer trust. Doing so, you’re probably going to get some questions again the next time you encounter a similar situation. In DevRel, one should focus on building mid-long term trust rather than short term user increase/decrease.</p>
 
-&lt;p&gt;There’s a tendency of moving toward near-sighted goals due to marketing policies, but even if the number of users increases in the short run, the limits are immediately visible. It’s said that the top priority of &lt;a href=&quot;https://logmi.jp/business/articles/32512&quot;&gt;AirBnB is to satisfy the first 100 users&lt;/a&gt;. It’s the same for DevRel. First of all, one must solve the user’s problems and dissatisfaction, and build trust between them. Those satisfied users will then bring along other users. Creating that cycle will likely lead to your service’s success.&lt;/p&gt;
+<p>There’s a tendency of moving toward near-sighted goals due to marketing policies, but even if the number of users increases in the short run, the limits are immediately visible. It’s said that the top priority of <a href="https://logmi.jp/business/articles/32512">AirBnB is to satisfy the first 100 users</a>. It’s the same for DevRel. First of all, one must solve the user’s problems and dissatisfaction, and build trust between them. Those satisfied users will then bring along other users. Creating that cycle will likely lead to your service’s success.</p>
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+<h2 id="conclusion">Conclusion</h2>
 
-&lt;p&gt;Although Public Relations and DevRel have different target groups, their goal remains the same. One must place importance not only on publicity, but also hear out the target group, take in their feedback, and achieve one’s company’s goals. Please don’t forget to take in these viewpoints.&lt;/p&gt;
+<p>Although Public Relations and DevRel have different target groups, their goal remains the same. One must place importance not only on publicity, but also hear out the target group, take in their feedback, and achieve one’s company’s goals. Please don’t forget to take in these viewpoints.</p>
 
-&lt;p&gt;MOONGIFT accepts DevRel support. We undertake work such as acting as an agent for the Evangelist Advocate, blog writing, and document management in order to spread your services. If you have any issues regarding DevRel, &lt;a href=&quot;/contact&quot;&gt;please contact us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.</summary></entry><entry><title type="html">The three values that classify DevRel’s initiatives</title><link href="https://devre.co/devrel/2019/05/14/devrel-value.html" rel="alternate" type="text/html" title="The three values that classify DevRel's initiatives" /><published>2019-05-14T09:00:00+09:00</published><updated>2019-05-14T09:00:00+09:00</updated><id>https://devre.co/devrel/2019/05/14/devrel-value</id><content type="html" xml:base="https://devre.co/devrel/2019/05/14/devrel-value.html">&lt;p&gt;If DevRel is looked at as a “marketing method to spread products and services targeting developers,” one might think that it cannot be used if such services are not being made. However, DevRel is something that forms good and continuous relations with developers, so it is an initiative that has a large range and can be used more.&lt;/p&gt;
+<p>MOONGIFT accepts DevRel support. We undertake work such as acting as an agent for the Evangelist Advocate, blog writing, and document management in order to spread your services. If you have any issues regarding DevRel, <a href="/contact">please contact us</a>.</p>]]></content><author><name>moongift</name></author><category term="Public Relations" /><category term="PR" /><summary type="html"><![CDATA[DevRel is an abbreviation of Developer Relations, which can be described as the developer version of Public Relations. So what exactly is Public Relations? In Japan, it means publicity. Many usually understand publicity as work where one broadcasts oneself. However, Public Relations, in addition to publicity, also has the role of hearing out the public. In a sense, publicity alone omits that role.]]></summary></entry><entry><title type="html">The three values that classify DevRel’s initiatives</title><link href="https://devre.co/devrel/2019/05/14/devrel-value.html" rel="alternate" type="text/html" title="The three values that classify DevRel’s initiatives" /><published>2019-05-14T09:00:00+09:00</published><updated>2019-05-14T09:00:00+09:00</updated><id>https://devre.co/devrel/2019/05/14/devrel-value</id><content type="html" xml:base="https://devre.co/devrel/2019/05/14/devrel-value.html"><![CDATA[<p>If DevRel is looked at as a “marketing method to spread products and services targeting developers,” one might think that it cannot be used if such services are not being made. However, DevRel is something that forms good and continuous relations with developers, so it is an initiative that has a large range and can be used more.</p>
 
-&lt;p&gt;I will now look at DevRel from three different perspectives and consider those values.&lt;/p&gt;
+<p>I will now look at DevRel from three different perspectives and consider those values.</p>
 
-&lt;h2 id=&quot;direct-revenue-type&quot;&gt;Direct revenue type&lt;/h2&gt;
+<h2 id="direct-revenue-type">Direct revenue type</h2>
 
-&lt;p&gt;Having in-house manufactured products and services be used leads to the profit of the company. For example, this applies to IaaS vendors such as AWS and GCP and SaaS vendors such as Stripe and Auth0. This is also true if API is provided for a fee. In this case, if developers are employed through DevRel, this will lead directly to an increase in revenue, it will be easier to compute the intiative as a cost. In this case, if there is a DevRel team under the marketing department, it will be easier for them to act after a budgetary allocation.&lt;/p&gt;
+<p>Having in-house manufactured products and services be used leads to the profit of the company. For example, this applies to IaaS vendors such as AWS and GCP and SaaS vendors such as Stripe and Auth0. This is also true if API is provided for a fee. In this case, if developers are employed through DevRel, this will lead directly to an increase in revenue, it will be easier to compute the intiative as a cost. In this case, if there is a DevRel team under the marketing department, it will be easier for them to act after a budgetary allocation.</p>
 
-&lt;p&gt;In the case of a direct revenue type, DevRel’s values can be looked at with a focus on number of users, number of inquiries, number of API calls, rate of activity, number of cases, and so on. Hands-on activities are effective in increasing the number of users, and to increase the number of cases, policies such as hackathons are easy to initiate.&lt;/p&gt;
+<p>In the case of a direct revenue type, DevRel’s values can be looked at with a focus on number of users, number of inquiries, number of API calls, rate of activity, number of cases, and so on. Hands-on activities are effective in increasing the number of users, and to increase the number of cases, policies such as hackathons are easy to initiate.</p>
 
-&lt;p&gt;In any case, it is easy for the direct revenue type to conduct DevRel and it is also a form that has many advantages.&lt;/p&gt;
+<p>In any case, it is easy for the direct revenue type to conduct DevRel and it is also a form that has many advantages.</p>
 
-&lt;h2 id=&quot;indirect-revenue-type&quot;&gt;Indirect revenue type&lt;/h2&gt;
+<h2 id="indirect-revenue-type">Indirect revenue type</h2>
 
-&lt;p&gt;This is a case in which the source of revenue of the main service is elsewhere and API is provided to assist and increase awareness of it. For example, this applies to restaurant service APIs, APIs provided with social significance, and so on. As for use in business, there are many cases in which agreement is obtained by consultation, and there are not many examples that are connected to actual cases. In this case, for DevRel, it is often the case that the purpose is to increase developers’ awareness of it, so it is more advantageous for the DevRel team to be in the development department. It is likely that feedback from developers can smoothly permeate the company and events and so on can also be conducted from the developers’ perspective.&lt;/p&gt;
+<p>This is a case in which the source of revenue of the main service is elsewhere and API is provided to assist and increase awareness of it. For example, this applies to restaurant service APIs, APIs provided with social significance, and so on. As for use in business, there are many cases in which agreement is obtained by consultation, and there are not many examples that are connected to actual cases. In this case, for DevRel, it is often the case that the purpose is to increase developers’ awareness of it, so it is more advantageous for the DevRel team to be in the development department. It is likely that feedback from developers can smoothly permeate the company and events and so on can also be conducted from the developers’ perspective.</p>
 
-&lt;p&gt;In the case of the indirect revenue type, as revenue is not the aim, there is the problem of not being able to establish goals. Just increasing the number of users does not result in revenue, and on the contrary, this just leads to an increase in the burden on the server, leading to a cost increase. The same applies for the number of API calls. If the main service does not target developers, increasing developers’ awareness of it does not lead to an increase in revenue, making it difficult to implement the policy.&lt;/p&gt;
+<p>In the case of the indirect revenue type, as revenue is not the aim, there is the problem of not being able to establish goals. Just increasing the number of users does not result in revenue, and on the contrary, this just leads to an increase in the burden on the server, leading to a cost increase. The same applies for the number of API calls. If the main service does not target developers, increasing developers’ awareness of it does not lead to an increase in revenue, making it difficult to implement the policy.</p>
 
-&lt;p&gt;It is not good to neglect publicized APIs just because it is not related to revenue. It is likely that the credibility of the main service will be doubted due to unexpected security holes and old and neglected documents. If publicizing an API, it would likely be good to limit it to something that makes dogfooding possible (originally, it should be the other way around, and we should publicize what we use).&lt;/p&gt;
+<p>It is not good to neglect publicized APIs just because it is not related to revenue. It is likely that the credibility of the main service will be doubted due to unexpected security holes and old and neglected documents. If publicizing an API, it would likely be good to limit it to something that makes dogfooding possible (originally, it should be the other way around, and we should publicize what we use).</p>
 
-&lt;p&gt;Possibilities for indirect revenue types arise when there is talk of tie-ups between corporations. WIth an API, the development when tying up services can be conducted smoothly. WIthout an API, an API will have to be developed according to the needs of the company with which the tie-up is being conducted for the first time. As a result, it might be an API that cannot be used for tie-ups with other corporations. ALso, if an API is not publicized, it might not be considered for tie-ups in the first place.&lt;/p&gt;
+<p>Possibilities for indirect revenue types arise when there is talk of tie-ups between corporations. WIth an API, the development when tying up services can be conducted smoothly. WIthout an API, an API will have to be developed according to the needs of the company with which the tie-up is being conducted for the first time. As a result, it might be an API that cannot be used for tie-ups with other corporations. ALso, if an API is not publicized, it might not be considered for tie-ups in the first place.</p>
 
-&lt;h2 id=&quot;branding-type&quot;&gt;Branding type&lt;/h2&gt;
+<h2 id="branding-type">Branding type</h2>
 
-&lt;p&gt;Last is for branding purposes. In this case, publicity of human resources will take the initiative. In the case of branding as well, it would likely be better for the DevRel team to be in the development team. By continuing on-site development, new topics can constantly be provided. Good examples include Cookpad and Class Method (although they probably are not in the forms of DevRel teams). Their aims are likely company branding and an increase in the employment of developers.&lt;/p&gt;
+<p>Last is for branding purposes. In this case, publicity of human resources will take the initiative. In the case of branding as well, it would likely be better for the DevRel team to be in the development team. By continuing on-site development, new topics can constantly be provided. Good examples include Cookpad and Class Method (although they probably are not in the forms of DevRel teams). Their aims are likely company branding and an increase in the employment of developers.</p>
 
-&lt;p&gt;For example, having engineering blogs, setting up booths at conferences, and so on are carried out as policies. On the contrary, it is likely that user communities are difficult to establish. It is also common for communities to be established with the development language that the company considers itself most skilled in as the theme. It is difficult to quantify branding, but the number of employment entries can be counted quantitatively, so it is a policy that is easy to implement.&lt;/p&gt;
+<p>For example, having engineering blogs, setting up booths at conferences, and so on are carried out as policies. On the contrary, it is likely that user communities are difficult to establish. It is also common for communities to be established with the development language that the company considers itself most skilled in as the theme. It is difficult to quantify branding, but the number of employment entries can be counted quantitatively, so it is a policy that is easy to implement.</p>
 
-&lt;p&gt;Other than branding, it is likely that even direct revenue types and indirect revenue types have these goals. Nonetheless, multiple messages will make it difficult to have an effect on the target group, so caution must be exercised.&lt;/p&gt;
+<p>Other than branding, it is likely that even direct revenue types and indirect revenue types have these goals. Nonetheless, multiple messages will make it difficult to have an effect on the target group, so caution must be exercised.</p>
 
-&lt;h2 id=&quot;the-challenges-of-the-indirect-revenue-type&quot;&gt;The challenges of the indirect revenue type&lt;/h2&gt;
+<h2 id="the-challenges-of-the-indirect-revenue-type">The challenges of the indirect revenue type</h2>
 
-&lt;p&gt;The problems are likely DevRel’s initiative and continuity with regards to indirect revenue types. When there was a large buzz regarding Web2.0 around 2004, many corporations provided APIs, but many of them only distributed information and were unable to generate content. These APIs are still being provided, but they have been all but abandoned. That being said, an increase in users does not necessarily result in revenue, so there is likely no need to intentionally provide support. If architecture undergoes large changes in the future, the API might be closed suddenly. It is a common mistake to think that it is sufficient to just prepare a period of notice, but to developers, this is likely the ultimate inconvenience.&lt;/p&gt;
+<p>The problems are likely DevRel’s initiative and continuity with regards to indirect revenue types. When there was a large buzz regarding Web2.0 around 2004, many corporations provided APIs, but many of them only distributed information and were unable to generate content. These APIs are still being provided, but they have been all but abandoned. That being said, an increase in users does not necessarily result in revenue, so there is likely no need to intentionally provide support. If architecture undergoes large changes in the future, the API might be closed suddenly. It is a common mistake to think that it is sufficient to just prepare a period of notice, but to developers, this is likely the ultimate inconvenience.</p>
 
-&lt;p&gt;Google Maps API used to be free, but has been made to be paid. It can be said that developers saw this as collateral for continuity and Google was able to switch from a cost to profit department. There is also a free section so in many cases, there is not much influence, but I think that the move to charging a fee is a good one. In particular, Google has a bad habit of immediately closing down its services, so making it paid has made it unable to end at a moment’s notice in the sense of SLA as well.&lt;/p&gt;
+<p>Google Maps API used to be free, but has been made to be paid. It can be said that developers saw this as collateral for continuity and Google was able to switch from a cost to profit department. There is also a free section so in many cases, there is not much influence, but I think that the move to charging a fee is a good one. In particular, Google has a bad habit of immediately closing down its services, so making it paid has made it unable to end at a moment’s notice in the sense of SLA as well.</p>
 
-&lt;p&gt;Similarly, if providing functions to developers as an indirect revenue type, there should be consideration as to whether to make it profitable or support it, or to just stop it entirely. Costs on servers are also cheap, so as a result of leaving it there peacefully, discoveries of security holes and the continued publicization of documents that are not maintained might lead to doubt in the main service.&lt;/p&gt;
+<p>Similarly, if providing functions to developers as an indirect revenue type, there should be consideration as to whether to make it profitable or support it, or to just stop it entirely. Costs on servers are also cheap, so as a result of leaving it there peacefully, discoveries of security holes and the continued publicization of documents that are not maintained might lead to doubt in the main service.</p>
 
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+<h2 id="summary">Summary</h2>
 
-&lt;p&gt;DevRel is a marketing policy, so it should be initiated after properly deciding on a goal. Without a goal, it is possible that the management ranks will suddenly ask, “Remind me what are you doing this for?” It must be shown that it is an activity that presents proper cost advantages and has value in continuing.&lt;/p&gt;
+<p>DevRel is a marketing policy, so it should be initiated after properly deciding on a goal. Without a goal, it is possible that the management ranks will suddenly ask, “Remind me what are you doing this for?” It must be shown that it is an activity that presents proper cost advantages and has value in continuing.</p>
 
-&lt;p&gt;At MOONGIFT, we provide support for all aspects of DevRel. Please &lt;a href=&quot;/contact&quot;&gt;feel free to contact us&lt;/a&gt; regarding the improvement of direct and indirect revenue types, creating systems for branding types, and so on!&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">If DevRel is looked at as a “marketing method to spread products and services targeting developers,” one might think that it cannot be used if such services are not being made. However, DevRel is something that forms good and continuous relations with developers, so it is an initiative that has a large range and can be used more.</summary></entry><entry><title type="html">Do DevRel teams belong within marketing or development departments?</title><link href="https://devre.co/devrel/marketing/2019/05/09/developement-marketing.html" rel="alternate" type="text/html" title="Do DevRel teams belong within marketing or development departments?" /><published>2019-05-09T09:00:00+09:00</published><updated>2019-05-09T09:00:00+09:00</updated><id>https://devre.co/devrel/marketing/2019/05/09/developement-marketing</id><content type="html" xml:base="https://devre.co/devrel/marketing/2019/05/09/developement-marketing.html">&lt;p&gt;While DevRel is one sphere of marketing, its nature is of closeness to the developers. There are many actions which would bear no consequence for someone in a different line of work yet are unthinkable for someone working with the developers. I often hear stories of those who, failing to understand this, tread unwittingly on the tiger’s tail, to say, causing great despair for the developer.&lt;/p&gt;
-
-&lt;p&gt;And so it is often asked whether DevRel teams belong in marketing or in the development team. In reality, which is the better fit?&lt;/p&gt;
-
-&lt;h2 id=&quot;devrel-within-marketing&quot;&gt;DevRel within marketing&lt;/h2&gt;
-
-&lt;p&gt;DevRel is a marketing activity, so the simplest answer would be that, yes, this is where it belongs. This is most likely the reality in most cases.&lt;/p&gt;
-
-&lt;h3 id=&quot;merits&quot;&gt;Merits&lt;/h3&gt;
-
-&lt;p&gt;A merit is that the team can work towards goals shared with the marketing team. Their task is to propagate the company’s products and services, and it is important to share in this. They can undertake activities in tune with marketing objectives such as user acquisition and improving activity rates.&lt;/p&gt;
-
-&lt;p&gt;I often hear that when an evangelist or advocate has a background in developing, they are called upon for help during the height of development. By being part of the marketing team, they are able to avoid tasks that deviate from their main purpose thanks to the physical distance between them and development. Not doing so would mean that the busyness of development may lead to them being unable to fulfill their evangelist duties.&lt;/p&gt;
-
-&lt;p&gt;They say that marketing does not have the largest budget. Still, the assignment for marketing activities it is most likely larger than what is assigned to the development team.&lt;/p&gt;
-
-&lt;h3 id=&quot;demerits&quot;&gt;Demerits&lt;/h3&gt;
-
-&lt;p&gt;Among the evangelists and advocates with a background as a developer, many of them feel stress when they are away from the development site. A fair few will often return to the development site after a brief intermission for their evangelist activities. Being away from the development site would make it difficult to accumulate practical techniques used on site, even with the latest technological advances. Evangelists and advocates are therefore said to be peddling their skills.&lt;/p&gt;
-
-&lt;p&gt;Moreover, there are some who say they struggle to adjust to the marketing atmosphere. Although “technical” in that results manifest as numbers, for a developer, there are many times when the way those numbers are produced is too chancy. When numbers are the objective, the quality can be neglected. It is not rare for someone with a developers perspective to feel stress in such methods.&lt;/p&gt;
-
-&lt;h2 id=&quot;devrel-within-development&quot;&gt;DevRel within development&lt;/h2&gt;
-
-&lt;p&gt;So what if DevRel was in a development team? While the opposite can be said to the marketing case as stated above, there are a few merits and demerits.&lt;/p&gt;
-
-&lt;h3 id=&quot;merits-1&quot;&gt;Merits&lt;/h3&gt;
-
-&lt;p&gt;The biggest merit would be being in close proximity to the development site. With easier access to the company technology they would be able to be aware of version upgrades and changes straight away. It would be easy to grasp the development schedule and understand future developments.&lt;/p&gt;
-
-&lt;p&gt;User feedback could be easily communicated to the developing team—a privilege existing only through closeness. A marketing team would have to go through the process of first compiling the information before sharing it with the development team. In addition, as development prioritizes the development team itself, there is the problem that requests from marketing may not always find their destination easily.&lt;/p&gt;
-
-&lt;h3 id=&quot;demerits-1&quot;&gt;Demerits&lt;/h3&gt;
-
-&lt;p&gt;The greatest demerit would be that the development schedule may wreak havoc on the evangelist’s activities. In a development team, the evangelist is not a specialized role but often has multiple responsibilities as a lead engineer or a CTO, for example. If the development schedule enters a not-so-busy period, there is always the chance it may pick up at anytime. Presentations are scheduled at least a month in advance, so it is not exactly the case they can leap into a presentation whenever their hands are free. While they are in the midst of preparations, they could be hit with fresh waves of development work.&lt;/p&gt;
-
-&lt;p&gt;Next, there is the issue of budget. Development teams tend not to allocate much to DevRel. It is usually enough to purchase development tools and products for improving production, but not enough for business trips and other novelties. Therefore, we tend to see a system where planning is undertaken in marketing only for the presentation to be handled by the evangelist. In this case, reconciling development and presentation schedules is often a problem.&lt;/p&gt;
-
-&lt;h2 id=&quot;where-is-the-best-place-to-be&quot;&gt;Where is the best place to be?&lt;/h2&gt;
-
-&lt;p&gt;The author recommends the following (In order of best to worst).&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;A department existing in-between development and marketing.&lt;/li&gt;
-  &lt;li&gt;The marketing department&lt;/li&gt;
-  &lt;li&gt;The development department&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;If we have to pick between marketing and development, I would say it should be marketing. DevRel’s objectives are based more in marketing, and it would be difficult to get results even if it were in the development department. If the development department has a marketing function, it can no longer be said to be a development department.&lt;/p&gt;
-
-&lt;p&gt;But to say the answer is marketing only, would be a misleading statement. I think that, if possible, it would best for DevRel to exist in-between marketing and development, fulfilling an intermediary role, or to belong to the marketing department while having presence in the development department too.&lt;/p&gt;
-
-&lt;p&gt;Evangelists and advocates need to have fluency in both marketing and development. They should bridge with not only external developers but also internal marketing and development.&lt;/p&gt;
-
-&lt;h2 id=&quot;moongift-works-to-develop-communities&quot;&gt;MOONGIFT works to develop communities&lt;/h2&gt;
-
-&lt;p&gt;MOONGIFT can provide evangelist and advocate services. We can also support your DevRel organization and planning operations. If you are starting DevRel, having problems with an existing system, or want to get better results, &lt;a href=&quot;/contact&quot;&gt;please by all means get in touch with us&lt;/a&gt;.&lt;/p&gt;</content><author><name>moongift</name></author><summary type="html">While DevRel is one sphere of marketing, its nature is of closeness to the developers. There are many actions which would bear no consequence for someone in a different line of work yet are unthinkable for someone working with the developers. I often hear stories of those who, failing to understand this, tread unwittingly on the tiger’s tail, to say, causing great despair for the developer.</summary></entry></feed>
+<p>At MOONGIFT, we provide support for all aspects of DevRel. Please <a href="/contact">feel free to contact us</a> regarding the improvement of direct and indirect revenue types, creating systems for branding types, and so on!</p>]]></content><author><name>moongift</name></author><category term="DevRel" /><summary type="html"><![CDATA[If DevRel is looked at as a “marketing method to spread products and services targeting developers,” one might think that it cannot be used if such services are not being made. However, DevRel is something that forms good and continuous relations with developers, so it is an initiative that has a large range and can be used more.]]></summary></entry></feed>
